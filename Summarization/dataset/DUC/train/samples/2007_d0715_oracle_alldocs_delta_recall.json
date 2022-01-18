@@ -1,0 +1,66 @@
+{
+    "id": "2007_d0715_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0715",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "40th nation ratified",
+            1
+        ],
+        [
+            "several major countries",
+            1
+        ],
+        [
+            "mine treaty ratified",
+            1
+        ],
+        [
+            "ottawa .",
+            1
+        ],
+        [
+            "100 countries",
+            1
+        ],
+        [
+            "global land mine",
+            1
+        ],
+        [
+            "international organization admitted",
+            1
+        ],
+        [
+            "refused to ratify",
+            1
+        ],
+        [
+            "recent flareups",
+            1
+        ],
+        [
+            "mine action service",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The treaty _ the Convention on the Prohibition of the Use , Stockpiling , Production and Transfer of Anti-Personnel Mines and on Their Destruction _ went into effect March 1 , 1999 , six months after the 40th nation ratified it , but it has little force .",
+                "What 's more , despite the campaign 's publicity , several major countries still refuse to adopt the treaty , including the United States , Russia and China , mostof the nations in the Middle East and many in Asia .",
+                "With a land mine treaty ratified in record time , they want every nation to sign it and the millions of land mines that continue to kill , maim and sow terror around the world removed .",
+                "Last December , the International Campaign to Ban Landmines , and its American coordinator , Jody Williams , won the Nobel Peace Prize for its six years of worldwide campaigning that resulted in 122 countries signing the treaty in Ottawa .",
+                "JOHANNESBURG , December 2 ( Xinhua ) -- South Africa is to join more than 100 countries in Canada this week to sign a treaty banning the use or possession of anti-personnel mines .",
+                "AMMAN , Jordan ( AP ) _ Jordan signed a global land mine treaty Saturday , joining 127 other countries that have endorsed the pact , which prohibits the use , production and stockpiling of the weapon .",
+                "Though the international organization admitted that Angola does not produce or export land mines , it said they have found , in Angola , about 60 kinds of anti-personnel land mines imported from over 10 countries .",
+                "The United States has refused to ratify the treaty , arguing that such weapons are needed on the Korean peninsula to deter an invasion by North Korea of South Korea .",
+                "Their use has been reported in the recent flareups between India and Pakistan and between Eritrea and Ethiopia , as well as in civil wars in Turkey , Colombia , Congo , Sri Lanka and Afghanistan .",
+                "Mary Fowler , the deputy chief of the U.N. 's Mine Action Service in New York , noted that the countries that have signed on to a ban have destroyed 14 million mines that had been stockpiled when the treaty was written two years ago ."
+            ],
+            "score": 0.5674031385375254,
+            "len": 390
+        }
+    ]
+}

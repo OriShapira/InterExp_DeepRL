@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0609_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0609",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "accelerated settlement activity",
+            1
+        ],
+        [
+            "main cities",
+            1
+        ],
+        [
+            "peace group peace",
+            1
+        ],
+        [
+            "clinton administration today",
+            1
+        ],
+        [
+            "israeli group opposed",
+            1
+        ],
+        [
+            "u.n. general assembly",
+            1
+        ],
+        [
+            "israeli-palestinian peace talks",
+            1
+        ],
+        [
+            "israeli foreign ministry",
+            1
+        ],
+        [
+            "four settlements near",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The accelerated settlement activity in the last three years was seen as an attempt by the settlers to grab as much as land before Israel and the Palestinians entered the final status talks , in which the thorniest issues including the fate of settlements will be dealt with .",
+                "Palestinians , infuriated by Netanyahu 's pledge of more Jewish settlements , complain that the Jewish settlements have broken up the territories between their main cities and diminished their chances of establishing an independent state in the West Bank and Gaza Strip .",
+                "JERUSALEM , August 13 ( Xinhua ) -- Disputing the government 's defense of its expansion of Jewish settlements , the Israeli peace group Peace Now revealed in a survey Thursday that a large number of housing units in settlements are vacant .",
+                "WASHINGTON , April 4 ( Xinhua ) -- The Clinton administration today expressed concerns over a new Israeli plan to expand the existing Jewish settlement on the West Bank and near Jerusalem , indicating such a move will further erode confidence between the Israelis and Palestinians .",
+                "Peace Now , an Israeli group opposed to the government 's settlement policy , visited all but two of Israel 's 144 settlements in the West Bank and Gaza on Wednesday and counted 5,892 units under construction .",
+                "That meeting , called by the U.N. General Assembly , is to urge Switzerland to enforce a ban on settlement activities in the Israeli-occupied territories as a violation of the Fourth Geneva Convention .",
+                "Settlement expansion is one of the most sensitive disputes in the Israeli-Palestinian peace talks , which have been stalled since March 1997 when Israel broke ground for the Har Homa settlement in the disputed Arab East Jerusalem .",
+                "JERUSALEM , May 13 ( Xinhua ) -- Israeli Foreign Ministry protested on Wednesday against the European Union 's decision to boycott settlement products from Israel by imposing heavy customs duties .",
+                "They were angry with Barak for approving the construction of 2,600 new housing units this week in four settlements near Jerusalem , saying the settlement expansion could prevent the start of the final status talks and destroy the peace process ."
+            ],
+            "score": 0.6426860436065551,
+            "len": 365
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "2006_d0627_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0627",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "anxiety among prospective",
+            1
+        ],
+        [
+            "ambitious effort ever",
+            1
+        ],
+        [
+            "relaxed restrictions",
+            1
+        ],
+        [
+            "100,000 adopted koreans",
+            1
+        ],
+        [
+            "adoption comprises two",
+            1
+        ],
+        [
+            "us ratification also",
+            1
+        ],
+        [
+            "countries whose physical",
+            1
+        ],
+        [
+            "important immediate result",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The anxiety among prospective parents -- and among adoption practitioners throughout the United States -- stems from a series of new laws in Russia that promise to radically alter adoption practices within that country and , as a result , possibly change the face of international adoption .",
+                "The treaty , called the Hague Convention on Intercountry Adoptions , is considered by adoption professionals and politicians active on the issue to be the most ambitious effort ever attempted to reform adoption , streamline the process , and weed out corruption worldwide .",
+                "A draft of the Adoption Law has relaxed restrictions in many aspects for Chinese and foreigners who apply for adoptions , according to a member of the National People 's Congress ( NPC ) Standing Committee , Wan Shaofen , who was debating the draft .",
+                "While nowadays , more children are adopted each year from Russia and China , South Korea 's system remains the model for international adoptions , and there are more than 100,000 adopted Koreans in the United States .",
+                "It is almost as though the universe of adoption comprises two worlds _ one filled with couples looking for a healthy infant to make them a family , and the other with older children in foster care looking for parents _ whose orbits rarely connect .",
+                "Delahunt said that partly because this country takes in about 80 percent of the world 's adoptees , US ratification also would serve as a global model and would apply pressure even on nations not under the treaty to raise their standards and improve their treatment of children .",
+                "So while the overall increase in the number of children adopted has been subtle , the increase in visibility has been dramatic , enhanced by those children adopted from other countries whose physical differences from their parents make their adoption an obvious fact .",
+                "The most important immediate result , according to nearly everyone interviewed , is that nations with concerns about American adoption practices _ most pointedly Russia and Romania , which have recently halted the adoption of their children _ will be reassured about the US commitment to reform ."
+            ],
+            "score": 0.5403252785884493,
+            "len": 363
+        }
+    ]
+}

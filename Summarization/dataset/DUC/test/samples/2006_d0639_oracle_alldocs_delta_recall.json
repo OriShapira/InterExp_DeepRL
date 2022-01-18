@@ -1,0 +1,56 @@
+{
+    "id": "2006_d0639_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0639",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "treaty banning chemical",
+            1
+        ],
+        [
+            "clandestinely collected soil",
+            1
+        ],
+        [
+            "would require two",
+            1
+        ],
+        [
+            "united nations denied",
+            1
+        ],
+        [
+            "nuclear weapons programs",
+            1
+        ],
+        [
+            "iraq loaded vx",
+            1
+        ],
+        [
+            "aum shinrikyo cult",
+            1
+        ],
+        [
+            "international agency whose",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Moreover , the newsletter reports , the fate of some 30 tons of CH3POCl2 , a chemical that is restricted by a treaty banning chemical weapons because it can be used to make sarin and other chemical agents , is unknown .",
+                "Al Shifa pharmaceutical plant in Khartoum was attacked by the United States , alleging that its CIA intelligents had clandestinely collected soil samples from the plant site to find that these samples contained traces of Empta , a precursor used in the production of deadly VX nerve gas .",
+                "The sample contained a rare chemical that would require two more complex steps to be turned into VX , one of the deadliest nerve agents in existence , and the chemical , whose acronym is EMPTA , has no industrial uses .",
+                "Also Tuesday , Iraq 's representative at the United Nations denied that his country had been involved in the development or production of chemical weapons in Sudan and said the Iraqi government would welcome an independent investigation of the factory in Khartoum destroyed by the United States .",
+                "Iraq , which has been subject to U.N. inspections of its chemical , biological and nuclear weapons programs since the end of the Gulf war , has acknowledged that it produced VX but could n't use it as a weapon .",
+                "A second round of tests on the missile warheads did not provide further conclusive evidence that Iraq loaded VX on the missiles , although there were signs that Iraq had cleaned the pieces between the initial U.S. tests in April and the tests in June and July .",
+                "It was a year later , after members of the Aum Shinrikyo cult had confessed to the subway attack and also to the separate VX attack , that scientists analyzed a blood sample that had been taken from the VX victim .",
+                "The Organization for the Prohibition of Chemical Weapons is the international agency whose more than 400 enginers and diplomats oversee the inspections of governments and chemical companies around the world to assure they are not making prohibited agents ."
+            ],
+            "score": 0.5407978370972867,
+            "len": 351
+        }
+    ]
+}

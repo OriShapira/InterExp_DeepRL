@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0727_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0727",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "washington courtroom next",
+            1
+        ],
+        [
+            "wife marianne 14",
+            1
+        ],
+        [
+            "divorce case gave",
+            1
+        ],
+        [
+            "washington judge issued",
+            1
+        ],
+        [
+            "divorce july 19",
+            1
+        ],
+        [
+            "house speaker came",
+            1
+        ],
+        [
+            "reached prior",
+            1
+        ],
+        [
+            "months earlier",
+            1
+        ],
+        [
+            "marianne gingrich sit",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "She plans to be in a Washington courtroom next week when attorneys for Bisek , 33 , will try to persuade a judge to toss out Marianne Gingrich 's demand that Bisek answer questions and turn over documents related to her relationship to Newt Gingrich , 56 .",
+                "In a motion filed in Cobb County Superior Court , Gingrich asked a judge to give his wife Marianne 14 days to transfer the money to a joint account the couple agreed to set up last month until their divorce is final .",
+                "On Thursday , accusations of wrongdoing and the mining of dirt in the former U.S. House speaker 's divorce case gave way to a secret settlement between Gingrich and his wife of 18 years , Marianne Gingrich .",
+                "In one of the more significant developments of the day , a Washington judge issued an order that puts Marianne Gingrich , 48 , a step closer to questioning Callista Bisek , 33 , under oath about Bisek 's relationship with Newt Gingrich , 56 .",
+                "Gingrich filed for divorce July 19 , 1999 , six months after resigning the 6th District seat he held in Congress for 20 years , and from the speakership he won in 1994 after leading House Republicans to their first majority in 40 years .",
+                "ATLANTA , Ga. ( AP ) -- Newt Gingrich has asked a judge to settle his divorce by relying on a financial agreement he and his wife worked out during a six-year separation that began when the former House Speaker came back to an empty home .",
+                "The agreement was reached prior to a Thursday hearing that was expected to attract national media , especially after the disclosure of Gingrich 's relationship with a 33-year-old congressional aide , Callista Bisek of Virginia .",
+                "Months earlier , Gingrich had called his wife at her childhood home in Ohio to say he wanted out of the marriage and that he was having an affair with Bisek .",
+                "In pleadings released in Cobb County Superior Court , Gingrich , 56 , is demanding that Marianne Gingrich sit for a videotaped deposition on Oct. 19 _ just as she has demanded a videotaped interrogation of Callista Bisek , a House Agriculture Committee aide ."
+            ],
+            "score": 0.5903482674608708,
+            "len": 380
+        }
+    ]
+}

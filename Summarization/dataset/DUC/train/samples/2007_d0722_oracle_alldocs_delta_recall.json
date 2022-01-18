@@ -1,0 +1,56 @@
+{
+    "id": "2007_d0722_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0722",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "defense system could",
+            1
+        ],
+        [
+            "applaud president clinton",
+            1
+        ],
+        [
+            "january 18",
+            1
+        ],
+        [
+            "general accounting office",
+            1
+        ],
+        [
+            "lower tier navy",
+            1
+        ],
+        [
+            "billion system contemplated",
+            1
+        ],
+        [
+            "strike enemy missiles",
+            1
+        ],
+        [
+            "discuss abm modifications",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "WASHINGTON _ The Pentagon 's proposed national missile defense system could be fooled by simple decoys or other countermeasures easily within the grasp of any nation able to launch a nuclear warhead at the United States , a team of prominent scientists said Tuesday .",
+                "House Republican leaders were to rally on the steps of the Capitol today to applaud President Clinton 's signing of a GOP-sponsored bill committing the United States to a national ballistic missile defense against limited attack , as might be launched by a small nuclear power .",
+                "WASHINGTON , January 18 ( Xinhua ) -- A U.S. prototype missile interceptor streaked into space on Tuesday night in search of a mock warhead launched from an Air Force base in California , but failed to hit the target , the U.S. Defense Department said .",
+                "The General Accounting Office , the auditing arm of Congress , estimates it will cost $ 60 billion if -- as many missile defense proponents urge -- the system is expanded to two interceptor sites , each with 100 interceptors .",
+                "WASHINGTON , February 16 ( Xinhua ) -- The United States will restructure its ballistic missile defense ( BMD ) programs and place its highest priority on developing the next generation of Patriot missile defense system and lower tier Navy anti-missile system , the Pentagon said today .",
+                "The $ 60 billion system contemplated by Clinton risks undoing nuclear weapons cooperation with Moscow and might also compel Beijing to expand and modernize China 's basic deterrent force of about 20 intercontinental ballistic missiles capable of reaching the United States .",
+                "The THAAD is designed to strike enemy missiles fired from at least 800 miles away _ the kinds of weapons nations such as Iran , North Korea and Pakistan are developing , raising the threat to U.S. troops and allies overseas .",
+                "President Boris Yeltsin agreed in June to discuss ABM modifications , but Russian officials continue to insist that an anti-missile defense system in the United States would tilt the strategic balance and start a new arms race ."
+            ],
+            "score": 0.5300208529814322,
+            "len": 350
+        }
+    ]
+}

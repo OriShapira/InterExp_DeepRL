@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0739_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0739",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "stand-up comic named",
+            1
+        ],
+        [
+            "famous tv show",
+            1
+        ],
+        [
+            "recurring seinfeld character",
+            1
+        ],
+        [
+            "sidekicks taking center",
+            1
+        ],
+        [
+            "slight bewilderment",
+            1
+        ],
+        [
+            "almost unreadable signatures",
+            1
+        ],
+        [
+            "legendary beatles producer",
+            1
+        ],
+        [
+            "n't even met",
+            1
+        ],
+        [
+            "production notes jerry",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "He did , after all , play a stand-up comic named Jerry Seinfeld in the series , and in its early years each episode began and ended with sitcom Jerry offering a snippet of his act .",
+                "Two months after laying to rest his famous TV show , comedian Jerry Seinfeld is performing last rites on his old standup routine , preparing for a finale in his hometown , New York City , that will be aired live as an HBO special on Aug. 9 .",
+                "The next , he 's resurrecting his recurring Seinfeld character , a trigger-happy lawyer named Jackie Chiles , to star in an NBC sitcom executive-produced by Jerry Seinfeld and Seinfeld co-creator Larry David .",
+                "The sidekicks taking center stage include Estelle Harris , who played George 's mother ; Wayne Knight , Newman ; Phil Morris , Jackie Chiles ; and Patrick Warburton , Puddy .",
+                "And his look at the end of a joke , which combines a slight bewilderment at the ridiculousness of a situation along with a bit of smug superiority because he 's aware of it , is what endears him to audiences who feel the same way .",
+                "On the first page are Jerry Seinfeld 's loopy but legible autograph , Michael Richards ' hasty-looking flourish and the almost unreadable signatures of Jason Alexander and Julia Louis-Dreyfus .",
+                "The arrangement , written in a hurry by the legendary Beatles producer last year for the tribute to Princess Diana , is expected to fetch about dlrs 100,000 when Sotheby 's holds the sale in New York in December , the auction house said .",
+                "In fact , he has n't even met formally with Seinfeld or David or NBC about a comedy series based on the wacky attorney , last seen as a rather funny punch line in a Honda TV ad .",
+                "PRODUCTION NOTES JERRY SEINFELD I 'm Telling You for the Last Time : Live on Broadway At the Broadhust Theater , 235 West 44th St. , through Sunday ; on HBO , Sunday night at 9 ."
+            ],
+            "score": 0.49483315312462467,
+            "len": 350
+        }
+    ]
+}

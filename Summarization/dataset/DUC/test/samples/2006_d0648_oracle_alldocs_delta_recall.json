@@ -1,0 +1,66 @@
+{
+    "id": "2006_d0648_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0648",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "another factor underlying",
+            1
+        ],
+        [
+            "brain chemical seratonin",
+            1
+        ],
+        [
+            "n't get treatment",
+            1
+        ],
+        [
+            "experimental surgical techniques",
+            1
+        ],
+        [
+            "biological underpinnings",
+            1
+        ],
+        [
+            "common anti-depressant drugs",
+            1
+        ],
+        [
+            "illness includes panic",
+            1
+        ],
+        [
+            "repetitive thoughts",
+            1
+        ],
+        [
+            "seeing family members",
+            1
+        ],
+        [
+            "ocd drugs approved",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Another factor underlying the rise in prescriptions , says Rushton , is the emergence of a new class of drugs called selective serotonin reuptake inhibitors , including Prozac , Zoloft and Paxil , which have fewer , less serious side effects than the previous generation of antidepressants .",
+                "In a study to be published in the November issue of the Archives of General Psychiatry , researchers found that two-thirds of patients with the disorder responded to the drug clomipramine , which blocks the reabsorption of the brain chemical seratonin in cells .",
+                "Experts , including Koplewicz , say that children with mental illness who do n't get treatment are likely to suffer from negative self-esteem and poor relationships with others , and are at a much higher risk of delinquency , occupational problems and suicide later on in life .",
+                "If the theory is correct , it would explain why a experimental surgical techniques involving implanting electrodes in the brain to treat Parkinson 's disease and depression seem to work so well , and it would expand their application to other brain diseases .",
+                "Each anxiety disorder has emotional , psychological and biological underpinnings and can be treated through targeted psychotherapy , medications or a combination of the two .",
+                "Common anti-depressant drugs like Prozac , also used to treat humans with Obsessive Compulsive Disorder ( OCD ) , are sometimes given to bored animals that have OCD-like behavior .",
+                "According to the association , the illness includes panic , obsessive-compulsive , post-traumatic stress , generalized anxiety disorders and phobia such as social phobia .",
+                "Hallmarks of OCD are senseless and repetitive thoughts and behaviors that typically deal with grooming , contamination or danger .",
+                "Theories hold that people who develop anxiety and panic attacks are predisposed to it biologically or environmentally : You might inherit a gene for it _ although none has been identified _ or you may be conditioned for it by seeing family members react to stress with fear .",
+                "The other OCD drugs approved for both age groups are clomipramine , marketed as Anafranil , and fluvoxamine , marketed as Luvox ."
+            ],
+            "score": 0.5945481323570752,
+            "len": 357
+        }
+    ]
+}

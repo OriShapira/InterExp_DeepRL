@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0603_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0603",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "flood control projects",
+            1
+        ],
+        [
+            "wetland protection among",
+            1
+        ],
+        [
+            "wetlands nature reserves",
+            1
+        ],
+        [
+            "inter-governmental treaty launched",
+            1
+        ],
+        [
+            "so-called nationwide permit",
+            1
+        ],
+        [
+            "report environment abuse",
+            1
+        ],
+        [
+            "homes near wetlands",
+            1
+        ],
+        [
+            "areas play important",
+            1
+        ],
+        [
+            "though precise figures",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The Corps , best known as the builder of public works and flood control projects , objected to regulating wetlands when the Clean Water Act passed in 1972 and , in recent years , the agency seldom goes to court because of a violation .",
+                "Xu said his Ministry will launch a drive to enhance the awareness of wetland protection among the public , establish a dynamic monitoring network and information system for China 's wetlands , conduct scientific research in wetland protection as well as proper utilization and management of wetlands resources .",
+                "Speaking at the International Workshop on Wetlands which opened today in this sea-side resort in north China 's Hebei Province , he announced that the program includes the establishment of wetlands nature reserves , protection of species , spreading of scientific findings and training of personnel .",
+                "The convention , an inter-governmental treaty launched at Ramsar , Iran , on February 2 , 1971 , partly aims to the conservation of wetlands as habitats for migratory water birds and enhance international cooperation in the field .",
+                "Environmentalists have sought for years to abolish the so-called nationwide Permit 26 , which applies to development , including home construction and road building , and replace it with individual permits as the Army Corps now is going to do .",
+                "The authorities , in February , 1996 , set up a hot line for the public to report environment abuse and announced that new draining of swamps for economic development is no longer allowed in the country .",
+                "WASHINGTON ( AP ) -- New regulations that will make it harder to build roads or homes near wetlands are set to be issued by the Army Corps of Engineers to curtail destruction of the ecologically sensitive areas .",
+                "These areas play important roles in filtering and cleansing water , in serving as a reservoir for flood water , and in harboring fish and shellfish populations .",
+                "Though precise figures are elusive , wetlands are disappearing at a rate of about 70,000 to 100,000 acres a year , many of them lost to development on small parcels ."
+            ],
+            "score": 0.588665674719343,
+            "len": 357
+        }
+    ]
+}

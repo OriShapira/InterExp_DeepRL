@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0730_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0730",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "1996 line item",
+            1
+        ],
+        [
+            "last month clinton",
+            1
+        ],
+        [
+            "justice department argues",
+            1
+        ],
+        [
+            "new york times",
+            1
+        ],
+        [
+            "1996 line item",
+            1
+        ],
+        [
+            "law took effect",
+            1
+        ],
+        [
+            "would help eliminate",
+            1
+        ],
+        [
+            "high court ruled",
+            1
+        ],
+        [
+            "solicitor general seth",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "In a 6-3 ruling , the court said the 1996 Line Item Veto Act unconstitutionally allows the president , by altering a bill after its passage , to create a law that was not voted on by either house of Congress .",
+                "Last month Clinton for the firs time used the line-item authority , a power that the president can use to veto individual spending items in bills , to delete 38 projects in 24 states worth 287 million U.S. dollars from the fiscal 1998 military construction spending bill .",
+                "In its appeal , the Justice Department argues that the new challengers also do not have standing to challenge the law , and that in any case the law is in line with the historic relationship between Congress and the president .",
+                "The New York Times said in an editorial on Friday , June 26 : In a sound and much-needed decision , the Supreme Court has rejected the line-item veto as a departure from the basic constitutional requirement that presidents accept or reject bills in their entirety .",
+                "In a 6-3 ruling , the court said the 1996 Line Item Veto Act unconstitutionally allows the president , by altering a bill after its passage , to create a law that was not voted on by either house of Congress .",
+                "The law took effect in January 1997 , and Clinton used the line-item veto 82 times last year , but Congress is expected to restore 38 of those items with two-thirds majority votes in both the House of Representatives and Senate .",
+                "In 1996 , Congress tried to improve on that procedure by allowing the president to cancel individual items of federal spending and tax breaks , arguing that such power , held by governors in many states , would help eliminate the budget deficit .",
+                "In a 6-3 decision , the high court ruled the Line Item Veto Act violated the constitution 's separation of powers between Congress , which approves legislation , and the president , who either signs it into law or vetoes it .",
+                "Solicitor General Seth Waxman contended that a line-item veto would not actually repeal part of a law but would be a presidential exercise of spending authority delegated by Congress ."
+            ],
+            "score": 0.6620664884047068,
+            "len": 379
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0625_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0625",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "saitoti said monday",
+            1
+        ],
+        [
+            "three principal types",
+            1
+        ],
+        [
+            "world bank today",
+            1
+        ],
+        [
+            "gross domestic product",
+            1
+        ],
+        [
+            "public health sam",
+            1
+        ],
+        [
+            "diarrhoeal diseases could",
+            1
+        ],
+        [
+            "unitd nations children",
+            1
+        ],
+        [
+            "galgalo added",
+            1
+        ],
+        [
+            "africa dr ibrahim",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Kenya 's productive age group is in danger of being wiped out by the disease , Saitoti said Monday at the opening of a workshop on advocacy and communication on HIV/AIDS in Eldoret , a city in west Kenya .",
+                "There are three principal types of heart problems in Kenya , coronary artery disease which tends to afflict better-off people , rheumatic heart disease found mainly among the poor , and congenital conditions among children , such as a hole in the heart .",
+                "NAIROBI , February 12 ( Xinhua ) -- Kenya and the World Bank today jointly launched a multi-million dollar project for the control and prevention of sexually transmitted infection ( STI ) and the killer disease of AIDS in the east African state .",
+                "NAIROBI , March 9 ( Xinhua ) -- AIDS is expected to reduce Kenya 's gross domestic product ( GDP ) by 14.5 percent by the year 2005 , according to a latest analysis released by the Ministry of Planning and National Development of Kenya available hereTuesday .",
+                "The reviewed act will create an enabling and conducive environment in the fight against the killing disease , Kenyan Minister of Public Health Sam Onger Monday told a sub-regional meeting of the United Nations Theme Groups on International Partnership against HIV/AIDS in Africa .",
+                "Africans are highly suffering from communicable diseases and illnesses related to food deficiencies , he pointed out , saying that malaria , tuberculosis and diarrhoeal diseases could be controled if proper and agreeable inter-country collaborative strategies regarding the above mentioned diseases were drawn .",
+                "The Unitd Nations Children 's Fund representative to Kenya , Chrispin Wilson , said his organization had declared war on AIDS and it was time the church in Kenya joined in to save its congregation from the scourge , the East African Standard reported Monday .",
+                "Galgalo added that the AIDS cases are increasing at an alarming rate , noting that the number of AIDS-created orphans have now reached a million and this will impact badly on the country 's economy .",
+                "NAIROBI , April 26 ( Xinhua ) -- The World Health Organization ( WHO ) Regional Director for Africa Dr Ibrahim Samba has said that malaria , diarrhea , respiratory diseases and malnutrition are major killers of African people ."
+            ],
+            "score": 0.5359324537059578,
+            "len": 386
+        }
+    ]
+}

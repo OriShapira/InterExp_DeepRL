@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0601_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0601",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "recent skirmishes",
+            1
+        ],
+        [
+            "expensive problems",
+            1
+        ],
+        [
+            "pascua yaqui computer",
+            1
+        ],
+        [
+            "guarantees american indians",
+            1
+        ],
+        [
+            "help overcome long-standing",
+            1
+        ],
+        [
+            "reservations lagging behind",
+            1
+        ],
+        [
+            "vocally developer donald",
+            1
+        ],
+        [
+            "highest death rates",
+            1
+        ],
+        [
+            "understand indian culture",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "That proceeding was the latest in a series of recent skirmishes over the rights of tribes to operate casinos in states from Florida to California and , more broadly , over the ability of tribes to be exempt from state regulation and taxation .",
+                "Expensive problems that keep people out of work , such as drug and alcohol addiction , domestic violence , poor education and teen births , and lack of jobs , are more prevelent in Indian communities , he noted .",
+                "The mothers in the Pascua Yaqui computer class , among 50 parents who are in jobs or training through the tribe 's welfare program , are the cream of the welfare population , young , smart , articulate and easily motivated , said Garcia , Social Service director .",
+                "That sovereignty opens the way for casinos , guarantees American Indians extraordinary fishing and hunting rights , allows them to sell gasoline and cigarettes on Indian territory free of state taxes .",
+                "WASHINGTON ( AP ) -- Seeking to get a more accurate count of the country 's American Indian population , the Census Bureau is turning to tribal leaders and residents on reservations to help overcome long-standing feelings of wariness or anger toward the federal government .",
+                "With economic opportunities on reservations lagging behind those available in big cities , and with the unemployment rate among Native Americans at three times the national average , thousands of poor , often unskilled Native Americans are rushing off their reservations .",
+                "The success of those Pequots and a few other tribes in the gambling business has prompted competitors , most vocally developer Donald Trump , to complain that Indians hold an unfair advantage because they pay no taxes on their profits and enjoy different standards of regulation .",
+                "Indians have some of the worst health care and highest death rates from alcoholism , diabetes , accidents and suicide in the nation .",
+                "Currently , most teachers in reservation schools are non-Indian , the turnover rates are extremely high , and many believe the teachers do not understand Indian culture and learning styles ."
+            ],
+            "score": 0.5367087649174049,
+            "len": 355
+        }
+    ]
+}

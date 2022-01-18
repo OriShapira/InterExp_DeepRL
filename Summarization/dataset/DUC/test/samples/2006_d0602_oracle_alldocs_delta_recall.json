@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0602_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0602",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "problems doctors cite",
+            1
+        ],
+        [
+            "performance-enhancing anabolic steroid",
+            1
+        ],
+        [
+            "atp tennis tour",
+            1
+        ],
+        [
+            "14 medals",
+            1
+        ],
+        [
+            "world-record weightlifting performances",
+            1
+        ],
+        [
+            "drug abuse says",
+            1
+        ],
+        [
+            "liver cancer",
+            1
+        ],
+        [
+            "add male characteristics",
+            1
+        ],
+        [
+            "high training mileage",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The list of problems doctors cite is very long : liver tumors , uncontrollably violent behavior , elevated cholesterol , enlarged veins in the liver that cause fatal bleeding , permanent stunting of growth in adolescents , and blood clotting that leads to premature stroke and heart attacks .",
+                "The accepted ratio of testosterone , the male sex hormone , to epitestosterone , an inactive metabolite that is used as a marker , is 6 to 1 ; anything above that is considered to indicate the possible use of testosterone as a performance-enhancing anabolic steroid .",
+                "Andro , however , already has been banned by the International Olympic Committee , the NCAA and the ATP tennis tour , and the NFL has banned its use since 1996 , primarily because it can be classified with other steroids .",
+                "At the world track championships in Spain , Merlene Ottey of Jamaica , a 39-year-old sprinter who had won 14 medals during a venerable career , was forced to withdraw from the meet after traces of the banned steroid nandrolone were found in one of her urine samples .",
+                "Anabolic steroids , which made their first impact on athletic competition with the world-record weightlifting performances by the 1956 Russian Olympic team , are still in prominent use despite the health hazards they pose .",
+                "The National Institutes of Drug Abuse says about 175,000 teen-age girls in the United States have reported taking anabolic steroids at least once within a year of the time surveyed _ a rise of 100 percent since 1991 .",
+                "Liver cancer , heart disease and uncontrollable aggressiveness are among other serious side effects that can occur in both males and females of all ages .",
+                "Anabolic steroids are synthetic substitutes for testosterone , the hormone that directs the body to produce or add male characteristics like increased muscle mass , facial hair and a deep voice .",
+                "For years , rumors have swirled inside the running community about Pippig 's high training mileage and rapid recovery after races ; a training routine some fellow runners in Boulder , where she now lives , viewed as excessively private ; and her East German background ."
+            ],
+            "score": 0.5509428344581813,
+            "len": 366
+        }
+    ]
+}

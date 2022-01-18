@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0708_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0708",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "solving water shortage",
+            1
+        ],
+        [
+            "one-day seminar",
+            1
+        ],
+        [
+            "two main reservoirs",
+            1
+        ],
+        [
+            "well-managed supply system",
+            1
+        ],
+        [
+            "ground subsidence caused",
+            1
+        ],
+        [
+            "ningyang county paper",
+            1
+        ],
+        [
+            "age die every",
+            1
+        ],
+        [
+            "tadesse said 18",
+            1
+        ],
+        [
+            "past four months",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Lin Xueyu , of the Chinese Academy of Sciences ( CAS ) , told the symposium that saving water can be a more effective and economical way of solving water shortage than water diversion projects , which are expected to compensate for the irregular distribution of water resources .",
+                "Addressing a one-day seminar on environment and water resources here on Thursday , Fadi Qmeir , director-general of the Ministry of Electricity and Water Resources , attributed much of the shortage to wasted water from leaky pipes in the network .",
+                "The water shortage problem is serious for Tehran this year though the capital city is supplied with water from two main reservoirs -- one in the west and the other in the east of the city .",
+                "Although Nepal is rich in water resources , water shortage is pervasive in the country because of its inability to tap the resources and the lack of well-managed supply system .",
+                "And in the Southwest and North , karst formations can be an important source of water for many cities , but people have to attach importance to ground subsidence caused by the excessive use of water .",
+                "Ningyang County Paper Mill , a large plant in east China 's Shandong Province , will take the lead early this year in trying a water pollution treatment technology approved by the State Science and Technology Commission ( SSTC ) .",
+                "ISLAMABAD , March 1 ( Xinhua ) -- More than 170,000 children under one year of age die every year because of the shortage of potable water in Afghanistan , according to a press report reaching here on Wednesday .",
+                "Tadesse said 18 water supply projects are underway at various stages , adding that one of such projects involved the sinking of 25 wells at Akaki , about 20 kilometers from Addis Ababa , which will supply 75,000 cubic meters of water daily to the capital city .",
+                "The water level at Simli dam has been declining over the past four months due to lack of rainfall , which has caused concern and panic among the residents in the capital who have experienced similar situation in 1994 ."
+            ],
+            "score": 0.5048090885201738,
+            "len": 364
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0616_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0616",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "apartment building blasts",
+            1
+        ],
+        [
+            "latest report shows",
+            1
+        ],
+        [
+            "several terrorist explosions",
+            1
+        ],
+        [
+            "federal troops tuesday",
+            1
+        ],
+        [
+            "helped drive russian",
+            1
+        ],
+        [
+            "important populated localities",
+            1
+        ],
+        [
+            "russia opened several",
+            1
+        ],
+        [
+            "bombing suspected rebel",
+            1
+        ],
+        [
+            "chechen leaders vowed",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Russia began its military operations in Chechnya in late September after Chechen rebels ' armed incursions into the neighboring republic of Dagestan and a spate of apartment building blasts that claimed over 300 people in Moscow and two other Russian cities .",
+                "MOSCOW , July 3 ( Xinhua ) -- The latest report shows that the casualties of the Russian joint troops in Chechnya in a series of terrorist blasts made by Chechen rebels Sunday night have reached over 100 , said the Russian Interior Ministry on Monday .",
+                "The rebel incursions and several terrorist explosions that claimed the lives of more than 300 people in several major Russian cities , including Moscow , have steeled the authorities ' resolve to deal heavy blows to the militants in Chechnya .",
+                "MOSCOW , October 19 ( Xinhua ) -- Russian federal troops Tuesday continued air and artillery attacks on rebel positions in the breakaway republic of Chechnya , destroying some rebel bases and a communications relay station , the Defense Ministry said .",
+                "The rebels have vowed to fight a guerrilla-style war against the Russians and have launched an increasing number of hit-and-run attacks -- a tactic which helped drive Russian troops from the province in the 1994-1996 Chechen war .",
+                "The terrorists aim to make strikes at important populated localities in Chechnya in a bid to show their combat potential , and they also planned to kill some prominent representatives of the federal authorities and military command , said the Kremlin senior official .",
+                "GROZNY , Russia ( AP ) -- Russia opened several border crossings today with Chechnya , officials said , allowing terrified refugees to flee Russian air and rocket attacks after they had been blocked from leaving for days .",
+                "Russia 's air campaign had been focused on bombing suspected rebel bases , but now it is targeting economic installations and civilian communications facilities as well .",
+                "Chechen leaders vowed to retaliate with attacks against Russian targets , and Russian military analysts predicted a new disaster along the lines of the 1994-96 war , which cost tens of thousands of lives ."
+            ],
+            "score": 0.5568612575492795,
+            "len": 355
+        }
+    ]
+}

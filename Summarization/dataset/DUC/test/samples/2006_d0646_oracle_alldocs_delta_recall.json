@@ -1,0 +1,71 @@
+{
+    "id": "2006_d0646_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0646",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "lacey a. collier",
+            1
+        ],
+        [
+            "high-profile cases",
+            1
+        ],
+        [
+            "widely circulated since",
+            1
+        ],
+        [
+            "later confessed",
+            1
+        ],
+        [
+            "federal law also",
+            1
+        ],
+        [
+            "supreme court laid",
+            1
+        ],
+        [
+            "prosecution must demonstrate",
+            1
+        ],
+        [
+            "undetermined fine",
+            1
+        ],
+        [
+            "perjury cases involve",
+            1
+        ],
+        [
+            "prison officials said",
+            1
+        ],
+        [
+            "perjury cases seems",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "In the Florida case of the postal supervisor in July , the judge , Lacey A. Collier , sentenced the supervisor , Diane Parker , to 13 months for falsely denying in a civil deposition that she had a sexual relationship with a male subordinate .",
+                "But whether it is an abuse of power or not , other prosecutors in other high-profile cases have sometimes pushed for perjury charges _ to send a signal to the public that lying will be punished .",
+                "One statistic on perjury prosecutions has been widely circulated since the president 's supporters began arguing that perjury was little more than a technicality seized upon by the president 's enemies : Of 49,655 cases filed by federal prosecutors last year , only 87 were for perjury .",
+                "MIDDLESBROUGH , England ( AP ) -- A man who was cleared of murdering a woman more than a decade ago but later confessed to the killing was convicted of perjury Friday and sentenced to six years in prison .",
+                "In addition to perjury , federal law also prohibits making false statements on federal forms or to federal officers such as FBI agents .",
+                "In a 1973 case , Bronston vs. United States , the U.S. Supreme Court laid down a rule for perjury cases that is still the governing law for courts across the country .",
+                "The prosecution must demonstrate that a person knew that the statement was inaccurate and intended to make a false statement _ two requirements that are often raised by the defense .",
+                "Under federal law , perjury and false statements are punishable by an undetermined fine , up to five years in prison or both .",
+                "While most perjury cases involve documents , people have been prosecuted for such crimes as deceiving a grand jury on the witness stand and lying about assets in a divorce case .",
+                "And even in the federal system , prison officials said in October that 115 people were serving sentences for perjury in federal prisons alone .",
+                "If the number of perjury cases seems small -- less than 10 percent of state prosecutions and less than 1 percent of federal prosecutions -- perhaps it 's because they are very hard to prosecute ."
+            ],
+            "score": 0.6095575318401405,
+            "len": 376
+        }
+    ]
+}

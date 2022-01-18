@@ -1,0 +1,66 @@
+{
+    "id": "2006_d0647_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0647",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "fought unsuccessfully",
+            1
+        ],
+        [
+            "issue seemed headed",
+            1
+        ],
+        [
+            "boy was soon",
+            1
+        ],
+        [
+            "optional material follows",
+            1
+        ],
+        [
+            "would fly",
+            1
+        ],
+        [
+            "six-year old cuban",
+            1
+        ],
+        [
+            "local officials lashed",
+            1
+        ],
+        [
+            "appeals court reaffirms",
+            1
+        ],
+        [
+            "federal agents seize",
+            1
+        ],
+        [
+            "12 others left",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "After the child was rescued on Nov. 25 , he became the subject of an international custody dispute between his father in Cuba and their relatives in the United States , who fought unsuccessfully all the way to the Supreme Court to block his repatriation .",
+                "The issue seemed headed to a showdown when last week , Elian 's father arrived in the United States to retrieve his son from the Miami relatives , who were granted temporary custody until federal authorities ordered that the boy be reunited with his father .",
+                "The boy was soon in the center of a campaign to bring him back to Cuba by his father and relatives in Cuba and to keep him in the United States by his relatives in Miami .",
+                "OPTIONAL MATERIAL FOLLOWS ) In January , the Immigration and Naturalization Service ruled that Elian belonged with his father and should be returned to Cuba , denying a request by Lazaro Gonzalez that the boy be granted an asylum hearing .",
+                "Elian 's father , who is staying at the home of a Cuban diplomat in a Washington , D.C. , suburb , had said he does not want to meet the Miami relatives , but would fly to Florida if necessary to pick up his son .",
+                "HAVANA , June 28 ( Xinhua ) -- The six-year old Cuban boy Elian Gonzalez returned to his native land in Cuba by a chartered plane Wednesday with his father and other relatives , ending a seven- month long bitter custody battle .",
+                "Meanwhile , local officials lashed out at Attorney General Janet Reno and President Clinton , warning that Miami 's Cuban exiles may burst into angry protest if Elian is removed before his court appeals are exhausted .",
+                "June 23 -- Appeals court reaffirms its decision , says order blocking Elian 's return to Cuba would expire at 4 p.m. Eastern time on June 28 .",
+                "April 22 -- Federal agents seize Elian in Miami in a pre-dawn raid ; Elian reunited with his father in Washington .",
+                "Elian was rescued at sea on Nov. 25 , three days after the boy , his mother and 12 others left Cuba for Florida in a small motor boat ."
+            ],
+            "score": 0.6456624662626825,
+            "len": 377
+        }
+    ]
+}

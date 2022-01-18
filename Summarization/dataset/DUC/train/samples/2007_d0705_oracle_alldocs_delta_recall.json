@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0705_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0705",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "troubled basque region",
+            1
+        ],
+        [
+            "basque nationalist peace",
+            1
+        ],
+        [
+            "ceasefire sept. 16",
+            1
+        ],
+        [
+            "political party linked",
+            1
+        ],
+        [
+            "interior minister javier",
+            1
+        ],
+        [
+            "new regional government",
+            1
+        ],
+        [
+            "three-party basque regional",
+            1
+        ],
+        [
+            "jails around spain",
+            1
+        ],
+        [
+            "dramatic september meeting",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "MADRID , Spain ( AP ) _ It 's election time in Spain 's troubled Basque region , bringing with it a flurry of attempts to end three decades of violence in which nearly 800 people have been killed by ETA rebels fighting for an independent Basque homeland .",
+                "In it ETA supported a Basque nationalist peace proposal that calls for a two-track process made up of negotiations between the government and ETA , on issues like weapons and prisoners , and separate all-party talks on the future of the Basque country .",
+                "He reiterated the government position that if ETA , which declared a ceasefire Sept. 16 , renounces violence for good , officials are willing to consider transferring some ETA prisoners to jails in or near the Basque country in line with a long-standing ETA demand .",
+                "After that incident , Herri Batasuna , the political party linked to the armed separatist group ETA , said for the first time that the party opposed street violence as a way to further the Basque separatist cause .",
+                "Meanwhile , Interior Minister Javier Mayor Oreja called on the Eta , which has fought for a separate Basque state made up of four northern Spanish provinces and three southwestern French departments , to release prison officer Jose Ortega Lara it has held for five months .",
+                "The new regional government has invited the outlawed Kurdish parliament to convene in Bilbao in July , and it protested the sales of arms manufactured by Spanish firms in Basque country to the Turkish government .",
+                "VITORIA , Spain ( AP ) _ Spain 's Socialist party has pulled out of the three-party Basque regional government because of links between the coalition 's principal member and an outside group allied to the armed separatist organization ETA .",
+                "Spokesman Josep Pique said the government would only negotiate terms for ETA to surrender its weapons and the fate of more than 500 ETA prisoners in jails around Spain .",
+                "The result was a dramatic September meeting in the city of Lizarra , 70 miles south of Bilbao , at which all nine nationalist political parties and 14 Basque labor and cultural organizations issued a joint declaration calling for multiparty negotiations toward self-rule ."
+            ],
+            "score": 0.6113971593775388,
+            "len": 376
+        }
+    ]
+}

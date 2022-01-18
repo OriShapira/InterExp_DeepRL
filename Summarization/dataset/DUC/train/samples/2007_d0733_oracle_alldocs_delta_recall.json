@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0733_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0733",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "american library association",
+            1
+        ],
+        [
+            "117 million items",
+            1
+        ],
+        [
+            "educational computer program",
+            1
+        ],
+        [
+            "7,700 precious tibetan",
+            1
+        ],
+        [
+            "library also opened",
+            1
+        ],
+        [
+            "early baseball cards",
+            1
+        ],
+        [
+            "automatically gets copies",
+            1
+        ],
+        [
+            "material without traveling",
+            1
+        ],
+        [
+            "conservative groups",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The conference is sponsored by the China Society for Library Science , the National Library of China , the American Library Association , the Chinese American Librarians Association , the Library of Congress , and the US National Commission on Libraries and Information Science .",
+                "The numbers involved are huge : The Library of Congress , which has 117 million items in its archives , hopes to have 4 million items digitized and accessible on the World Wide Web by the turn of the century .",
+                "Under such an agreement , if the collection of 80,000 documents is used to create an educational computer program or to write a book , royalties for the use of the King papers would go to the King family .",
+                "BEIJING , August 21 ( Xinhua ) -- Susan Meinheit , librarian at the U.S. Library of Congress , noted today that the facility houses a collection of some 7,700 precious Tibetan books , most of which were brought to the country by western diplomats and explorers .",
+                "Looking forward as well as back , the Library also opened a new Web site for children and a reconstruction of President Thomas Jefferson 's own book collection .",
+                "A collection of early baseball cards , which can be seen on the American Memory site , was gathered by Benjamin K. Edwards , who left it to his daughter , who gave it to the poet Carl Sandburg , who donated it to the library .",
+                "Since the library is the Copyright Office of the United States it automatically gets copies of books and manuscripts that are published in the United States .",
+                "The idea then was to duplicate much of the Library of Congress ' huge holdings in electronic form so people in other parts of the country could have access to the material without traveling to Washington or even leaving home .",
+                "Some conservative groups and scholars say the Library 's analysis of Jefferson 's letter is authoritative evidence that could be used in the courts to knock down the barrier between religion and government ."
+            ],
+            "score": 0.5788868546314986,
+            "len": 352
+        }
+    ]
+}

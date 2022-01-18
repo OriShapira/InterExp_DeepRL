@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0713_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0713",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "produce nuclear arms",
+            1
+        ],
+        [
+            "foreign minister abdul",
+            1
+        ],
+        [
+            "united nations security",
+            1
+        ],
+        [
+            "upto india ...",
+            1
+        ],
+        [
+            "egypt thursday underscored",
+            1
+        ],
+        [
+            "long spurned",
+            1
+        ],
+        [
+            "pakistani foreign minister",
+            1
+        ],
+        [
+            "international organizations expressed",
+            1
+        ],
+        [
+            "industrialized nations imposed",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "France calls on both India and Pakistan not to conduct any more nuclear tests but to sign the Comprehensive Test Ban Treaty and join talks on the banning of production of fissile materials that can be used to produce nuclear arms , said the communique .",
+                "In a statement he made on behalf of Pakistan 's Foreign Minister Abdul Sattar , the spokesman regretted the position taken by the Sixth Review Conference on the Nuclear Non-Proliferation Treaty ( NPT ) toward the nuclear tests conducted by India and Pakistan in May 1998 .",
+                "He said China , as a permanent member of the United Nations Security Council , a party to the Nuclear Non-Proliferation Treaty and signatory to the Comprehensive Nuclear Test Ban Treaty , has always advocated international peace and security and nuclear disarmament and non-proliferation .",
+                "Sharif reiterated his offer for the resumption of dialogue process with India and said it is upto India ... to agree to a serious , substantive and meaningful dialogue on all outstanding issues , including Kashmir , in accordance with the UN resolutions .",
+                "CAIRO , May 28 ( Xinhua ) -- In reaction to Pakistan 's nuclear tests , Egypt Thursday underscored the need to make the Middle East a nuclear-free region and urged Israel to join the Nuclear Non-Proliferation Treaty ( NPT ) .",
+                "India has long spurned both the Comprehensive Test Ban Treaty and the Nuclear Non-Proliferation Treaty , saying they are discriminatory because they do not force Britain , China , France , Russia and the United States to give up their nuclear arsenals .",
+                "During Pakistani Foreign Minister Sartaj Aziz 's visit to Japan late last year , the Japanese government removed its opposition to Pakistan 's getting loans from international institutions , but refused to lift sanctions before Pakistan signs the CTBT .",
+                "BEIJING , May 28 ( Xinhua ) -- Some countries or international organizations expressed concerns after Pakistan exploded five nuclear devices on Thursday in response to the nuclear tests carried out by India on May 11 and 13 .",
+                "Following the tests , the United States , Britain , Japan and other industrialized nations imposed economic and military sanctions on both India and Pakistan ."
+            ],
+            "score": 0.6047265514090305,
+            "len": 372
+        }
+    ]
+}

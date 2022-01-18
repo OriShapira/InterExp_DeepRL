@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0633_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0633",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "united states declined",
+            1
+        ],
+        [
+            "big cities experienced",
+            1
+        ],
+        [
+            "every 10 new",
+            1
+        ],
+        [
+            "crime rates involving",
+            1
+        ],
+        [
+            "general declined 32.7",
+            1
+        ],
+        [
+            "jumped 16.7 percent",
+            1
+        ],
+        [
+            "mayor marc morial",
+            1
+        ],
+        [
+            "selected checks",
+            1
+        ],
+        [
+            "completed burglaries dropping",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "WASHINGTON , October 17 ( Xinhua ) -- The crime rate in the United States declined in 1998 for the seventh straight year , with the murder and robbery rates being the lowest in three decades , the Federal Bureau of Investigation ( FBI ) reported Sunday .",
+                "The nation 's big cities experienced the steepest decline in their crime rate , with a 5 percent drop , while suburban counties saw a decrease of 4 percent , and rural areas were down 1 percent .",
+                "But in building a penal system in which three of every 10 new prisoners are serving time for drugs , according to the Pennsylvania Sentencing Commission , which tracks prison rates for the state , Pennsylvania , like most states , has not reduced illegal drug use .",
+                "Crime rates involving property , including burglary and motor vehicle theft , dropped 9 percent from 1998 to 1999 , decreasing from 217 per 1,000 U.S. households to 198 per 1,000 households .",
+                "During this period , the rate of violent crimes in general declined 32.7 percent , while robbery with injury dropped 38.5 percent , aggravated assault decreased 41.2 percent and rape fell 40 percent .",
+                "DETROIT ( AP ) -- The city 's murder rate , already among the highest in the nation , jumped 16.7 percent in the first half of 1999 -- baffling city leaders who have watched a decline in the number of other serious crimes .",
+                "NEW ORLEANS ( AP ) -- A week after Mayor Marc Morial received a national award for overhauling the city police department and a coinciding drop in crime , two teen-agers were murdered after leaving a weekend party in an upscale neighborhood .",
+                "Selected checks of major cities , including Baltimore , Boston , Dallas , Los Angeles , New York and Philadelphia , found that murders are up over last year .",
+                "Americans were more secure in their homes from 1998 to 1999 , with the number of completed burglaries dropping from 38.5 per 1,000 households to 34.1 per 1,000 , an 11.4 percent fall ."
+            ],
+            "score": 0.5312207951410806,
+            "len": 353
+        }
+    ]
+}

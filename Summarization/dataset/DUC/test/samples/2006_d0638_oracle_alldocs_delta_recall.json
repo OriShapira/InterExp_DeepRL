@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0638_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0638",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "recent months experienced",
+            1
+        ],
+        [
+            "first man-made craft",
+            1
+        ],
+        [
+            "known actively volcanic",
+            1
+        ],
+        [
+            "strong magnetic field",
+            1
+        ],
+        [
+            "volatile elements like",
+            1
+        ],
+        [
+            "powerful gravitational grip",
+            1
+        ],
+        [
+            "striking scalloped fracture",
+            1
+        ],
+        [
+            "heat would come",
+            1
+        ],
+        [
+            "cosmic debris smashed",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Galileo , which was launched in 1989 and arrived at Jupiter on Dec. 7 , 1995 , has in recent months experienced problems with its stabilizing gyros and computers as years of radiation from the solar system 's largest planet have taken their toll .",
+                "The cone-shaped probe , released from Galileo on July 13 and entered into Jupiter 's atmosphere on December 7 , was the first man-made craft ever to dip into the atmosphere of a planet and sent back data on its way to demise .",
+                "As part of an extended mission , Galileo 's instruments are studying the chemistry , heat distribution , gravity and magnetic properties of Io , Jupiter 's innermost large moon and the only known actively volcanic solar system object besides Earth .",
+                "Earlier , the spacecraft discovered that Ganymede has its own strong magnetic field , indicating that its core is a fluid metal , which boils in a way that generates the magnetism and also heats other parts of its interior .",
+                "A probe that plummeted into Jupiter 's atmosphere late in 1995 , sampling its composition for the first time , found more than twice the concentration of volatile elements like argon and nitrogen than expected , raising questions about standard theories of how the planets formed .",
+                "This new information of Io may be related to the intense heating of the moon caused by the constant squeezing and distortion of Io in the Jupiter 's powerful gravitational grip , according to Galileo Project Scientist Dr. Torrence Johnson of NASA 's Jet Propulsion Laboratory .",
+                "An analysis of striking scalloped fracture lines in the frozen surface of Jupiter 's moon Europa has yielded the strongest evidence yet that a global ocean of liquid water once lay beneath the thick crust of ice , and may still be there .",
+                "But Callisto has no tidal energy because it is much farther from Jupiter , so its only heat would come from internal radioactivity _ not nearly enough for life to exist , Johnson said .",
+                "PASADENA , California ( AP ) _ The Galileo spacecraft has solved the mystery of Jupiter 's faint rings , revealing they were formed when cosmic debris smashed into four small inner moons , scientists said Tuesday ."
+            ],
+            "score": 0.5760914460230894,
+            "len": 383
+        }
+    ]
+}

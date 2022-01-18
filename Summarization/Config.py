@@ -1,0 +1,1 @@
+ROUGE_PATH = '../ROUGE-1.5.5/'

@@ -1,0 +1,66 @@
+{
+    "id": "2006_d0613_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0613",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "vietnam war",
+            1
+        ],
+        [
+            "45 million youngsters",
+            1
+        ],
+        [
+            "35 show interest",
+            1
+        ],
+        [
+            "financial worries ingrained",
+            1
+        ],
+        [
+            "far earlier starting",
+            1
+        ],
+        [
+            "adolescence stretch like",
+            1
+        ],
+        [
+            "traditional societal institutions",
+            1
+        ],
+        [
+            "plush club med",
+            1
+        ],
+        [
+            "another generation",
+            1
+        ],
+        [
+            "still feel pressure",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Just as baby boomers were shaped by Watergate and the Vietnam War , the generation that ranges from their 20s up to mid-30s has been influenced by this era of technology , television , daycare , divorce and downsizing .",
+                "Bold , savvy , confident and often demanding , the 45 million youngsters dubbed Generation X are hard to miss in today 's workplace , and the staider side of Corporate America is only just learning -- sometimes with eyebrows raised -- to cope with them .",
+                "Voting continues to be a right that only Americans older than 35 show interest in , and somehow members of that group , now parents and grandparents , are n't passing on the practice to their youth .",
+                "They 're unburdened by the baggage carried by boomers -- such as the need to be in touch with every emotion , or the financial worries ingrained by the economies of the '70s and '80s and the Great Depression stories passed down by parents and grandparents .",
+                "That is a far earlier starting age than for older groups , the survey found : People between the ages of 40 and 64 began saving for retirement at an average age of 35 , and those 65 and older waited until they were 46 .",
+                "Lingering in school , putting off marriage , flitting from job to job , they panicked as they saw their adolescence stretch like cheap pantyhose .",
+                "Xers are alienated and isolated , taking as a given the empty promise of traditional societal institutions like family and government , arming themselves with the cynical belief that they 're on their own .",
+                "These are not plush Club Med vacations , but two-year commitments , often in the Back of Beyond , to work with folks at ground level who usually have little in the way of tools but their hands .",
+                "There has never been another generation , Beaudoin says , so intimately linked to media culture _ the Internet , television , film , and music .",
+                "Although women are having babies later in life , they still feel pressure to get moving on the issue _ at least make up their minds _ by age 30 , Beck said ."
+            ],
+            "score": 0.5327718068759024,
+            "len": 379
+        }
+    ]
+}

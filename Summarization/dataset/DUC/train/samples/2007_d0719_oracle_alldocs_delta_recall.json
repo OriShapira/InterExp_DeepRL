@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0719_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0719",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "oecd also expressed",
+            1
+        ],
+        [
+            "confederation generale du",
+            1
+        ],
+        [
+            "european commissioner padraig",
+            1
+        ],
+        [
+            "worst economic problems",
+            1
+        ],
+        [
+            "260 u.s. dollars",
+            1
+        ],
+        [
+            "economic growth rate",
+            1
+        ],
+        [
+            "oecd report said",
+            1
+        ],
+        [
+            "french government saturday",
+            1
+        ],
+        [
+            "12.5 percent unemployment",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "While recognizing the social performance of the welfare system of France , the OECD also expressed worry over the high costs of France 's social protection system , in particular the high cost of unemployment insurance and unemployment compensation rates .",
+                "French unions , including the Confederation Generale du Travaile , joined the protests for the first time on Wednesday organized by unemployed workers in Paris , demanding a Christmas bonus of 3,000 to 5,000 francs ( 500 to 840 U.S. dollars ) for each unemployed worker .",
+                "European Commissioner Padraig Flynn , in charge of employment and social affairs , said earlier this week that the shared task of the ministers was to ensure that the EU did not remain the zone of high unemployment as it had been for much of the past decade .",
+                "Unemployment is one of France 's worst economic problems , with joblessness among young people a major problem that has contributed to a rise in crime and violence .",
+                "While preparing a law on social solidarity to be presented in February , the government is studying a proposal by the Communist Party to subsidize a 1,500 francs ( 260 U.S. dollars ) social aid for each unemployed workers who are more than 55 years old .",
+                "It said that France 's economic growth rate could attain 2.5 percent in 1997 , and 2.6 percent in 1998 , while its public deficit could drop to 3.2 percent of its gross domestic product ( GDP ) by the end of 1997 .",
+                "PARIS , February 13 ( Xinhua ) -- The OECD report said that the labor costs for low-skilled workers in France are too high , and recommended that wage flexibility should be raised , including reforming the country 's minimum wage system , the SMIC .",
+                "PARIS , January 3 ( Xinhua ) -- The French government Saturday announced several emergency measures to support the jobless people , including sending an additional 500 million franc ( 84 million U.S. dollars ) unemployment aid package .",
+                "PARIS , December 25 ( Xinhua ) -- The 12.5 percent unemployment rate is haunting the Christmas season in France as militants and unionists staged several protests over the past week against unemployment ."
+            ],
+            "score": 0.570427101450921,
+            "len": 376
+        }
+    ]
+}

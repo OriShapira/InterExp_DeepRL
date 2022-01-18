@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0606_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0606",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "raise sea levels",
+            1
+        ],
+        [
+            "texas could",
+            1
+        ],
+        [
+            "many experts believe",
+            1
+        ],
+        [
+            "carbon dioxide created",
+            1
+        ],
+        [
+            "also increase",
+            1
+        ],
+        [
+            "global population currently",
+            1
+        ],
+        [
+            "macquarie island near",
+            1
+        ],
+        [
+            "causes partial blindness",
+            1
+        ],
+        [
+            "weather events remains",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "It said that climate change is projected to raise sea levels ; increase the likelihood of more intense rainfall , floods , and droughts ; and endanger human health by greater exposure to heat waves and encroachment of tropical diseases to higher latitudes .",
+                "In the United States , the report says , more than a third of the existing habitat in Maine , New Hampshire , Oregon , Colorado , Wyoming , Idaho , Utah , Arizona , Kansas , Oklahoma and Texas could be irrevocably altered by global warming .",
+                "The answer , many experts believe , may depend on how much fresh water flows into the North Atlantic Ocean as a result of melting Arctic ice and the runoff from an increase in Northern Hemisphere precipitation that some scientists say is already resulting from global warming .",
+                "Greenhouse gas emissions - including carbon dioxide created by the burning of coal , gas and oil , are believed by most atmospheric scientists to cause the warming of the Earth 's surface and a change in the global climate .",
+                "Climate changes will also increase the risk of heart disease , pulmonary tuberculosis , and other infectious diseases in the subtropical and tropical areas , according to experts .",
+                "With 50 percent of the U.S. population and 50 to 70 percent of the global population currently living in coastal areas , future sea level rises , alterations in storm patterns and higher storm surges could have devastating effects .",
+                "Scientists at Macquarie Island near the Antarctic note that elephant seals and penguins were starving off because of feed shortage caused by shifting ocean currents and climate changes in the region , today 's Age newspaper reported .",
+                "In East Africa , ocean temperatures and mountain greenery can be used to predict outbreaks of Rift Valley Fever , a disease that causes partial blindness in humans and forces pregnant livestock to abort fetuses .",
+                "The insurers expressed their concern that while the effect of climate change on the frequency or severity of extreme weather events remains unknown , it is clear that even small shifts in regional climate zones or storm patterns could lead to increased property damage ."
+            ],
+            "score": 0.5397922469388478,
+            "len": 369
+        }
+    ]
+}

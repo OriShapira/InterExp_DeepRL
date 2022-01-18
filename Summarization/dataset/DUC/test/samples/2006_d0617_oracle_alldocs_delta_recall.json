@@ -1,0 +1,66 @@
+{
+    "id": "2006_d0617_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0617",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "data recorder shows",
+            1
+        ],
+        [
+            "flight control system",
+            1
+        ],
+        [
+            "small amounts",
+            1
+        ],
+        [
+            "computerized auto pilot",
+            1
+        ],
+        [
+            "elevators moved",
+            1
+        ],
+        [
+            "crew advise controllers",
+            1
+        ],
+        [
+            "atlantic ocean shortly",
+            1
+        ],
+        [
+            "transponder still",
+            1
+        ],
+        [
+            "preliminary investigation found",
+            1
+        ],
+        [
+            "767 would disconnect",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Speculation about a possible hijacking , crew fight or pilot suicide has lingered because the flight data recorder shows that the plane 's autopilot was turned off , the aircraft put into a dive , the throttles cut back and the engines shut off .",
+                "Investigators from the United States and Egypt will review part of the flight control system in the tail of Boeing 's 767 airplane as part of the investigation into the crash of EgyptAir Flight 990 , the chairman of the National Transportation Safety Board said Friday .",
+                "After an examination of the flight data recorder , the cockpit voice recorder , radar data and small amounts of wreckage , Hall said in November that there was no sign of mechanical failure that could have caused the crash .",
+                "The U.S. magazine 's report said that electromagnetic interferences by military radars in the area , over which the EgyptAir plane was flying , could have caused the sudden shutdown of its computerized auto pilot , the elevators and engines .",
+                "It is not possible for the crew to command such a movement on the 767 , according to pilots , and the fact that the elevators moved out of unison indicates a major malfunction .",
+                "Radio communication between the flight crew and air traffic controllers was routine , and at no time did a member of the crew advise controllers of either an emergency or a mechanical problem or concern .",
+                "The EgyptAir flight crashed into the Atlantic Ocean shortly after taking off from the New York International Airport on October 31 , 1999 , on its way to Cairo , killing 217 people on board .",
+                "Then the plane , its transponder still out , climbed back to 24,000 feet , when it began a rapid descent to 10,000 feet where radar showed multiple targets , indicating it had broken up .",
+                "Preliminary investigation found that someone in the cockpit uttered a prayer before the jet 's autopilot disengaged and the plane started its fatal plunge .",
+                "The autopilot on a 767 would disconnect from flying the airplane if there there were a problem with the cockpit computers or the plane 's electrical system , said Dan Gellert of Sequim , a former pilot with Eastern Airlines who later trained 767 pilots ."
+            ],
+            "score": 0.6369833005847567,
+            "len": 388
+        }
+    ]
+}

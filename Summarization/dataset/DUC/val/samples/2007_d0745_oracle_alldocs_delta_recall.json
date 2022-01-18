@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0745_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0745",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "hear evidence",
+            1
+        ],
+        [
+            "simpson memorabilia went",
+            1
+        ],
+        [
+            "seeking monetary damages",
+            1
+        ],
+        [
+            "upcoming television miniseries",
+            1
+        ],
+        [
+            "adequate legal representation",
+            1
+        ],
+        [
+            "state attorney general",
+            1
+        ],
+        [
+            "fame induction certificate",
+            1
+        ],
+        [
+            "internet next week",
+            1
+        ],
+        [
+            "simpson lied",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The California Supreme Court ruled in February that the custody case could go back to court for a second trial because a judge had failed to hear evidence about the slayings of Simpson 's former wife , Nicole Brown Simpson , and her friend , Ronald Goldman .",
+                "Simpson memorabilia went up in flames to a chorus of cheers and boos Wednesday , a day after it was sold at auction to help pay off the $ 33.5 million judgment he owes in the deaths of ex-wife Nicole Brown Simpson and her friend .",
+                "Simpson , 49 , was acquitted in October 1995 in the criminal trial for the slashing murders of his ex-wife Nicole Brown Simpson and her friend Ronald Goldman , but the victims ' relatives filed a civil wrongful death suit against him , seeking monetary damages .",
+                "Simpson wants to stop an upcoming television miniseries about the defense in his murder case , saying its purported revelations are the product of a lawyer 's breach of legal confidentiality and an author 's breach of promise .",
+                "Simpson , the former spokesman for Hertz and other companies , said he made the appearance on behalf of Justice Media as a favor to a friend and because he believes in the rights of all defendants to have adequate legal representation .",
+                "LOS ANGELES ( AP ) -- Nicole Brown Simpson 's sister and her lawyer said Monday they are asking the state attorney general to investigate the possibility of filing perjury charges against O.J .",
+                "32 football jerseys and a Professional Football Hall of Fame induction certificate were burned and two trophies were smashed outside the Criminal Courts Building in a protest organized by a Christian radio talk show host who purchased $ 16,000 worth of items .",
+                "Simpson will go on the Internet next week to field questions from the public and try once again to convince America that he did n't kill his ex-wife and her friend .",
+                "Allred and Brown said that Simpson lied during his civil trial when he testified that he never hit , struck slapped or kicked his late wife ."
+            ],
+            "score": 0.6018849753662355,
+            "len": 359
+        }
+    ]
+}

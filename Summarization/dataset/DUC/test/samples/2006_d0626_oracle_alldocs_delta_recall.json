@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0626_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0626",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "white suzuki samurai",
+            1
+        ],
+        [
+            "mustafa mohamed fadhil",
+            1
+        ],
+        [
+            "complaint filed sept.",
+            1
+        ],
+        [
+            "accuses five men",
+            1
+        ],
+        [
+            "top aides wednesday",
+            1
+        ],
+        [
+            "federal prosecutors charged",
+            1
+        ],
+        [
+            "deadly bomb exploded",
+            1
+        ],
+        [
+            "prominent dar es",
+            1
+        ],
+        [
+            "senior government official",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "In June and July , the indictment says , the suspects in Tanzania bought a 1987 Nissan Atlas truck to carry the bomb to the embassy , and a white Suzuki Samurai , in which the suspects would flee .",
+                "For example , the indictment describes a meeting between one of the suspects in the Tanzania attack , Mustafa Mohamed Fadhil , an Egyptian in his early 20s , and Mohamed Sadeek Odeh , who has since been arrested and charged in the Kenya attack .",
+                "According to a complaint filed Sept. 17 by the U.S. Attorney 's office in Manhattan , Fazil , a native of the Comoros Islands off East Africa , rented the house from May to August and was later joined by co-conspirator Mohamed Rashed Daoud Al-'Owhali .",
+                "It accuses five men of conspiring with Osama bin Laden , the Saudi exile who is suspected of organizing the simultaneous bomb attacks on the embassies in Tanzania and Kenya as well as other acts of terrorism against Americans abroad .",
+                "Clinton met with his top aides Wednesday in the White House to assess the situation following the twin bombings at U.S. embassies in Kenya and Tanzania , which have killed more than 250 people and injured over 5,000 , most of them Kenyans and Tanzanians .",
+                "NEW YORK _ Federal prosecutors charged Wednesday that the American Embassy in Tanzania was attacked by at least six men who detonated a bomb packed with car batteries and oxygen tanks , apparently to enhance the lethal force of the explosion .",
+                "NAIROBI , August 21 ( Xinhua ) -- The man who hurled a grenade at security guards at the U.S. Embassy in Nairobi seconds before the deadly bomb exploded on August 7 has been positively identified as two more people arrested , Kenya 's national newspapers said Friday .",
+                "Among the three is a prominent Dar Es Salaam businessman , Thomas Lyimo , the owner of Tomy Spares Manufactures Ltd. , a metal-working shop where part of the bomb is said to have been assembled .",
+                "A senior government official who saw the confessions of suspects was quoted by local media Friday as saying that an Egyptian Islamic Jihad group , linked with Saudi millionaire Osama Bin Laden , who now lives in Afghanistan , planned the attacks ."
+            ],
+            "score": 0.6238876755905087,
+            "len": 390
+        }
+    ]
+}

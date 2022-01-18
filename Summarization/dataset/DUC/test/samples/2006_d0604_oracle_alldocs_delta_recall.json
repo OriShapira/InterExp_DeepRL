@@ -1,0 +1,71 @@
+{
+    "id": "2006_d0604_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0604",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "second largest movie",
+            1
+        ],
+        [
+            "manner of claims",
+            1
+        ],
+        [
+            "lofty goal",
+            1
+        ],
+        [
+            "even discuss merchandise",
+            1
+        ],
+        [
+            "repay diehard fans",
+            1
+        ],
+        [
+            "new star wars",
+            1
+        ],
+        [
+            "many claim",
+            1
+        ],
+        [
+            "star wars mania",
+            1
+        ],
+        [
+            "75 screens selected",
+            1
+        ],
+        [
+            "19 opening approaches",
+            1
+        ],
+        [
+            "film cost tens",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Japan , the world 's second largest movie market , is home to legions of Star Wars fans , and the film has been heavily hyped by the media in the weeks leading up to its first showing .",
+                "Almost immediately , early reviews hit cyberspace , followed by the reactions to the reviews , then the reactions to the reactions , along with all manner of claims , counterclaims , insults and soul-searching over the film , which opens nationwide May 19 .",
+                "It 's a lofty goal , considering the movie had only climbed to 11th-highest grosser of all time as of close of business Thursday , reaping a total of $ 271.3 million by its 23rd day in theaters .",
+                "Merchants were under strict orders not to sell or even discuss merchandise from the forthcoming movie , some of which conveniently went on sale in stores on Monday , the day after the convention ended .",
+                "The convention may have been a way to repay diehard fans , as editors at Star Wars Insider said , but it was also a way to stick them with the bill by waving new collectibles under their noses .",
+                "HONG KONG ( AP ) -- A week after the new Star Wars blockbuster opened in the United States , pirated copies have already hit store shelves in Hong Kong and Macau .",
+                "And many claim to have vast networks of contacts and spies working on the film and many of its toy and promotional campaigns who feed the sites with provocative tidbits .",
+                "TOKYO ( AP ) -- Star Wars mania has struck in Japan , where fans turned out in droves at theaters around the country Saturday for a sneak preview of the hit movie .",
+                "The trailer was screened on Tuesday in 26 states on 75 screens selected by the movie 's distributor , 20th Century Fox .",
+                "The line _ a scene repeated in many other cities _ is expected to balloon as the film 's May 19 opening approaches .",
+                "They 'd forgotten that Lucas ' film cost tens of millions less than the big-budget blunders featuring stars who had long since outlived their usefulness ."
+            ],
+            "score": 0.5165952931608508,
+            "len": 370
+        }
+    ]
+}

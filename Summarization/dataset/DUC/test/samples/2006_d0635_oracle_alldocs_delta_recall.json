@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0635_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0635",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "issue a one-time",
+            1
+        ],
+        [
+            "gop presidential nomination",
+            1
+        ],
+        [
+            "texas process meets",
+            1
+        ],
+        [
+            "several public hospitals",
+            1
+        ],
+        [
+            "whose born-again faith",
+            1
+        ],
+        [
+            "voted 11-7",
+            1
+        ],
+        [
+            "newspaper reports questioning",
+            1
+        ],
+        [
+            "granted full access",
+            1
+        ],
+        [
+            "one 30-day stay",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "In Texas , the governor can only issue a one-time , 30-day reprieve or act on a recommendation of the parole board to grant a stay , commute a sentence or issue a pardon .",
+                "Bush , the national front-runner in the GOP presidential nomination race , is an ardent supporter of the death penalty and makes no apology for the fact that he has presided over more executions than any governor in modern U.S. history , and some of the most controversial .",
+                "Sparks found that since the Texas Board of Pardons and Paroles casts its votes on clemency in secrecy there is no way to determine whether the Texas process meets due process requirements that the Supreme Court has said must exist .",
+                "His case was considered by many critics an example of the problems with the state 's treatment of the mentally ill. Before the killings , Robison had been diagnosed as a paranoid schizophrenic , but he was not considered violent and had been released from several public hospitals .",
+                "Tucker , whose born-again faith and repentance for her crimes was cited in requests for mercy made to Bush by such figures as Pope John Paul II and televangelist Pat Robertson , was the first woman to be executed by the state of Texas since the Civil War .",
+                "But this was the first time that Bush agreed to a reprieve for a death-row inmate , and he did it against the wishes of the pardons board , which had voted 11-7 not to stay McGinn 's execution .",
+                "It has been driven by newspaper reports questioning the fairness of Texas ' justice system ; reports of innocent men set free thanks to DNA testing ; and a Columbia University study that found two-thirds of death sentences in the past 23 years have been overturned on appeal .",
+                "Bush has said he reviews cases to ensure that condemned inmates were granted full access to the courts and to erase any doubt about whether inmates are guilty of the crime for which they were sentenced .",
+                "Without a board recommendation for commutation of the death sentence or some other form of clemency , the only option remaining for the governor was one 30-day stay , or delay , of the execution ."
+            ],
+            "score": 0.6141194158900776,
+            "len": 385
+        }
+    ]
+}

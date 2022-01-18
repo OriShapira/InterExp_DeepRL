@@ -1,0 +1,66 @@
+{
+    "id": "2007_d0706_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0706",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "party elected overwhelmingly",
+            1
+        ],
+        [
+            "60 exiled dissidents",
+            1
+        ],
+        [
+            "european countries",
+            1
+        ],
+        [
+            "ruling council",
+            1
+        ],
+        [
+            "poll took place",
+            1
+        ],
+        [
+            "city honor saturday",
+            1
+        ],
+        [
+            "government official said",
+            1
+        ],
+        [
+            "order restoration council",
+            1
+        ],
+        [
+            "popular opposition movement",
+            1
+        ],
+        [
+            "nld vice chairman",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "They should pressure Burma 's military junta to enter a political dialogue with Suu Kyi , Burma 's ethnic nationalities , and the National League for Democracy , the party elected overwhelmingly in 1990 but immediately denied its right to govern by the military .",
+                "BANGKOK , Thailand ( AP ) _ On the tenth anniversary of the military takeover in Myanmar , about 60 exiled dissidents protested in front of their country 's embassy in Bangkok on Friday calling for the release of political prisoners and arrested students .",
+                "YANGON , Myanmar ( AP ) -- The United States and European countries were rebuked Tuesday for passing up an international heroin conference because it was in Myanmar , one of the world 's biggest producers of the drug .",
+                "Suu Kyi , winner of the 1991 Nobel Peace Prize , has been locked in a battle of wills with the ruling council of generals over demands that a parliament elected in 1990 be convened .",
+                "The NLD won 82 percent of the seats in the parliament , but despite promising to hand over power to the winners before the poll took place , the military refused to honor the result .",
+                "DUBLIN , Ireland ( AP ) -- Myanmar 's pro-democracy leader Aung San Suu Kyi was awarded the Freedom of the City honor Saturday night in recognition of her activism in her Southeast Asian country .",
+                "Foreign diplomats and a government official said there were no demonstrations , after warnings from the government and a reported call for calm by the opposition party , the National League for Democracy .",
+                "The SLORC _ State Law and Order Restoration Council _ which took over Burma in 1988 and changed its name to Myanmar , sees Suu Kyi as a primary threat .",
+                "She heads the country 's popular opposition movement and , given her personal charisma and extraordinary family history , she has a strong claim on the allegiance of the Burmese people .",
+                "NLD Vice Chairman Tin Oo , 71 , who has been imprisoned twice by Myanmar 's military leaders , is a former defense minister , army commander in chief , Buddhist monk and lawyer ."
+            ],
+            "score": 0.5777579662012766,
+            "len": 370
+        }
+    ]
+}

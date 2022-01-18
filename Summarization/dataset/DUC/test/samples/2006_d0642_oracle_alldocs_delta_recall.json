@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0642_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0642",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "chavez frias sent",
+            1
+        ],
+        [
+            "foreign debt payments",
+            1
+        ],
+        [
+            "new president hugo",
+            1
+        ],
+        [
+            "raises crucial questions",
+            1
+        ],
+        [
+            "center-right copei party",
+            1
+        ],
+        [
+            "called savage capitalism",
+            1
+        ],
+        [
+            "would cut venezuela",
+            1
+        ],
+        [
+            "high-level executives resigned",
+            1
+        ],
+        [
+            "chavez also said",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "CARACAS , Venezuela _ In his first hours in office , President Hugo Chavez Frias sent tremors through the political establishment by moving to rewrite the Constitution in a process that is highly likely to replace the newly elected Congress with one that has more of his allies .",
+                "The bank attributed the drop to foreign debt payments and central bank policies to defend the Venezuelan currency , the bolivar , as well as speculative attacks on markets , electoral expectations and the adverse scenario created by the falling oil prices .",
+                "The foreign policy of Venezuela 's new president Hugo Chavez , who was sworn in Tuesday , would be based on peace , integration and the defense of human rights , Rangel said .",
+                "Chavez , with his mixture of democracy and demagoguery , raises crucial questions not only about the future of oil-rich Venezuela but about other corrupt and mismanaged countries in Latin America and the rest of the world .",
+                "In an effort to head off a Chavez victory , the center-left Democratic Action Party and the center-right COPEI Party dumped their respective candidates during the past week and threw their support to Salas , who had been running second to Chavez in the polls .",
+                "CARACAS , Venezuela ( AP ) -- The government of President Hugo Chavez , who campaigned for office deriding what he called savage capitalism and neoliberal free-market policies , plans to privatize three electric utilities by year end .",
+                "Since his election , Chavez has said he would cut Venezuela 's bloated government payroll , reduce the fiscal deficit and honor the country 's dlrs 21 billion foreign debt .",
+                "CARACAS , Venezuela ( AP ) -- Two more high-level executives resigned from Venezuela 's powerful state oil monopoly on Thursday , following the company head 's resignation in a dispute over production and management policies .",
+                "Chavez also said he hoped that a new Constitution would take politics out of the judiciary by replacing the congressional appointment of judges with one based on selection by a board of legal scholars ."
+            ],
+            "score": 0.5302328022427047,
+            "len": 352
+        }
+    ]
+}

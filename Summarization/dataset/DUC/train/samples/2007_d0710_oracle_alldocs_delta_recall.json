@@ -1,0 +1,66 @@
+{
+    "id": "2007_d0710_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0710",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "comic caper element",
+            1
+        ],
+        [
+            "activities raised suspicions",
+            1
+        ],
+        [
+            "two mossad agents",
+            1
+        ],
+        [
+            "greek cypriot government",
+            1
+        ],
+        [
+            "analysts expressed doubts",
+            1
+        ],
+        [
+            "glafcos clerides said",
+            1
+        ],
+        [
+            "police prosecutor said",
+            1
+        ],
+        [
+            "igal damary pleaded",
+            1
+        ],
+        [
+            "planned deployment",
+            1
+        ],
+        [
+            "close relations",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "JERUSALEM _ The arrest of two Israelis on suspicion of spying on a military installation in Cyprus had a comic caper element that immediately raised questions here about whether it was the latest in a series of bungles by the Israeli intelligence agency Mossad .",
+                "The Israelis ' activities raised suspicions , and when they returned , Cypriot officials obtained a search warrant for their temporary apartment , and said they had found cameras , maps , two scanners and tapes of Greek conversations between police or military officials .",
+                "Haaretz -- A spokesman for Israeli Prime Minister Benjamin Netanyahu said on Monday that Israel would do everything it could to bring about the repatriation of the two Mossad agents who were sentenced to three years in prison in Cyprus .",
+                "NICOSIA , Cyprus ( AP ) _ Israel on Monday tried to repair any damage done to relations with Cyprus after the weekend arrest of two Israelis on suspicion of spying for the Greek Cypriot government 's enemy , Turkey .",
+                "In Israel , some former officials and analysts expressed doubts that the two _ arrested Saturday in the community of Ziyi near the southern coastal resort of Larnaca for allegedly spying on a nearby army base _ were working for the Mossad secret service .",
+                "Cypriot President Glafcos Clerides said the suspension of the jail terms followed a recommendation of clemency by his attorney-general and as a goodwill gesture to the new Israeli government .",
+                "LARNACA , Cyprus ( AP ) _ Two Israelis arrested on suspicion of spying had been telephoning an intelligence institute in Tel Aviv just before being seized , a police prosecutor said in court Sunday .",
+                "Last Friday , Udi Hargov and Igal Damary pleaded guilty to the lesser charges after the prosecution dropped charges of conspiracy and espionage in an apparent plea bargain deal .",
+                "Both Israel and Turkey , which occupies the northern third of the island , are interested in gaining information on the planned deployment by Cyprus of Russian S-300 anti-aircraft missiles .",
+                "Police officials , who spoke on condition of anonymity , said the two men were believed to be spying on behalf of Turkey , which has close relations with Israel but not with Cyprus ."
+            ],
+            "score": 0.628703785877271,
+            "len": 379
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0611_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0611",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "so-called trap crops",
+            1
+        ],
+        [
+            "plastic must lie",
+            1
+        ],
+        [
+            "organic farming eschews",
+            1
+        ],
+        [
+            "diversified organic farming",
+            1
+        ],
+        [
+            "encourage fungus growth",
+            1
+        ],
+        [
+            "environmentally- friendly means",
+            1
+        ],
+        [
+            "help control certain",
+            1
+        ],
+        [
+            "the soil trap",
+            1
+        ],
+        [
+            "beneficial insects like",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "So-called trap crops _ flowers , alfalfa _ planted alongside cash crops attract beneficial insects and simultaneously take care of such nasty critters as the lygus bug , a small insect that winters in the hills and comes down to the valley in spring .",
+                "For example , it can not be used for spring crops because the plastic must lie on the soil for at least six weeks prior to planting , and in the winter before spring crops are planted there is insufficient heat for the system to work .",
+                "By definition , organic farming eschews artificial fertilizers and pesticides , instead harnessing the power of natural substances , such as compost , bacteria and pest-targeted insects and protective netting , to build healthy soil and keep invading forces at bay .",
+                "Sunnyside 's system is designed to show that diversified organic farming , with a mix of vegetables , fruits and animals , can be profitable while protecting the environment , not only from tract housing but also from the damage done to it by traditional farming methods .",
+                "The park 's rose garden is being tended with organic compound and soon will be watered with a drip-irrigation system , rather than sprinklers , which soak the whole plant and encourage fungus growth , and in turn , pesticide use .",
+                "BEIJING , May 17 ( Xinhua ) -- Beijing has sold out of ladybugs and other varieties of pest-eating insects , as residents of the Chinese capital have opted for a cheap and environmentally- friendly means of pest control .",
+                "It 's true that some marigolds can help control certain species of destructive nematodes , tiny soil-dwelling worms , but it 's a chemical in the marigold roots , not the odor of the foliage , that does the trick .",
+                "Agricultural Research Service Horticultural Research Laboratory in Fort Pierce , Fla. , have demonstrated that sheets of clear plastic laid over the soil trap enough solar heat to kill most of the harmful organisms .",
+                "_ Flowers are essential in a vegetable garden because they attract beneficial insects like praying mantises and ladybugs , which eat aphids ."
+            ],
+            "score": 0.5081238545172918,
+            "len": 363
+        }
+    ]
+}

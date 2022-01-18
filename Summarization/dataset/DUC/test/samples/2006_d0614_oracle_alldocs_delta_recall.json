@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0614_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0614",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "federal officials would",
+            1
+        ],
+        [
+            "possibly another referendum",
+            1
+        ],
+        [
+            "quebec could declare",
+            1
+        ],
+        [
+            "favors keeping quebec",
+            1
+        ],
+        [
+            "referendums must necessarily",
+            1
+        ],
+        [
+            "separatist leaders planned",
+            1
+        ],
+        [
+            "put through another",
+            1
+        ],
+        [
+            "nov. 30 elections",
+            1
+        ],
+        [
+            "party hard-liners earlier",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "But instead of the expected anger from separatists , there was satisfaction over another part of the court 's declaration : that federal officials would be obligated to negotiate if a clear majority of Quebeckers voted for secession in a fair referendum .",
+                "QUEBEC _ Premier Lucien Bouchard and the separatist Parti Quebecois have retained control of Canada 's largest province , possibly setting the stage for a bitter confrontation with the rest of Canada , and possibly another referendum on independence .",
+                "OTTAWA , May 15 ( Xinhua ) -- Canadian Prime Minister Jean Chretien has ruled out the possibility that the French-speaking province of Quebec could declare independence even if a majority of Quebeckers vote for secession in the next referendum .",
+                "In the final results of Monday 's election , his separatist Parti Quebecois won 75 seats , two fewer than in 1994 , while the Liberal Party , which favors keeping Quebec in Canada , won 48 , an increase of one .",
+                "And to the rest of Canada , and Charest 's supporters in Quebec , secession is such a soul-searing issue that it was assumed that weariness with referendums must necessarily translate into a big vote for the federalists .",
+                "According to published reports , separatist leaders planned to declare independence and gain recognition of the new country from France and the United States within days after the 1995 referendum if they had won , despite promises of a period of negotiation with the rest of Canada .",
+                "Polls indicate that most Quebecers do not want to be put through another referendum , but that they believe the threat of separation is useful to bringing about changes in Canada .",
+                "In the most recent episode , which aired just a week before the Nov. 30 elections for control of the provincial government , the characters addressed the serious question of independence in a way that Canadians elsewhere in the nation would have trouble understanding .",
+                "Bouchard is intent on avoiding a third defeat , and won a power struggle with party hard-liners earlier this year by insisting he would call another referendum only if opinion polls showed the separatists would win ."
+            ],
+            "score": 0.6152279778821959,
+            "len": 368
+        }
+    ]
+}

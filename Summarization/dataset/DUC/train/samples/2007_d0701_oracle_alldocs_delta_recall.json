@@ -1,0 +1,66 @@
+{
+    "id": "2007_d0701_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0701",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "taking everything",
+            1
+        ],
+        [
+            "christian identity movement",
+            1
+        ],
+        [
+            "but since co-founding",
+            1
+        ],
+        [
+            "wilbert jean oliver",
+            1
+        ],
+        [
+            "significant civil judgments",
+            1
+        ],
+        [
+            "white man pleaded",
+            1
+        ],
+        [
+            "stem federal cutbacks",
+            1
+        ],
+        [
+            "tracks hate crimes",
+            1
+        ],
+        [
+            "raise enough money",
+            1
+        ],
+        [
+            "richard butler vowed",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Morris Dees , the co-founder of the Southern Poverty Law Center in Montgomery , Ala. , and one of the attorneys for the plaintiffs , said he intended to enforce the judgment , taking everything the Aryan Nations owns , including its trademark name .",
+                "Most of the newer groups , according to the center , come from a growth in the number of chapters of groups like the Ku Klux Klan and churches belonging to the Christian Identity movement , whose followers cite the Bible as the source for their racist views .",
+                "But since co-founding the Southern Poverty Law Center in 1971 , Dees has wielded the civil lawsuit like a Buck Knife , carving financial assets out of hate group leaders who inspire followers to beat , burn and kill .",
+                "Wilbert Jean Oliver , whose 1973 federal lawsuit had the practical effect of forcing funeral homes throughout the United States to provide equal services to blacks and whites , died on Tuesday at a hospital in Marksville , La .",
+                "But putting a hate group out of business is n't easy : While Dees has won significant civil judgments against the Ku Klux Klan and the White Aryan Resistance , the groups have survived .",
+                "And in Mississippi , a white man pleaded guilty this summer , and three others are to go on trial this week , in the 1970 killing of a black sharecropper who was beaten and found dead in a rural river .",
+                "The program is designed to stem federal cutbacks in programs that had provided free legal assistance to poor people in civil actions .",
+                "A recent report from the Southern Poverty Law Center in Montgomery , Ala. , which tracks hate crimes and hate groups across the country , is filled with other horrible examples that occurred last year .",
+                "Its goal was to raise enough money to permanently fund its mission of helping minorities litigate against civil rights abuses .",
+                "HAYDEN LAKE , Idaho ( AP ) -- Aryan Nations leader Richard Butler vowed Saturday he will not leave northern Idaho , despite a $ 6.3 million judgment against his racist organization ."
+            ],
+            "score": 0.586059605189737,
+            "len": 364
+        }
+    ]
+}

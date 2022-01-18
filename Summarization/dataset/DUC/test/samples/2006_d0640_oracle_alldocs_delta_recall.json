@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0640_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0640",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "another u.s. submarine",
+            1
+        ],
+        [
+            "northern fleet mikhail",
+            1
+        ],
+        [
+            "rtr television showed",
+            1
+        ],
+        [
+            "contact , air",
+            1
+        ],
+        [
+            "118 russian sailors",
+            1
+        ],
+        [
+            "russian officials maintain",
+            1
+        ],
+        [
+            "norwegian company stolt",
+            1
+        ],
+        [
+            "serious damage raised",
+            1
+        ],
+        [
+            "expert involved",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "U.S. officials have said the explosions _ recorded by the Memphis , another U.S. submarine reported to be the Toledo and a surveillance ship , the Loyal _ strongly suggest that the Kursk sank after a catastrophic accident in its hull and not because of a collision .",
+                "MOSCOW , August 21 ( Xinhua ) -- Chief of staff of the Russian Northern Fleet Mikhail Motsak on Monday officially confirmed the death of the 118 crew aboard the Kursk nuclear submarine that went down to the bottom of the Barents Sea on August 12 .",
+                "In live footage from the scene , the RTR television showed improved weather and calmer sea , but the underwater currents remain very strong , which , coupled with near-zero visibility , has hampered the rescue vessels ' repeated attempts to dock with sub .",
+                "The situation was not critical -- the submarine was in radio contact , air and power lines had been hooked up and arrangements were being made to bring the crew up , the navy said .",
+                "LONDON , August 19 ( Xinhua ) -- Britain plans to continue its bid to reach and rescue the 118 Russian sailors in a sunken submarine even though virtually all hope of finding survivors has faded , British Defence Ministry said here on Saturday .",
+                "Russian officials maintain that the Kursk collided with a large object such as a foreign submarine , or with a World War II mine , but they have also considered the possibility that a torpedo inside the submarine misfired .",
+                "The contracts are with the Norwegian company Stolt Offshore , whose divers were able to open the hatch of sunken submarine Kursk after Russian efforts failed for days .",
+                "Russian officials said the vessel was carrying no nuclear weapons and its nuclear reactors had been switched off , but the reports of serious damage raised concerns about a possible radioactive leak .",
+                "It quoted an expert involved in the operation as saying the submarine could have been damaged by a blast in its bow which caused the torpedo section to fill with water ."
+            ],
+            "score": 0.5806447798417612,
+            "len": 355
+        }
+    ]
+}

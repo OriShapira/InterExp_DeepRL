@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0741_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0741",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "sleeping children ...",
+            1
+        ],
+        [
+            "atlanta offices",
+            1
+        ],
+        [
+            "one-page letter printed",
+            1
+        ],
+        [
+            "several months later",
+            1
+        ],
+        [
+            "changed jobs frequently",
+            1
+        ],
+        [
+            "police always suspected",
+            1
+        ],
+        [
+            "filed 10 lawsuits",
+            1
+        ],
+        [
+            "killing spree leaves",
+            1
+        ],
+        [
+            "texarkana police records",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "ATLANTA _ Before he killed his wife with a hammer ... Before he murdered his sleeping children ... Before he went on a shooting spree that killed nine people and injured 12 ... Mark Barton put on a Scout uniform to take his son to a troop meeting .",
+                "Barton , a former chemist who reportedly lost as much as $ 450,000 while trading at All-Tech and Momentum Securities in the last year , killed nine people and wounded 13 others at the two companies ' Atlanta offices on July 29 .",
+                "In the one-page letter printed from a computer and dated Thursday , Mark Orrin Barton described how he killed his estranged second wife , Leigh Ann Barton , 27 , with a hammer Tuesday , then beat and drowned his two children the following day .",
+                "And several months later , in February of 1994 , Georgia child welfare officials and the Douglas County , Ga. , district attorney 's office began an investigation after Barton 's daughter , then 3 , told a day care worker that he had molested her .",
+                "He changed jobs frequently , lost tens of thousands of dollars in the stock market and , for the last six years , could n't help but listen to whispers and outright accusations about his role in his first wife 's death .",
+                "CEDAR BLUFF , Ala. ( AP ) -- Police always suspected Mark Barton was at the end of the bloody trail that led out the door of the travel trailer where his wife and mother-in-law were hacked to death in 1993 .",
+                "Victims and their relatives also have filed 10 lawsuits in the past year , naming as defendants the brokerages , their landlords , their security firms and Barton 's estate .",
+                "HERRING A KILLING SPREE LEAVES A TRAIL OF BODIES IN GEORGIA A 44-year-old independent stock trader went on a shooting rampage in Atlanta , killing 9 people at two office buildings before killing himself as the police tried to arrest him .",
+                "But Texarkana police records also show that , after being fired from TLC , Barton was arrested Sept. 25 , 1990 , and briefly jailed on charges that he stole computer discs and notebook binders filled with information from the company ."
+            ],
+            "score": 0.6106766594201392,
+            "len": 385
+        }
+    ]
+}

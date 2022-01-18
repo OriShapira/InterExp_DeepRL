@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0608_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0608",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "safety enhancements include",
+            1
+        ],
+        [
+            "use age-appropriate restraints",
+            1
+        ],
+        [
+            "detroit auto show",
+            1
+        ],
+        [
+            "safety seats prevent",
+            1
+        ],
+        [
+            "installing side air",
+            1
+        ],
+        [
+            "air bag curtains",
+            1
+        ],
+        [
+            "agency also urged",
+            1
+        ],
+        [
+            "require air bags",
+            1
+        ],
+        [
+            "key-operated shut offs",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Further safety enhancements include front and side airbags , seat belt pretensioners , belt use sensors , a driver 's seat position sensor , and two inflation levels for the airbags , depending on the severity of a crash .",
+                "The advisory noted that children under 12 should always sit in the rear seat and use age-appropriate restraints , but manufacturers and insurance industry officials said the warning failed to point out the benefits of side air bags used in conjunction with seat belts and child seats .",
+                "The new system , unveiled at the Detroit auto show Wednesday , includes an airbag-like curtain on each side of the vehicle and is a response to the federal government 's revelation that almost half the people who die in light trucks and SUVs die in rollover accidents .",
+                "Child safety seats prevent thousands of deaths and injuries annually , but federal officials and safety experts say a large share of those in use are not installed correctly , posing a possible hazard to children riding in them .",
+                "About 7,500 people in the United States each year die from side-impact crashes and a growing number of auto manufacturers are installing side air bags as standard or optional equipment to provide greater safety .",
+                "While some auto makers , including Mercedes , Volvo and BMW have air bag curtains that inflate across the car windows and could potentially help during a rollover , experts believe Ford 's is the first that is designed specifically for rollover protection .",
+                "The agency also urged manufacturers to allow owners of vehicles with rear side air bags to bring them back to dealers to have them deactivated if the vehicle is likely to be carrying children .",
+                "Under the new standards , the National Highway Traffic Safety Administration will require air bags to protect vehicle occupants in a 25 mph crash test , the level supported by automakers , rather than a test at 30 mph favored by some consumer advocates .",
+                "Many trucks , which tend to have only one seat , are now equipped with key-operated shut offs for the front passenger side air bag to prevent such injuries ."
+            ],
+            "score": 0.5448603781664202,
+            "len": 366
+        }
+    ]
+}

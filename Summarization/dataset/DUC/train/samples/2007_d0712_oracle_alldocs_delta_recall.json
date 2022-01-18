@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0712_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0712",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "edict , announcing",
+            1
+        ],
+        [
+            "iranian newspaper reported",
+            1
+        ],
+        [
+            "iranian hard-liners said",
+            1
+        ],
+        [
+            "internal security said",
+            1
+        ],
+        [
+            "2.5 million bounty",
+            1
+        ],
+        [
+            "kills british author",
+            1
+        ],
+        [
+            "hezbollah university students",
+            1
+        ],
+        [
+            "kamal kharrazi announced",
+            1
+        ],
+        [
+            "british writer accused",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "On February 14 , 1989 , the late Iranian leader Ayatollah Khomeini issued a religious edict , announcing the death sentence of Salman Rushdie and his publishers in protest at the publication of his novel , and exhorting all Muslims to carry out the sentence .",
+                "TEHRAN , Iran ( AP ) _ Thousands of Iranian clerics and theological students have pledged a month 's salary toward a bounty for the killing of British author Salman Rushdie , an Iranian newspaper reported Saturday .",
+                "LONDON ( AP ) -- Iranian hard-liners said Sunday that the 1989 death sentence ordered against British novelist Salman Rushdie remained in effect , despite the Iranian government 's statements more than a year ago that appeared to lift it , an Iranian radio report said .",
+                "NEW DELHI , India ( AP ) _ Author Salman Rushdie is welcome to visit India , but the government is not ready to lift the ban on his book , The Satanic Verses , India 's minister for internal security said in an interview published Saturday .",
+                "But Britain has always insisted that nothing short of a complete lifting of the death sentence , as well as the revocation of the $ 2.5 million bounty on Rushdie 's head pledged by a revolutionary foundation in Tehran , would be an acceptable solution .",
+                "TEHRAN , Iran ( AP ) _ Residents of a village in northern Iran have offered land and carpets to anyone who kills British author Salman Rushdie , a newspaper reported Sunday .",
+                "The Association of Hezbollah University students said despite Kharrazi 's pledge , they were still ready to carry out the death sentence against Rushdie and were willing to pay the dlrs 333,333 to any person who killed him , Kayhan newspaper reported Saturday .",
+                "He emerged from his shadowy existence in September 1998 when Iranian Foreign Minister Kamal Kharrazi announced the country was distancing itself from a $ 2.5 million reward promised for Rushdie 's death .",
+                "TEHRAN , March 11 ( Xinhua ) -- Iran announced here today that it drops the death sentence on Salman Rushdie , a British writer accused of defaming Islam in his novel , under tremendous pressure from European countries ."
+            ],
+            "score": 0.6412761424003302,
+            "len": 375
+        }
+    ]
+}

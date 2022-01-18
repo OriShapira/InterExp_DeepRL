@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0723_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0723",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "banned 19 types",
+            1
+        ],
+        [
+            "u.s. senate primary",
+            1
+        ],
+        [
+            "strong law-enforcement supporter",
+            1
+        ],
+        [
+            "senate wo n't",
+            1
+        ],
+        [
+            "second full term",
+            1
+        ],
+        [
+            "persuaded republican leaders",
+            1
+        ],
+        [
+            "gun lobby since",
+            1
+        ],
+        [
+            "political analyst sherry",
+            1
+        ],
+        [
+            "gun violence",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Although Feinstein has sided with Clinton on many issues , including the 1994 legislation that banned 19 types of assault weapons , she became the first Senate Democrat to publicly scold Clinton for lying about his relationship to the American people .",
+                "He narrowly lost a bid for the U.S. Senate primary in 1992 to ultra-conservative Bruce Herschenson , who in turn was defeated in the general election by liberal Democrat Barbara Boxer _ a race many observers believed Campbell would have won had he faced her .",
+                "Feinstein , a strong law-enforcement supporter , is the top Democrat on the Senate Judiciary Committee 's panel on technology , terrorism and government information .",
+                "Dianne Feinstein and Paul Coverdell , conceding Tuesday that the Senate wo n't cancel the Clinton administration 's decision to certify Mexico as a drug-fighting ally , proposed a ban on business dealings with foreign companies that serve as fronts for drug cartel smuggling .",
+                "Seeking her second full term in the U.S. Senate , Democrat Dianne Feinstein has more campaign money than all of her would-be opponents combined , a commanding lead in public opinion polls and virtually no opposition for her party 's own nomination .",
+                "But Sen. Dianne Feinstein , D-Calif. , persuaded Republican leaders to accept an amendment to the trade bill that would allow those African countries to continue to produce their copycat AIDS drugs .",
+                "Feinstein has been a foe of the gun lobby since she was San Francisco 's mayor nearly two decades ago and sponsored a citywide handgun ban that was approved by the Board of Supervisors but ultimately struck down by a state court .",
+                "Political analyst Sherry Bebitch Jeffe of the School of Politics and Economics at Claremont Graduate University said Feinstein probably earned points among Democrats and Republicans alike by coming out early in her criticisms of President Clinton 's affair with White House intern Monica Lewinsky .",
+                "She said she does not expect her measure to pass this year but predicted it will be buoyed by the tens of thousands of mothers who plan to demonstrate on Mother 's Day in the nation 's capital and 67 other cities against gun violence ."
+            ],
+            "score": 0.582538274480992,
+            "len": 369
+        }
+    ]
+}

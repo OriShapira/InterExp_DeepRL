@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0704_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0704",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "one murder appeared",
+            1
+        ],
+        [
+            "rights group called",
+            1
+        ],
+        [
+            "human rights pledges",
+            1
+        ],
+        [
+            "annual report gives",
+            1
+        ],
+        [
+            "london-based organization said",
+            1
+        ],
+        [
+            "wednesday following",
+            1
+        ],
+        [
+            "amnesty international announced",
+            1
+        ],
+        [
+            "evidence collected since",
+            1
+        ],
+        [
+            "opposition political activities",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Suggesting that at least some of the murders were the result of common crimes , the government reported that one murder appeared to be the result of an extramarital affair , another was related to a theft of bananas and that the other four were still under investigation .",
+                "The human rights group called for an impartial retrial of Jose Rainha Jr. , one of the leaders of the Landless Rural Workers Movement and said he was a potential prisoner of conscience , in a report that was to be issued Wednesday .",
+                "LONDON ( AP ) _ Despite its human rights pledges , Britain 's Labor Party government continues selling arms to countries such as Indonesia and Algeria , and seeks to deter political asylum seekers , Amnesty International said Tuesday .",
+                "The statement said that Turkey is surprised and disappointed to find itself again the target for unfair accusations by Amnesty International , adding that the Amnesty International 's annual report gives a distorted and defective picture of the human rights situation in Turkey in 1995 .",
+                "The London-based organization said , too , that Prime Minister Tony Blair 's government is quick to condemn human rights abuses by nations with which this country has negligible trade , including Sudan , Iraq and Myanmar , while reluctant to act against important political and trading partners .",
+                "In a press release issued here on Wednesday following a 12-day fact-finding mission in Kenya , the AI accused the government of violations of human rights and of dragging its feet on legal and constitutional reforms .",
+                "BANGKOK , Thailand ( AP ) _ The Thailand office of Amnesty International announced Monday that three publications and two journalists have won its 1998 Journalism Award for Human Rights .",
+                "According to Michael Butler , Amnesty 's investigator responsible for Germany , evidence collected since 1995 , which listed 40 cases involving police violence against non-Germans or German nationals of foreign extraction , showed that police racism was part of a pattern .",
+                "The rejoinder said that the AI obsession with the torture and human rights violations in Kenya were not genuine but were political in support of opposition political activities ."
+            ],
+            "score": 0.5595367481648673,
+            "len": 368
+        }
+    ]
+}

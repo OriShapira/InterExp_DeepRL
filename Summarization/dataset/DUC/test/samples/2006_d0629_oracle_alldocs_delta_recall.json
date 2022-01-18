@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0629_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0629",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "zamora quoted reports",
+            1
+        ],
+        [
+            "arrested friday",
+            1
+        ],
+        [
+            "new viral vixen",
+            1
+        ],
+        [
+            "unusually destructive virus",
+            1
+        ],
+        [
+            "several significant viruses",
+            1
+        ],
+        [
+            "destroying files stored",
+            1
+        ],
+        [
+            "several recent viruses",
+            1
+        ],
+        [
+            "computers using windows",
+            1
+        ],
+        [
+            "microsoft excel spreadsheet",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Zamora quoted reports as saying the computer virus , which was allegedly created by a Philippine couple using Internet access cards , has caused up to 2.6 billion U.S. dollars in damage to computer systems in more than 20 countries in Asia , America and Europe .",
+                "David L. Smith , 30 , of Aberdeen , N.J. , was arrested Friday and charged with originating the destructive Melissa , which infected hundreds of thousands of computers and swamped hundreds of companies ' e-mail systems .",
+                "Melissa , as the new viral vixen was named by its creator _ as yet unknown _ combines elements of both a computer virus ( spreading from file to file ) and a worm program ( spreading from computer to computer over a network ) .",
+                "The unusually destructive virus -- timed to strike on April 26 , the 13th anniversary of the Chernobyl nuclear disaster -- tries to erase a computer 's hard drive and write gibberish into its system settings to prevent the machine from being restarted .",
+                "In the last month , several significant viruses and worms have been detected for the first time , including Prilissa , Babylonia and Worm.Explore.Zip ( pack ) , alias the MiniZip worm , which is particularly nasty .",
+                "It then invites the recipient to open an attached file that will unleash a two-pronged attack , sending a copy of itself to the address of any arriving e-mail and destroying files stored on a person 's machine .",
+                "It is only one of several recent viruses designed to prey on an otherwise useful feature of Microsoft Word that enables macro programs _ automated scripts that trigger one or more actions in the host computer _ to be started from within a file .",
+                "The virus has been dubbed Chernobyl because its most common version was programmed to activate on computers using Windows 95 and Windows 98 on Monday , the 13th anniversary of the nuclear disaster in Ukraine .",
+                "It attaches a Microsoft Excel spreadsheet document which , when opened , sends out 60 e-mails , however Papa has bugs that sometimes prevent it from working ."
+            ],
+            "score": 0.5876041659690644,
+            "len": 361
+        }
+    ]
+}

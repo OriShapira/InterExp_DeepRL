@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0738_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0738",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "17th place worldwide",
+            1
+        ],
+        [
+            "mining sectors",
+            1
+        ],
+        [
+            "26 million dollars",
+            1
+        ],
+        [
+            "richest gold deposits",
+            1
+        ],
+        [
+            "fifth largest gold",
+            1
+        ],
+        [
+            "rich gold seam",
+            1
+        ],
+        [
+            "massive investment growth",
+            1
+        ],
+        [
+            "peruvian government fined",
+            1
+        ],
+        [
+            "largest kimberlita -a",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The increase in gold production , which put Mexico in the 17th place worldwide , was due to an increase in demand for exports and to the investments that were made during the past two years in the mining industry , mainly in the north of the country .",
+                "Participants from mining sectors of 14 countries , including Argentina , Australia , Chile , Brazil , the United States , Peru , Colombia and Venezuela , are scheduled to discuss the international economic crisis and the development of Argentina 's mining industry .",
+                "The sources forecast that gold output in Peru , which is rich in mineral resources , will be more than 65 tons in 1996 due to an investment of 26 million dollars in gold projects in the San Jose de Yanacocha and Retamas zones .",
+                "Tensions are rising in Venezuela 's Amazon rain forests , where Indians and environmentalists are clashing with mining companies and government officials who want to exploit some of the richest gold deposits in Latin America and build towns and tourist hotels in the wilderness .",
+                "Franco-Nevada is the fifth largest gold company in the world , while Gold Fields ranks second among gold producers in South Africa and is one of the largest in the world .",
+                "LIMA , May 11 ( Xinhua ) -- A rich gold seam with estimated reserves of 16.8 million metric tons of mineral ore has been discovered in South America 's biggest gold mine in Peru .",
+                "CARACAS , November 14 ( Xinhua ) -- Venezuela 's gold production is expected to grow rapidly in the next few years thanks to massive investment growth by national and foreign private investors , the Energy and Mines Ministry said on Saturday .",
+                "LIMA , Peru ( AP ) -- The Peruvian government fined Latin America 's largest gold mine $ 500,000 for a mercury spill in June that poisoned dozens of Andean villagers .",
+                "In Toco there has been identified , the world 's largest kimberlita -a kind of rock originated in Earth 's depths containing diamonds- layer , will turn Venezuela into one of the world 's largest diamond producers in a not too distant future ."
+            ],
+            "score": 0.5937902690711157,
+            "len": 370
+        }
+    ]
+}

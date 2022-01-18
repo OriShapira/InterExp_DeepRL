@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0643_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0643",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "last 20 years",
+            1
+        ],
+        [
+            "deep ocean waves",
+            1
+        ],
+        [
+            "woods hole research",
+            1
+        ],
+        [
+            "major forces acting",
+            1
+        ],
+        [
+            "impacts include heavy",
+            1
+        ],
+        [
+            "preserving 850 lives",
+            1
+        ],
+        [
+            "despite causing anomaly",
+            1
+        ],
+        [
+            "sea level",
+            1
+        ],
+        [
+            "remote sensing organization",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Oceanographers over the last 20 years have developed an understanding of how El Nino and La Nina form _ with changes in winds and atmospheric pressure allowing warm surface water to flow east in an El Nino or spreading cool water west in a La Nina .",
+                "When they altered the values for the magnitude of deep ocean waves at a single point in the western Pacific , the model produced El Nino at regular intervals of about four years , with perfectly predictable cycles of temperature , winds and ocean currents .",
+                "IN December , scientists from the Woods Hole Research Laboratory in Massachusetts reported in the journal Nature that during El Nino years that bring hot , dry weather to the Amazon , Brazil 's rain forest sends out more carbon dioxide gas , trapping heat in the atmosphere .",
+                "The meeting will provide scientific and technical information on the current status of El Nino , as one of the major forces acting on the global climate system and with a potential to affect weather patterns in many areas of the globe .",
+                "La Nina 's impacts include heavy rains , severe storms and flooding in southern Africa , drought in Kenya and Tanzania , flooding in the Philippines and Indonesia and abnormal wetness in northern South America .",
+                "That 's the conclusion of climatologist Stanley A. Changnon , who calculated that while the 1997-98 El Nino can be blamed for 189 deaths , it also can be credited with preserving 850 lives that would have been lost in normal winter and hurricane seasons .",
+                "LONDON , April 15 ( Xinhua ) -- Despite causing anomaly of weather and climate , the El Nino event may help cut global warming by temporarily stemming the release of carbon dioxide from the Pacific Ocean , scientists suggested Thursday .",
+                "Those conditions are warming in the eastern Pacific Ocean ; shifting of precipitation from the western to the eastern Pacific ; slowing of trade winds ; and changes in sea level .",
+                "Bangladesh 's Space Research and Remote Sensing Organization ( SPARRSO ) is monitoring the El Nino phenomenon , which is responsible for rains or drought world-wide , to help the country 's farmers cope with its effects , SPARRSO director Dr ."
+            ],
+            "score": 0.5635364145658264,
+            "len": 383
+        }
+    ]
+}

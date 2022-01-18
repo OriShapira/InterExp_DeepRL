@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0732_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0732",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "ambuka noted thursday",
+            1
+        ],
+        [
+            "provide life skills",
+            1
+        ],
+        [
+            "world bank official",
+            1
+        ],
+        [
+            "strategies include strengthening",
+            1
+        ],
+        [
+            "top kenyan education",
+            1
+        ],
+        [
+            "private sector involvement",
+            1
+        ],
+        [
+            "overseas development lynda",
+            1
+        ],
+        [
+            "soon increase salary",
+            1
+        ],
+        [
+            "give 350,000 u.s.",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Ambuka noted Thursday that Kenya 's 8-4-4 education system , which means eight years of primary school , four years of high school and four years of university , was different from the 7-4-2-3 structure in both Uganda and Tanzania , which made regional integration difficult .",
+                "Kazibwe said the strategy of action for girls ' education compels the government to establish a girls school that is well facilitated with a laboratory and a computer center in every district in the east African country so as to provide life skills to the girl child .",
+                "Garcia Marito , a World Bank official in charge of regional Early Childhood Development Project , said that other targets include health and nutrition , community support grant , pre-school to primary school transition , and sound early childhood education monitoring and evaluation .",
+                "Other strategies include strengthening of educational and training programs for the disabled , ensuring street children get access to education and offering a second chance to drop-outs to improve their literacy and get short-time career training .",
+                "NAIROBI , January 22 ( Xinhua ) -- Top Kenyan education official has requested the international community to assist it in raising 11 million shillings ( about 160,000 U.S.dollars ) to implement the HIV/AIDS awareness courses in schools in the east African country .",
+                "He also mentioned that his government is in the process of revising the University Act of 1985 and the university rule of 1989 with a view of creating a more conducive environment for private sector involvement in higher education .",
+                "On the same occasion , British Minister for Overseas Development Lynda Chalker noted that the situation in Kenya 's education sector is so critical that only 35 percent of the current seven million school-age children can expect to complete primary education .",
+                "He also announced that his ministry will soon increase salary of science subjects teachers in secondary schools in the country as directed by President Daniel arap Moi so as to attract more teachers to the career .",
+                "NAIROBI , January 26 ( Xinhua ) -- The United States will give 350,000 U.S. dollars to a Kenyan project aimed at linking the east African country 's universities to the Internet , a U.S. official has said ."
+            ],
+            "score": 0.5979965008612274,
+            "len": 378
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0742_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0742",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "sister disappeared late",
+            1
+        ],
+        [
+            "closely guarded ceremony",
+            1
+        ],
+        [
+            "vineyard airport alerted",
+            1
+        ],
+        [
+            "rescue efforts",
+            1
+        ],
+        [
+            "m. larrabee said",
+            1
+        ],
+        [
+            "islands district attorney",
+            1
+        ],
+        [
+            "piper saratoga fell",
+            1
+        ],
+        [
+            "console john kennedy",
+            1
+        ],
+        [
+            "3:30 p.m. sen.",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "NEW YORK _ A small plane carrying John F. Kennedy Jr. , his wife , Carolyn Bessette Kennedy , and her sister disappeared late Friday off the Massachusetts coast , and by Saturday afternoon the authorities had recovered debris from the airplane off Martha 's Vineyard .",
+                "In a private , closely guarded ceremony aboard a US Navy destroyer , the remains of Kennedy , 38 , his wife Carolyn Bessette Kennedy , 33 , and Lauren Bessette , her 34-year-old sister , were laid in the choppy Atlantic Ocean .",
+                "An employee of Martha 's Vineyard Airport alerted federal aviation officials that John F. Kennedy Jr. 's plane was unaccounted for nearly four hours before a phone call from a Kennedy family friend early Saturday morning triggered a massive air and sea search .",
+                "Larrabbee said the decision to end the rescue efforts were made in consultation with the National Transportation Safety Board and had been communicated to Kennedy 's family and the family of his passengers : his wife Carolyn Bessette Kennedy and her sister , Lauren Bessette .",
+                "Coast Guard Rear Adm. Richard M. Larrabee said his service and the Federal Aviation Administration began searching for the aircraft shortly after midnight when members of the Kennedy family said the plane had not arrived at an expected landing on Martha 's Vineyard Friday night .",
+                "The remains were taken to a Bourne hospital at about 7:15 p.m. on Wednesday night , and released to the victims ' families at 11 p.m. , according to the medical examiner 's office and the Cape & AMP ; Islands District Attorney 's office .",
+                "Kennedy 's single-engine Piper Saratoga fell into the waters late at night , seven miles south of the Kennedy home on Martha 's Vineyard as he was flying from New Jersey to attend his cousin Rory Kennedy 's wedding .",
+                "After Sen. Edward Kennedy , D-Mass. , traveled to Bridgehampton , N.Y. , to meet with and console John Kennedy 's sister , Caroline Kennedy Schlossberg , the Kennedy family released a statement .",
+                "After the service , the mourners returned to Woods Hole at 3:30 p.m. Sen. Kennedy and the funeral party then proceeded to Hyannis Port for a private reception ."
+            ],
+            "score": 0.6563656219600718,
+            "len": 377
+        }
+    ]
+}

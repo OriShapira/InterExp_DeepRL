@@ -1,0 +1,4082 @@
+{
+  "2006_d0603": {
+    "summary": "The rules , issued by the Environmental Protection Agency and the Army Corps of Engineers , are part of the administration 's effort to fight the court decision , issued in January 1997 by a federal district judge in Washington and upheld in June 1998 by the District of Columbia U.S . The resort could be looking at civil fines of up to $ 27,500 a day if the EPA determines the road is a violation of the Clean Water Act , which requires permits for construction through wetlands to protect migratory birds and other fauna . The $ 25-million-a-year cranberry industry has thrived for over 200 years in the state 's pinelands on the fringes of natural wetlands , where swampy conditions and a web of streams , dams and ditches allow farmers to flood growing areas easily and cheaply with the water that is essential to the crop . The rules would require developers to secure a permit from the Corps for all projects affecting a half-acre of wetlands or more , down from the current minimum of three acres . He said that the symposium , which followed the establishment of China 's office of the International Wetlands Organization , shows that the Chinese government is making further progress in protecting wetlands . A study commissioned by a group of landowners and developers and the National Association of Counties estimated the cost to the economy of the new permitting process at $ 300 million a year . The city 's new position echoes the views of Republican officials from rural communities around the reservoirs and pits city officials against private environmental groups and the federal Environmental Protection Agency , which say that special restrictions are needed because wetlands help to purify the city 's water . The accusations by Neil came about three weeks after the state and the Federal Environmental Protection Agency said that they were close to approving conditions under which growers could expand into 300 acres of wetlands over the next five years without seeking specific permission for each expansion as they had in the past . The new regulations have been in the works for more than four years , but were given new impetus 18 months ago when President Clinton said he wanted to tighten the requirements on developers `` to ensure that we think twice before building in our most sensitive wetlands . `` Despite President Clinton 's promise to stop the destruction of the nation 's wetlands , the US Army Corps of Engineers is rapidly retreating from enforcing the main law that protects streams , swamps , and marshes from filling and development , a review of the Corps ' records indicates . In the meantime , the Corps of Engineers has closed the road , leaving the resort with more than a million board-feet of cut timber and no way to remove it . In compliance with the convention , Uganda has made efforts to raise awareness of the public about uses of wetlands and the need of conservation .",
+    "summary_len": 512,
+    "summary_num_sents": 12,
+    "avg_sent_len": 42.666666666666664,
+    "scores_info": [
+      {
+        "len": 75,
+        "scores": {
+          "R1": {
+            "recall": 0.19124,
+            "recall_lower": 0.19124,
+            "recall_upper": 0.19124,
+            "f1": 0.17811,
+            "f1_lower": 0.17811,
+            "f1_upper": 0.17811,
+            "precision": 0.16667,
+            "precision_lower": 0.16667,
+            "precision_upper": 0.16667
+          },
+          "R2": {
+            "recall": 0.01215,
+            "recall_lower": 0.01215,
+            "recall_upper": 0.01215,
+            "f1": 0.0113,
+            "f1_lower": 0.0113,
+            "f1_upper": 0.0113,
+            "precision": 0.01056,
+            "precision_lower": 0.01056,
+            "precision_upper": 0.01056
+          },
+          "RL": {
+            "recall": 0.13944,
+            "recall_lower": 0.13944,
+            "recall_upper": 0.13944,
+            "f1": 0.12987,
+            "f1_lower": 0.12987,
+            "f1_upper": 0.12987,
+            "precision": 0.12153,
+            "precision_lower": 0.12153,
+            "precision_upper": 0.12153
+          },
+          "RSU4": {
+            "recall": 0.0534,
+            "recall_lower": 0.0534,
+            "recall_upper": 0.0534,
+            "f1": 0.04958,
+            "f1_lower": 0.04958,
+            "f1_upper": 0.04958,
+            "precision": 0.04627,
+            "precision_lower": 0.04627,
+            "precision_upper": 0.04627
+          }
+        }
+      },
+      {
+        "len": 150,
+        "scores": {
+          "R1": {
+            "recall": 0.3219,
+            "recall_lower": 0.3219,
+            "recall_upper": 0.3219,
+            "f1": 0.30588,
+            "f1_lower": 0.30588,
+            "f1_upper": 0.30588,
+            "precision": 0.29138,
+            "precision_lower": 0.29138,
+            "precision_upper": 0.29138
+          },
+          "R2": {
+            "recall": 0.03071,
+            "recall_lower": 0.03071,
+            "recall_upper": 0.03071,
+            "f1": 0.02917,
+            "f1_lower": 0.02917,
+            "f1_upper": 0.02917,
+            "precision": 0.02778,
+            "precision_lower": 0.02778,
+            "precision_upper": 0.02778
+          },
+          "RL": {
+            "recall": 0.16,
+            "recall_lower": 0.16,
+            "recall_upper": 0.16,
+            "f1": 0.15204,
+            "f1_lower": 0.15204,
+            "f1_upper": 0.15204,
+            "precision": 0.14483,
+            "precision_lower": 0.14483,
+            "precision_upper": 0.14483
+          },
+          "RSU4": {
+            "recall": 0.10402,
+            "recall_lower": 0.10402,
+            "recall_upper": 0.10402,
+            "f1": 0.09874,
+            "f1_lower": 0.09874,
+            "f1_upper": 0.09874,
+            "precision": 0.09397,
+            "precision_lower": 0.09397,
+            "precision_upper": 0.09397
+          }
+        }
+      },
+      {
+        "len": 250,
+        "scores": {
+          "R1": {
+            "recall": 0.39576,
+            "recall_lower": 0.39576,
+            "recall_upper": 0.39576,
+            "f1": 0.38399,
+            "f1_lower": 0.38399,
+            "f1_upper": 0.38399,
+            "precision": 0.3729,
+            "precision_lower": 0.3729,
+            "precision_upper": 0.3729
+          },
+          "R2": {
+            "recall": 0.06831,
+            "recall_lower": 0.06831,
+            "recall_upper": 0.06831,
+            "f1": 0.06627,
+            "f1_lower": 0.06627,
+            "f1_upper": 0.06627,
+            "precision": 0.06435,
+            "precision_lower": 0.06435,
+            "precision_upper": 0.06435
+          },
+          "RL": {
+            "recall": 0.17168,
+            "recall_lower": 0.17168,
+            "recall_upper": 0.17168,
+            "f1": 0.16657,
+            "f1_lower": 0.16657,
+            "f1_upper": 0.16657,
+            "precision": 0.16176,
+            "precision_lower": 0.16176,
+            "precision_upper": 0.16176
+          },
+          "RSU4": {
+            "recall": 0.1446,
+            "recall_lower": 0.1446,
+            "recall_upper": 0.1446,
+            "f1": 0.14025,
+            "f1_lower": 0.14025,
+            "f1_upper": 0.14025,
+            "precision": 0.13615,
+            "precision_lower": 0.13615,
+            "precision_upper": 0.13615
+          }
+        }
+      },
+      {
+        "len": 350,
+        "scores": {
+          "R1": {
+            "recall": 0.44652,
+            "recall_lower": 0.44652,
+            "recall_upper": 0.44652,
+            "f1": 0.3851,
+            "f1_lower": 0.3851,
+            "f1_upper": 0.3851,
+            "precision": 0.33854,
+            "precision_lower": 0.33854,
+            "precision_upper": 0.33854
+          },
+          "R2": {
+            "recall": 0.07783,
+            "recall_lower": 0.07783,
+            "recall_upper": 0.07783,
+            "f1": 0.06709,
+            "f1_lower": 0.06709,
+            "f1_upper": 0.06709,
+            "precision": 0.05896,
+            "precision_lower": 0.05896,
+            "precision_upper": 0.05896
+          },
+          "RL": {
+            "recall": 0.18646,
+            "recall_lower": 0.18646,
+            "recall_upper": 0.18646,
+            "f1": 0.16081,
+            "f1_lower": 0.16081,
+            "f1_upper": 0.16081,
+            "precision": 0.14137,
+            "precision_lower": 0.14137,
+            "precision_upper": 0.14137
+          },
+          "RSU4": {
+            "recall": 0.16116,
+            "recall_lower": 0.16116,
+            "recall_upper": 0.16116,
+            "f1": 0.13879,
+            "f1_lower": 0.13879,
+            "f1_upper": 0.13879,
+            "precision": 0.12187,
+            "precision_lower": 0.12187,
+            "precision_upper": 0.12187
+          }
+        }
+      }
+    ]
+  },
+  "2006_d0608": {
+    "summary": "When children are in the car , they ride in the back seat about 70 percent of the time , according to the agency 's analysis of federal crash data from 1996 and 1997 . ''At the end of the day , we focused on the most vulnerable and the most at-risk of being killed by the air bags that were supposed to benefit them , `` Transportation Secretary Rodney Slater said . The advisory noted that children under 12 should always sit in the rear seat and use age-appropriate restraints , but manufacturers and insurance industry officials said the warning failed to point out the benefits of side air bags used in conjunction with seat belts and child seats . Vetronix says it is in negotiations with the California Highway Patrol to provide the devices to its officers , and the company plans to market the system aggressively to police agencies and insurance companies nationwide . The company 's move follows a recommendation by the National Transportation Safety Board in January that a nationwide network of `` fitting stations `` for child seats be established to prevent the deaths of children in automobile accidents . `` It 's time for the automobile manufacturers to put kids first in the design of their vehicles , and to focus on the back seat where kids sit most of the time , `` Jim Hall , chairman of the National Transportation Safety Board , said Wednesday in a telephone interview . Now investigators can know when the driver applied the brakes in the seconds leading up to the crash , as well as the vehicle 's speed , engine speed and gas-pedal position , and whether seat belts were being used . The new system , unveiled at the Detroit auto show Wednesday , includes an airbag-like curtain on each side of the vehicle and is a response to the federal government 's revelation that almost half the people who die in light trucks and SUVs die in rollover accidents . When a baby seat that Mercedes offers is placed in the front , a sensor deactivates the air bag on that side of the car . By next year , DaimlerChrysler will have the capacity to conduct 800,000 inspections annually to make sure children are buckled properly in child seats and child seats are properly installed in both new and older DaimlerChrysler vehicles , the company officials said . `` The NTSB believes that the federal and state governments should be more directly involved in assuring that child safety seats are used correctly , `` said Jim Hall , the chairman of the safety agency . `` The car looks good and the customer is very happy -- and until he gets involved in a crash again and finds out if the air bag works or not , nobody 's going to know these are used air bags the guy jury-rigged in there , `` Graybill said .",
+    "summary_len": 497,
+    "summary_num_sents": 12,
+    "avg_sent_len": 41.416666666666664,
+    "scores_info": [
+      {
+        "len": 75,
+        "scores": {
+          "R1": {
+            "recall": 0.27007,
+            "recall_lower": 0.27007,
+            "recall_upper": 0.27007,
+            "f1": 0.26909,
+            "f1_lower": 0.26909,
+            "f1_upper": 0.26909,
+            "precision": 0.26812,
+            "precision_lower": 0.26812,
+            "precision_upper": 0.26812
+          },
+          "R2": {
+            "recall": 0.02963,
+            "recall_lower": 0.02963,
+            "recall_upper": 0.02963,
+            "f1": 0.02952,
+            "f1_lower": 0.02952,
+            "f1_upper": 0.02952,
+            "precision": 0.02941,
+            "precision_lower": 0.02941,
+            "precision_upper": 0.02941
+          },
+          "RL": {
+            "recall": 0.15328,
+            "recall_lower": 0.15328,
+            "recall_upper": 0.15328,
+            "f1": 0.15272,
+            "f1_lower": 0.15272,
+            "f1_upper": 0.15272,
+            "precision": 0.15217,
+            "precision_lower": 0.15217,
+            "precision_upper": 0.15217
+          },
+          "RSU4": {
+            "recall": 0.07405,
+            "recall_lower": 0.07405,
+            "recall_upper": 0.07405,
+            "f1": 0.07377,
+            "f1_lower": 0.07377,
+            "f1_upper": 0.07377,
+            "precision": 0.07349,
+            "precision_lower": 0.07349,
+            "precision_upper": 0.07349
+          }
+        }
+      },
+      {
+        "len": 150,
+        "scores": {
+          "R1": {
+            "recall": 0.34829,
+            "recall_lower": 0.34829,
+            "recall_upper": 0.34829,
+            "f1": 0.34489,
+            "f1_lower": 0.34489,
+            "f1_upper": 0.34489,
+            "precision": 0.34155,
+            "precision_lower": 0.34155,
+            "precision_upper": 0.34155
+          },
+          "R2": {
+            "recall": 0.04521,
+            "recall_lower": 0.04521,
+            "recall_upper": 0.04521,
+            "f1": 0.04477,
+            "f1_lower": 0.04477,
+            "f1_upper": 0.04477,
+            "precision": 0.04433,
+            "precision_lower": 0.04433,
+            "precision_upper": 0.04433
+          },
+          "RL": {
+            "recall": 0.16517,
+            "recall_lower": 0.16517,
+            "recall_upper": 0.16517,
+            "f1": 0.16355,
+            "f1_lower": 0.16355,
+            "f1_upper": 0.16355,
+            "precision": 0.16197,
+            "precision_lower": 0.16197,
+            "precision_upper": 0.16197
+          },
+          "RSU4": {
+            "recall": 0.11257,
+            "recall_lower": 0.11257,
+            "recall_upper": 0.11257,
+            "f1": 0.11145,
+            "f1_lower": 0.11145,
+            "f1_upper": 0.11145,
+            "precision": 0.11035,
+            "precision_lower": 0.11035,
+            "precision_upper": 0.11035
+          }
+        }
+      },
+      {
+        "len": 250,
+        "scores": {
+          "R1": {
+            "recall": 0.35978,
+            "recall_lower": 0.35978,
+            "recall_upper": 0.35978,
+            "f1": 0.359,
+            "f1_lower": 0.359,
+            "f1_upper": 0.359,
+            "precision": 0.35823,
+            "precision_lower": 0.35823,
+            "precision_upper": 0.35823
+          },
+          "R2": {
+            "recall": 0.05349,
+            "recall_lower": 0.05349,
+            "recall_upper": 0.05349,
+            "f1": 0.05337,
+            "f1_lower": 0.05337,
+            "f1_upper": 0.05337,
+            "precision": 0.05326,
+            "precision_lower": 0.05326,
+            "precision_upper": 0.05326
+          },
+          "RL": {
+            "recall": 0.16413,
+            "recall_lower": 0.16413,
+            "recall_upper": 0.16413,
+            "f1": 0.16377,
+            "f1_lower": 0.16377,
+            "f1_upper": 0.16377,
+            "precision": 0.16342,
+            "precision_lower": 0.16342,
+            "precision_upper": 0.16342
+          },
+          "RSU4": {
+            "recall": 0.12262,
+            "recall_lower": 0.12262,
+            "recall_upper": 0.12262,
+            "f1": 0.12235,
+            "f1_lower": 0.12235,
+            "f1_upper": 0.12235,
+            "precision": 0.12208,
+            "precision_lower": 0.12208,
+            "precision_upper": 0.12208
+          }
+        }
+      },
+      {
+        "len": 350,
+        "scores": {
+          "R1": {
+            "recall": 0.43763,
+            "recall_lower": 0.43763,
+            "recall_upper": 0.43763,
+            "f1": 0.37859,
+            "f1_lower": 0.37859,
+            "f1_upper": 0.37859,
+            "precision": 0.33359,
+            "precision_lower": 0.33359,
+            "precision_upper": 0.33359
+          },
+          "R2": {
+            "recall": 0.06364,
+            "recall_lower": 0.06364,
+            "recall_upper": 0.06364,
+            "f1": 0.05502,
+            "f1_lower": 0.05502,
+            "f1_upper": 0.05502,
+            "precision": 0.04846,
+            "precision_lower": 0.04846,
+            "precision_upper": 0.04846
+          },
+          "RL": {
+            "recall": 0.18913,
+            "recall_lower": 0.18913,
+            "recall_upper": 0.18913,
+            "f1": 0.16362,
+            "f1_lower": 0.16362,
+            "f1_upper": 0.16362,
+            "precision": 0.14417,
+            "precision_lower": 0.14417,
+            "precision_upper": 0.14417
+          },
+          "RSU4": {
+            "recall": 0.15288,
+            "recall_lower": 0.15288,
+            "recall_upper": 0.15288,
+            "f1": 0.13207,
+            "f1_lower": 0.13207,
+            "f1_upper": 0.13207,
+            "precision": 0.11624,
+            "precision_lower": 0.11624,
+            "precision_upper": 0.11624
+          }
+        }
+      }
+    ]
+  },
+  "2006_d0624": {
+    "summary": "The report was commissioned to investigate the police handling of the inquiry into the death of 18-year-old Stephen Lawrence who was fatally stabbed by white youths at a bus stop in south-east London in 1993 . Think of the impact in the United States of the recent conviction of a white racist in the Texas dragging case , and of the shooting of an unarmed West African immigrant early last month by police officers in the Bronx . Straw said he would lead a steering group including members from the Commission for Racial Equality , the Black Police Association , the Metropolitan Police and other police organizations and the Crown Prosecution Service to enact most of the recommendations . Home Office minister Paul Boateng denied that Straw or his officials were to blame for the publication of witnesses ' names and addresses in appendices to the report on the police investigation of the racist murder . In the most comprehensive examination of race relations in Britain in nearly 20 years , Sir William Macpherson , a retired judge , concluded that the London police force is riven with `` pernicious and institutionalized racism , `` and that racism among the police reflects a problem in the wider society . `` The publication of today 's report on the killing of Stephen Lawrence is a very important day in the history of our country , `` Blair said . The report was startling in its condemnation of Scotland Yard 's investigation of the murder and its conclusion that the respected police force and by implication much of British society is plagued by racism . At the outset of the hearings , Lawrence 's parents , Neville and Doreen Lawrence , and others pursuing the case protested the choice of Macpherson as chairman , saying he was insensitive to their needs and perspectives . The age and sex of the suspects was not released but police said the arrests spanned Hounslow , an Asian stronghold in the west of the city , to Greenwich , a wealthy white enclave in southeast London . In his announcement , the home secretary said the Race Relations Act would be extended to cover the police -- one of the report 's 70 recommendations . The government of Prime Minister Tony Blair responded to the 800-page report by announcing a radical overhaul of the country 's racial discrimination laws , saying they would now apply to the police and all government agencies . Lawrence 's death and the bungled police investigation that failed to bring his killers to justice generated an extraordinary level of anger and frustration among blacks that last year , after more than five years of pressure , finally moved the government to conduct a formal inquiry .",
+    "summary_len": 465,
+    "summary_num_sents": 12,
+    "avg_sent_len": 38.75,
+    "scores_info": [
+      {
+        "len": 75,
+        "scores": {
+          "R1": {
+            "recall": 0.41912,
+            "recall_lower": 0.41912,
+            "recall_upper": 0.41912,
+            "f1": 0.39583,
+            "f1_lower": 0.39583,
+            "f1_upper": 0.39583,
+            "precision": 0.375,
+            "precision_lower": 0.375,
+            "precision_upper": 0.375
+          },
+          "R2": {
+            "recall": 0.10075,
+            "recall_lower": 0.10075,
+            "recall_upper": 0.10075,
+            "f1": 0.09507,
+            "f1_lower": 0.09507,
+            "f1_upper": 0.09507,
+            "precision": 0.09,
+            "precision_lower": 0.09,
+            "precision_upper": 0.09
+          },
+          "RL": {
+            "recall": 0.22794,
+            "recall_lower": 0.22794,
+            "recall_upper": 0.22794,
+            "f1": 0.21528,
+            "f1_lower": 0.21528,
+            "f1_upper": 0.21528,
+            "precision": 0.20395,
+            "precision_lower": 0.20395,
+            "precision_upper": 0.20395
+          },
+          "RSU4": {
+            "recall": 0.15497,
+            "recall_lower": 0.15497,
+            "recall_upper": 0.15497,
+            "f1": 0.14603,
+            "f1_lower": 0.14603,
+            "f1_upper": 0.14603,
+            "precision": 0.13807,
+            "precision_lower": 0.13807,
+            "precision_upper": 0.13807
+          }
+        }
+      },
+      {
+        "len": 150,
+        "scores": {
+          "R1": {
+            "recall": 0.40672,
+            "recall_lower": 0.40672,
+            "recall_upper": 0.40672,
+            "f1": 0.38929,
+            "f1_lower": 0.38929,
+            "f1_upper": 0.38929,
+            "precision": 0.37329,
+            "precision_lower": 0.37329,
+            "precision_upper": 0.37329
+          },
+          "R2": {
+            "recall": 0.09586,
+            "recall_lower": 0.09586,
+            "recall_upper": 0.09586,
+            "f1": 0.09172,
+            "f1_lower": 0.09172,
+            "f1_upper": 0.09172,
+            "precision": 0.08793,
+            "precision_lower": 0.08793,
+            "precision_upper": 0.08793
+          },
+          "RL": {
+            "recall": 0.21082,
+            "recall_lower": 0.21082,
+            "recall_upper": 0.21082,
+            "f1": 0.20178,
+            "f1_lower": 0.20178,
+            "f1_upper": 0.20178,
+            "precision": 0.19349,
+            "precision_lower": 0.19349,
+            "precision_upper": 0.19349
+          },
+          "RSU4": {
+            "recall": 0.14753,
+            "recall_lower": 0.14753,
+            "recall_upper": 0.14753,
+            "f1": 0.14108,
+            "f1_lower": 0.14108,
+            "f1_upper": 0.14108,
+            "precision": 0.13517,
+            "precision_lower": 0.13517,
+            "precision_upper": 0.13517
+          }
+        }
+      },
+      {
+        "len": 250,
+        "scores": {
+          "R1": {
+            "recall": 0.44804,
+            "recall_lower": 0.44804,
+            "recall_upper": 0.44804,
+            "f1": 0.43801,
+            "f1_lower": 0.43801,
+            "f1_upper": 0.43801,
+            "precision": 0.42842,
+            "precision_lower": 0.42842,
+            "precision_upper": 0.42842
+          },
+          "R2": {
+            "recall": 0.1156,
+            "recall_lower": 0.1156,
+            "recall_upper": 0.1156,
+            "f1": 0.113,
+            "f1_lower": 0.113,
+            "f1_upper": 0.113,
+            "precision": 0.11052,
+            "precision_lower": 0.11052,
+            "precision_upper": 0.11052
+          },
+          "RL": {
+            "recall": 0.21788,
+            "recall_lower": 0.21788,
+            "recall_upper": 0.21788,
+            "f1": 0.213,
+            "f1_lower": 0.213,
+            "f1_upper": 0.213,
+            "precision": 0.20833,
+            "precision_lower": 0.20833,
+            "precision_upper": 0.20833
+          },
+          "RSU4": {
+            "recall": 0.1749,
+            "recall_lower": 0.1749,
+            "recall_upper": 0.1749,
+            "f1": 0.17094,
+            "f1_lower": 0.17094,
+            "f1_upper": 0.17094,
+            "precision": 0.16715,
+            "precision_lower": 0.16715,
+            "precision_upper": 0.16715
+          }
+        }
+      },
+      {
+        "len": 350,
+        "scores": {
+          "R1": {
+            "recall": 0.48387,
+            "recall_lower": 0.48387,
+            "recall_upper": 0.48387,
+            "f1": 0.42617,
+            "f1_lower": 0.42617,
+            "f1_upper": 0.42617,
+            "precision": 0.38077,
+            "precision_lower": 0.38077,
+            "precision_upper": 0.38077
+          },
+          "R2": {
+            "recall": 0.12856,
+            "recall_lower": 0.12856,
+            "recall_upper": 0.12856,
+            "f1": 0.11318,
+            "f1_lower": 0.11318,
+            "f1_upper": 0.11318,
+            "precision": 0.10108,
+            "precision_lower": 0.10108,
+            "precision_upper": 0.10108
+          },
+          "RL": {
+            "recall": 0.24438,
+            "recall_lower": 0.24438,
+            "recall_upper": 0.24438,
+            "f1": 0.21524,
+            "f1_lower": 0.21524,
+            "f1_upper": 0.21524,
+            "precision": 0.19231,
+            "precision_lower": 0.19231,
+            "precision_upper": 0.19231
+          },
+          "RSU4": {
+            "recall": 0.19592,
+            "recall_lower": 0.19592,
+            "recall_upper": 0.19592,
+            "f1": 0.17234,
+            "f1_lower": 0.17234,
+            "f1_upper": 0.17234,
+            "precision": 0.15383,
+            "precision_lower": 0.15383,
+            "precision_upper": 0.15383
+          }
+        }
+      }
+    ]
+  },
+  "2006_d0617": {
+    "summary": "Investigators from the United States and Egypt will review part of the flight control system in the tail of Boeing 's 767 airplane as part of the investigation into the crash of EgyptAir Flight 990 , the chairman of the National Transportation Safety Board said Friday . The NTSB would remain the lead agency in the investigation if the cause of the Oct. 31 crash of the Boeing 767-300ER is found to be mechanical or pilot error . It would have recorded crew conversations in the jet 's cockpit during the final 30 minutes of flight , and could prove to be even more important than the flight data recorder in helping investigators determine the cause of the crash . It was difficult to understand why data concerning the characteristics of radar used in connection with the U.S. civil aviation was classified and why it was unavailable for the analysis of apparent targets that were in the vicinity of the plane , he wrote . But the chairman , James E. Hall , said that the information from the flight data recorder also showed that both engines had been switched off from the cockpit . Aboard the same plane were 73 family members of the Egyptian victims of the EgyptAir flight 990 , a Boeing 767 , which crashed into the Atlantic Ocean off the northeastern coast of the U.S. shortly after taking off from John F. Kennedy International Airport on the way to Cairo early Sunday . In the crash of SwissAir Flight 111 off the coast of Nova Scotia last year , the recorders have provided no insight into the source of smoke in the cockpit that the pilots described to air traffic controllers on the ground . Despite the puzzling final minutes of the flight and the lack of any clear-cut cause emerging from the first analyses of the two black boxes _ the flight data and cockpit voice recorders _ Hall was optimistic that the cause would eventually be pinpointed . El-Demiri said Egypt is still demanding the U.S. to release additional information on the plane 's elevators , which controls the nose up or down , and to publish radar images , which the U.S. withheld for reasons of classified military data and might give clues to the tragic incident . In November , with no evidence the crash was an accident , Hall was prepared to turn the investigation over to the FBI _ further fueling the theory of pilot suicide _ when the Egyptian government strenuously objected . The disclosure comes just a couple days after the chairman of EgyptAir told a news conference in Cairo that `` something happened `` to the tail of the Boeing 767 that caused it to go into a near supersonic dive before the plane broke up and crashed into the sea . The U.S. magazine 's report said that electromagnetic interferences by military radars in the area , over which the EgyptAir plane was flying , could have caused the sudden shutdown of its computerized auto pilot , the elevators and engines .",
+    "summary_len": 517,
+    "summary_num_sents": 12,
+    "avg_sent_len": 43.083333333333336,
+    "scores_info": [
+      {
+        "len": 75,
+        "scores": {
+          "R1": {
+            "recall": 0.25735,
+            "recall_lower": 0.25735,
+            "recall_upper": 0.25735,
+            "f1": 0.24648,
+            "f1_lower": 0.24648,
+            "f1_upper": 0.24648,
+            "precision": 0.23649,
+            "precision_lower": 0.23649,
+            "precision_upper": 0.23649
+          },
+          "R2": {
+            "recall": 0.09328,
+            "recall_lower": 0.09328,
+            "recall_upper": 0.09328,
+            "f1": 0.08929,
+            "f1_lower": 0.08929,
+            "f1_upper": 0.08929,
+            "precision": 0.08562,
+            "precision_lower": 0.08562,
+            "precision_upper": 0.08562
+          },
+          "RL": {
+            "recall": 0.15809,
+            "recall_lower": 0.15809,
+            "recall_upper": 0.15809,
+            "f1": 0.15141,
+            "f1_lower": 0.15141,
+            "f1_upper": 0.15141,
+            "precision": 0.14527,
+            "precision_lower": 0.14527,
+            "precision_upper": 0.14527
+          },
+          "RSU4": {
+            "recall": 0.08801,
+            "recall_lower": 0.08801,
+            "recall_upper": 0.08801,
+            "f1": 0.08415,
+            "f1_lower": 0.08415,
+            "f1_upper": 0.08415,
+            "precision": 0.08061,
+            "precision_lower": 0.08061,
+            "precision_upper": 0.08061
+          }
+        }
+      },
+      {
+        "len": 150,
+        "scores": {
+          "R1": {
+            "recall": 0.33028,
+            "recall_lower": 0.33028,
+            "recall_upper": 0.33028,
+            "f1": 0.31774,
+            "f1_lower": 0.31774,
+            "f1_upper": 0.31774,
+            "precision": 0.30612,
+            "precision_lower": 0.30612,
+            "precision_upper": 0.30612
+          },
+          "R2": {
+            "recall": 0.06654,
+            "recall_lower": 0.06654,
+            "recall_upper": 0.06654,
+            "f1": 0.064,
+            "f1_lower": 0.064,
+            "f1_upper": 0.064,
+            "precision": 0.06164,
+            "precision_lower": 0.06164,
+            "precision_upper": 0.06164
+          },
+          "RL": {
+            "recall": 0.17982,
+            "recall_lower": 0.17982,
+            "recall_upper": 0.17982,
+            "f1": 0.173,
+            "f1_lower": 0.173,
+            "f1_upper": 0.173,
+            "precision": 0.16667,
+            "precision_lower": 0.16667,
+            "precision_upper": 0.16667
+          },
+          "RSU4": {
+            "recall": 0.11354,
+            "recall_lower": 0.11354,
+            "recall_upper": 0.11354,
+            "f1": 0.10915,
+            "f1_lower": 0.10915,
+            "f1_upper": 0.10915,
+            "precision": 0.10508,
+            "precision_lower": 0.10508,
+            "precision_upper": 0.10508
+          }
+        }
+      },
+      {
+        "len": 250,
+        "scores": {
+          "R1": {
+            "recall": 0.40442,
+            "recall_lower": 0.40442,
+            "recall_upper": 0.40442,
+            "f1": 0.39249,
+            "f1_lower": 0.39249,
+            "f1_upper": 0.39249,
+            "precision": 0.38125,
+            "precision_lower": 0.38125,
+            "precision_upper": 0.38125
+          },
+          "R2": {
+            "recall": 0.10655,
+            "recall_lower": 0.10655,
+            "recall_upper": 0.10655,
+            "f1": 0.10339,
+            "f1_lower": 0.10339,
+            "f1_upper": 0.10339,
+            "precision": 0.10042,
+            "precision_lower": 0.10042,
+            "precision_upper": 0.10042
+          },
+          "RL": {
+            "recall": 0.19337,
+            "recall_lower": 0.19337,
+            "recall_upper": 0.19337,
+            "f1": 0.18767,
+            "f1_lower": 0.18767,
+            "f1_upper": 0.18767,
+            "precision": 0.18229,
+            "precision_lower": 0.18229,
+            "precision_upper": 0.18229
+          },
+          "RSU4": {
+            "recall": 0.15673,
+            "recall_lower": 0.15673,
+            "recall_upper": 0.15673,
+            "f1": 0.15205,
+            "f1_lower": 0.15205,
+            "f1_upper": 0.15205,
+            "precision": 0.14765,
+            "precision_lower": 0.14765,
+            "precision_upper": 0.14765
+          }
+        }
+      },
+      {
+        "len": 350,
+        "scores": {
+          "R1": {
+            "recall": 0.43787,
+            "recall_lower": 0.43787,
+            "recall_upper": 0.43787,
+            "f1": 0.37532,
+            "f1_lower": 0.37532,
+            "f1_upper": 0.37532,
+            "precision": 0.3284,
+            "precision_lower": 0.3284,
+            "precision_upper": 0.3284
+          },
+          "R2": {
+            "recall": 0.12871,
+            "recall_lower": 0.12871,
+            "recall_upper": 0.12871,
+            "f1": 0.11026,
+            "f1_lower": 0.11026,
+            "f1_upper": 0.11026,
+            "precision": 0.09644,
+            "precision_lower": 0.09644,
+            "precision_upper": 0.09644
+          },
+          "RL": {
+            "recall": 0.2071,
+            "recall_lower": 0.2071,
+            "recall_upper": 0.2071,
+            "f1": 0.17752,
+            "f1_lower": 0.17752,
+            "f1_upper": 0.17752,
+            "precision": 0.15533,
+            "precision_lower": 0.15533,
+            "precision_upper": 0.15533
+          },
+          "RSU4": {
+            "recall": 0.17508,
+            "recall_lower": 0.17508,
+            "recall_upper": 0.17508,
+            "f1": 0.14984,
+            "f1_lower": 0.14984,
+            "f1_upper": 0.14984,
+            "precision": 0.13096,
+            "precision_lower": 0.13096,
+            "precision_upper": 0.13096
+          }
+        }
+      }
+    ]
+  },
+  "2006_d0614": {
+    "summary": "`` The result tonight ... reflects the fact that the people of Quebec , like the people of all Canada , want this country of ours to work and be a success , `` said Charest , who will serve as opposition leader in the provincial legislature . In the first referendum on independence , in May 1980 , the separatists gained 40 percent of the votes cast in Quebec , the only province where the referendum was held . The separatists fell short of the 46 percent they had said they needed to succeed in a third referendum to take Quebec out of Canada and form an independent nation of roughly seven million people on the northern border of the United States . The re-election of the PQ government was widely believed to have much impact on the future of both Quebec and the country of Canada as a whole . Lucien Bouchard , the premier of Quebec , and Jean Charest , the leader of the province 's Liberal Party , are now locked in a do-or-die election that on Nov. 30 will decide , to a large extent , whether Quebec 's long flirtation with secession will succeed at last . Bouchard told voters during the campaign that he would hold another referendum in the four to five years of his government if `` winning conditions `` existed . It never has , in part because transportation officials believe it is not safe , despite the experience of the rest of the country , and most of the United States . The poll found that 92 percent of Canadians living outside Quebec believe the province 's Aboriginal people have the right to stay with Canada in the event of a vote for independence . The leader of the Quebec Liberals , Jean Charest , said the election would offer a clear choice to voters in the mostly French-speaking province . The Inuit and the Cree natives of northern Quebec , and some English-speaking residents in western Quebec and Montreal has said they want to remain in Canada if Quebec votes to break away from the country . In one stroke , he silenced the critics in his own party who suspected his commitment to changing relations with the central government , and he undercut the position of Charest , who equated a vote for the Parti Quebecois with a vote for separation . Questioning the legality of Quebec 's 30-year-fight for independence was a risky strategy for the federal government because any backlash against it in Quebec could make the separatist government of Premier Lucien Bouchard even more popular .",
+    "summary_len": 443,
+    "summary_num_sents": 12,
+    "avg_sent_len": 36.916666666666664,
+    "scores_info": [
+      {
+        "len": 75,
+        "scores": {
+          "R1": {
+            "recall": 0.37818,
+            "recall_lower": 0.37818,
+            "recall_upper": 0.37818,
+            "f1": 0.39171,
+            "f1_lower": 0.39171,
+            "f1_upper": 0.39171,
+            "precision": 0.40625,
+            "precision_lower": 0.40625,
+            "precision_upper": 0.40625
+          },
+          "R2": {
+            "recall": 0.10701,
+            "recall_lower": 0.10701,
+            "recall_upper": 0.10701,
+            "f1": 0.1109,
+            "f1_lower": 0.1109,
+            "f1_upper": 0.1109,
+            "precision": 0.11508,
+            "precision_lower": 0.11508,
+            "precision_upper": 0.11508
+          },
+          "RL": {
+            "recall": 0.22545,
+            "recall_lower": 0.22545,
+            "recall_upper": 0.22545,
+            "f1": 0.23352,
+            "f1_lower": 0.23352,
+            "f1_upper": 0.23352,
+            "precision": 0.24219,
+            "precision_lower": 0.24219,
+            "precision_upper": 0.24219
+          },
+          "RSU4": {
+            "recall": 0.15132,
+            "recall_lower": 0.15132,
+            "recall_upper": 0.15132,
+            "f1": 0.15696,
+            "f1_lower": 0.15696,
+            "f1_upper": 0.15696,
+            "precision": 0.16304,
+            "precision_lower": 0.16304,
+            "precision_upper": 0.16304
+          }
+        }
+      },
+      {
+        "len": 150,
+        "scores": {
+          "R1": {
+            "recall": 0.39091,
+            "recall_lower": 0.39091,
+            "recall_upper": 0.39091,
+            "f1": 0.3902,
+            "f1_lower": 0.3902,
+            "f1_upper": 0.3902,
+            "precision": 0.38949,
+            "precision_lower": 0.38949,
+            "precision_upper": 0.38949
+          },
+          "R2": {
+            "recall": 0.09707,
+            "recall_lower": 0.09707,
+            "recall_upper": 0.09707,
+            "f1": 0.09689,
+            "f1_lower": 0.09689,
+            "f1_upper": 0.09689,
+            "precision": 0.09672,
+            "precision_lower": 0.09672,
+            "precision_upper": 0.09672
+          },
+          "RL": {
+            "recall": 0.22545,
+            "recall_lower": 0.22545,
+            "recall_upper": 0.22545,
+            "f1": 0.22504,
+            "f1_lower": 0.22504,
+            "f1_upper": 0.22504,
+            "precision": 0.22464,
+            "precision_lower": 0.22464,
+            "precision_upper": 0.22464
+          },
+          "RSU4": {
+            "recall": 0.15266,
+            "recall_lower": 0.15266,
+            "recall_upper": 0.15266,
+            "f1": 0.15237,
+            "f1_lower": 0.15237,
+            "f1_upper": 0.15237,
+            "precision": 0.15209,
+            "precision_lower": 0.15209,
+            "precision_upper": 0.15209
+          }
+        }
+      },
+      {
+        "len": 250,
+        "scores": {
+          "R1": {
+            "recall": 0.44518,
+            "recall_lower": 0.44518,
+            "recall_upper": 0.44518,
+            "f1": 0.44395,
+            "f1_lower": 0.44395,
+            "f1_upper": 0.44395,
+            "precision": 0.44273,
+            "precision_lower": 0.44273,
+            "precision_upper": 0.44273
+          },
+          "R2": {
+            "recall": 0.10567,
+            "recall_lower": 0.10567,
+            "recall_upper": 0.10567,
+            "f1": 0.10538,
+            "f1_lower": 0.10538,
+            "f1_upper": 0.10538,
+            "precision": 0.10509,
+            "precision_lower": 0.10509,
+            "precision_upper": 0.10509
+          },
+          "RL": {
+            "recall": 0.20266,
+            "recall_lower": 0.20266,
+            "recall_upper": 0.20266,
+            "f1": 0.2021,
+            "f1_lower": 0.2021,
+            "f1_upper": 0.2021,
+            "precision": 0.20154,
+            "precision_lower": 0.20154,
+            "precision_upper": 0.20154
+          },
+          "RSU4": {
+            "recall": 0.16773,
+            "recall_lower": 0.16773,
+            "recall_upper": 0.16773,
+            "f1": 0.16726,
+            "f1_lower": 0.16726,
+            "f1_upper": 0.16726,
+            "precision": 0.16679,
+            "precision_lower": 0.16679,
+            "precision_upper": 0.16679
+          }
+        }
+      },
+      {
+        "len": 350,
+        "scores": {
+          "R1": {
+            "recall": 0.49356,
+            "recall_lower": 0.49356,
+            "recall_upper": 0.49356,
+            "f1": 0.43361,
+            "f1_lower": 0.43361,
+            "f1_upper": 0.43361,
+            "precision": 0.38665,
+            "precision_lower": 0.38665,
+            "precision_upper": 0.38665
+          },
+          "R2": {
+            "recall": 0.12239,
+            "recall_lower": 0.12239,
+            "recall_upper": 0.12239,
+            "f1": 0.10747,
+            "f1_lower": 0.10747,
+            "f1_upper": 0.10747,
+            "precision": 0.09579,
+            "precision_lower": 0.09579,
+            "precision_upper": 0.09579
+          },
+          "RL": {
+            "recall": 0.22299,
+            "recall_lower": 0.22299,
+            "recall_upper": 0.22299,
+            "f1": 0.19591,
+            "f1_lower": 0.19591,
+            "f1_upper": 0.19591,
+            "precision": 0.17469,
+            "precision_lower": 0.17469,
+            "precision_upper": 0.17469
+          },
+          "RSU4": {
+            "recall": 0.19516,
+            "recall_lower": 0.19516,
+            "recall_upper": 0.19516,
+            "f1": 0.17123,
+            "f1_lower": 0.17123,
+            "f1_upper": 0.17123,
+            "precision": 0.15253,
+            "precision_lower": 0.15253,
+            "precision_upper": 0.15253
+          }
+        }
+      }
+    ]
+  },
+  "2006_d0616": {
+    "summary": "He said the militants were planning `` a number of terrorist acts on the territory of Chechnya `` at the end of the month , but for the moment were concentrating on `` quick attacks `` on Russian checkpoints . The separatist leader also said that if the Russian authorities present evidence showing that Chechen people have something to do with the bombings of apartment houses in Moscow , Volgodonsk , and Buynaksk , he is prepared to hand over the suspects to the courts `` under the control of international organizations . `` Naurskaya , Shelkovskaya and Nadterechnaya districts are completely controlled by the federal troops , who have also taken control of seven of the 22 villages in the Gudermes district and nine of the 31 villages in the Grozny district , while the separatists are short of weaponry , munitions and medical supplies . The Chechens have most of the territory in the more heavily populated regions south of the river , though the Russians have made inroads in western Chechnya and have been massing forces along Chechnya 's eastern border . Kazantsev said the Interior Ministry is to play the key role in the second phase of the anti-terrorist operation in Chechnya , Interfax reported . The rebel incursions and several terrorist explosions that claimed the lives of more than 300 people in several major Russian cities , including Moscow , have steeled the authorities ' resolve to deal heavy blows to the militants in Chechnya . About 50 persons have been detained in the breakaway republic of Chechnya , eight of whom may have taken part in the suicide bombing in the city of Argun , 10 kilometers southeast of the Chechen capital of Grozny , Russian presidential aide Sergei Yastrzhembsky on Chechnya told an interview in Moscow Wednesday . `` The actions of Russia 's air force are in compliance with a program approved by the General Staff of the Russian armed forces , `` the Interfax news agency quoted Kornukov as saying . MOSCOW , July 3 ( Xinhua ) -- The latest report shows that the casualties of the Russian joint troops in Chechnya in a series of terrorist blasts made by Chechen rebels Sunday night have reached over 100 , said the Russian Interior Ministry on Monday . Officials opened border crossings at Stavropol , to the north of Chechnya , and at Dagestan , to the east of the breakaway republic , Russian news reports said . Viktor Kazantsev , the commander of federal troops in Chechnya , said Friday that the first stage of the counter-terrorist operation has been successfully completed and that federal troops have assumed control over one third of the Chechen territory . The rebels are retreating from the Gudermes and Sunzha districts to mountainous areas in Chechnya under attacks from the federal troops , said a source from the Russian Defense Ministry .",
+    "summary_len": 488,
+    "summary_num_sents": 12,
+    "avg_sent_len": 40.666666666666664,
+    "scores_info": [
+      {
+        "len": 75,
+        "scores": {
+          "R1": {
+            "recall": 0.26596,
+            "recall_lower": 0.26596,
+            "recall_upper": 0.26596,
+            "f1": 0.27473,
+            "f1_lower": 0.27473,
+            "f1_upper": 0.27473,
+            "precision": 0.28409,
+            "precision_lower": 0.28409,
+            "precision_upper": 0.28409
+          },
+          "R2": {
+            "recall": 0.02158,
+            "recall_lower": 0.02158,
+            "recall_upper": 0.02158,
+            "f1": 0.0223,
+            "f1_lower": 0.0223,
+            "f1_upper": 0.0223,
+            "precision": 0.02308,
+            "precision_lower": 0.02308,
+            "precision_upper": 0.02308
+          },
+          "RL": {
+            "recall": 0.14894,
+            "recall_lower": 0.14894,
+            "recall_upper": 0.14894,
+            "f1": 0.15385,
+            "f1_lower": 0.15385,
+            "f1_upper": 0.15385,
+            "precision": 0.15909,
+            "precision_lower": 0.15909,
+            "precision_upper": 0.15909
+          },
+          "RSU4": {
+            "recall": 0.07064,
+            "recall_lower": 0.07064,
+            "recall_upper": 0.07064,
+            "f1": 0.07306,
+            "f1_lower": 0.07306,
+            "f1_upper": 0.07306,
+            "precision": 0.07566,
+            "precision_lower": 0.07566,
+            "precision_upper": 0.07566
+          }
+        }
+      },
+      {
+        "len": 150,
+        "scores": {
+          "R1": {
+            "recall": 0.28265,
+            "recall_lower": 0.28265,
+            "recall_upper": 0.28265,
+            "f1": 0.28964,
+            "f1_lower": 0.28964,
+            "f1_upper": 0.28964,
+            "precision": 0.29699,
+            "precision_lower": 0.29699,
+            "precision_upper": 0.29699
+          },
+          "R2": {
+            "recall": 0.02342,
+            "recall_lower": 0.02342,
+            "recall_upper": 0.02342,
+            "f1": 0.02401,
+            "f1_lower": 0.02401,
+            "f1_upper": 0.02401,
+            "precision": 0.02462,
+            "precision_lower": 0.02462,
+            "precision_upper": 0.02462
+          },
+          "RL": {
+            "recall": 0.15385,
+            "recall_lower": 0.15385,
+            "recall_upper": 0.15385,
+            "f1": 0.15765,
+            "f1_lower": 0.15765,
+            "f1_upper": 0.15765,
+            "precision": 0.16165,
+            "precision_lower": 0.16165,
+            "precision_upper": 0.16165
+          },
+          "RSU4": {
+            "recall": 0.08389,
+            "recall_lower": 0.08389,
+            "recall_upper": 0.08389,
+            "f1": 0.08601,
+            "f1_lower": 0.08601,
+            "f1_upper": 0.08601,
+            "precision": 0.08824,
+            "precision_lower": 0.08824,
+            "precision_upper": 0.08824
+          }
+        }
+      },
+      {
+        "len": 250,
+        "scores": {
+          "R1": {
+            "recall": 0.34871,
+            "recall_lower": 0.34871,
+            "recall_upper": 0.34871,
+            "f1": 0.35326,
+            "f1_lower": 0.35326,
+            "f1_upper": 0.35326,
+            "precision": 0.35793,
+            "precision_lower": 0.35793,
+            "precision_upper": 0.35793
+          },
+          "R2": {
+            "recall": 0.05603,
+            "recall_lower": 0.05603,
+            "recall_upper": 0.05603,
+            "f1": 0.05677,
+            "f1_lower": 0.05677,
+            "f1_upper": 0.05677,
+            "precision": 0.05752,
+            "precision_lower": 0.05752,
+            "precision_upper": 0.05752
+          },
+          "RL": {
+            "recall": 0.16738,
+            "recall_lower": 0.16738,
+            "recall_upper": 0.16738,
+            "f1": 0.16957,
+            "f1_lower": 0.16957,
+            "f1_upper": 0.16957,
+            "precision": 0.17181,
+            "precision_lower": 0.17181,
+            "precision_upper": 0.17181
+          },
+          "RSU4": {
+            "recall": 0.11993,
+            "recall_lower": 0.11993,
+            "recall_upper": 0.11993,
+            "f1": 0.12151,
+            "f1_lower": 0.12151,
+            "f1_upper": 0.12151,
+            "precision": 0.12314,
+            "precision_lower": 0.12314,
+            "precision_upper": 0.12314
+          }
+        }
+      },
+      {
+        "len": 350,
+        "scores": {
+          "R1": {
+            "recall": 0.37891,
+            "recall_lower": 0.37891,
+            "recall_upper": 0.37891,
+            "f1": 0.34035,
+            "f1_lower": 0.34035,
+            "f1_upper": 0.34035,
+            "precision": 0.30892,
+            "precision_lower": 0.30892,
+            "precision_upper": 0.30892
+          },
+          "R2": {
+            "recall": 0.05882,
+            "recall_lower": 0.05882,
+            "recall_upper": 0.05882,
+            "f1": 0.05281,
+            "f1_lower": 0.05281,
+            "f1_upper": 0.05281,
+            "precision": 0.04792,
+            "precision_lower": 0.04792,
+            "precision_upper": 0.04792
+          },
+          "RL": {
+            "recall": 0.18555,
+            "recall_lower": 0.18555,
+            "recall_upper": 0.18555,
+            "f1": 0.16667,
+            "f1_lower": 0.16667,
+            "f1_upper": 0.16667,
+            "precision": 0.15127,
+            "precision_lower": 0.15127,
+            "precision_upper": 0.15127
+          },
+          "RSU4": {
+            "recall": 0.13191,
+            "recall_lower": 0.13191,
+            "recall_upper": 0.13191,
+            "f1": 0.11836,
+            "f1_lower": 0.11836,
+            "f1_upper": 0.11836,
+            "precision": 0.10733,
+            "precision_lower": 0.10733,
+            "precision_upper": 0.10733
+          }
+        }
+      }
+    ]
+  },
+  "2006_d0605": {
+    "summary": "And , even trickier , can the glucosamine and chondroitin in the pill work their way from the stomach to the blood to the aching knee ? The safety of the drugs will only become clear in the months ahead as the drugs are used by hundreds of thousands of patients compared to the few thousand patients which took part in the drugs ' testing . `` It 's one of the most exciting developments in the treatment of arthritis in 25 years because we potentially will be able to treat people for their pain and inflammation without them suffering the side effects , `` says Rubin . A different drug of the same type , Merck & AMP ; Co. 's Vioxx , is awaiting approval by the Food and Drug Administration and could be on the market by summer . Celebrex is also approved for osteoarthritis , which is the wear and tear of joints usually linked with aging , as well as for rheumatoid arthritis , in which the body 's immune system backfires to cause pain and inflammation . Osteoarthritis , by far the most common form of the disease , develops when the cartilage that covers the ends of the bones in the joints begins to break down . They spend more than $ 1 billion a year on unproven remedies for the pain and inflammation of more than 100 different types of arthritis , according to the Arthritis Foundation . One study shows that osteoarthritis has the potential to compromise the health of family members as a result of the patient 's negative responses to symptoms and the burden of providing emotional support and task assistance to the patient . Two new studies , appearing Wednesday in the Journal of the American Medical Association , show the drug is an effective painkiller in hard-to-treat cases of nerve damage from diabetes or shingles . `` We know from the ( medical ) literature on the placebo effect that it is a significant effect , and the amount of the effect is greater with the magnitude of the placebo , `` Wray said . & UR ; REMEDIES : Taking Vitamin E , for Better or for Worse & LR ; Vitamin E supplements are among the most popular over-the-counter remedies , taken in the belief that they may help with everything from dry skin to the effects of aging . It was partly because of the publication in 1997 of a popular book called `` The Arthritis Cure , `` and the way it triggered an avalanche of interest in glucosamine-chondroitin among America 's 20 million sufferers of the degenerative joint disease called osteoarthritis .",
+    "summary_len": 450,
+    "summary_num_sents": 12,
+    "avg_sent_len": 37.5,
+    "scores_info": [
+      {
+        "len": 75,
+        "scores": {
+          "R1": {
+            "recall": 0.20229,
+            "recall_lower": 0.20229,
+            "recall_upper": 0.20229,
+            "f1": 0.19703,
+            "f1_lower": 0.19703,
+            "f1_upper": 0.19703,
+            "precision": 0.19203,
+            "precision_lower": 0.19203,
+            "precision_upper": 0.19203
+          },
+          "R2": {
+            "recall": 0.02713,
+            "recall_lower": 0.02713,
+            "recall_upper": 0.02713,
+            "f1": 0.02642,
+            "f1_lower": 0.02642,
+            "f1_upper": 0.02642,
+            "precision": 0.02574,
+            "precision_lower": 0.02574,
+            "precision_upper": 0.02574
+          },
+          "RL": {
+            "recall": 0.12214,
+            "recall_lower": 0.12214,
+            "recall_upper": 0.12214,
+            "f1": 0.11896,
+            "f1_lower": 0.11896,
+            "f1_upper": 0.11896,
+            "precision": 0.11594,
+            "precision_lower": 0.11594,
+            "precision_upper": 0.11594
+          },
+          "RSU4": {
+            "recall": 0.05371,
+            "recall_lower": 0.05371,
+            "recall_upper": 0.05371,
+            "f1": 0.05226,
+            "f1_lower": 0.05226,
+            "f1_upper": 0.05226,
+            "precision": 0.05088,
+            "precision_lower": 0.05088,
+            "precision_upper": 0.05088
+          }
+        }
+      },
+      {
+        "len": 150,
+        "scores": {
+          "R1": {
+            "recall": 0.28433,
+            "recall_lower": 0.28433,
+            "recall_upper": 0.28433,
+            "f1": 0.27814,
+            "f1_lower": 0.27814,
+            "f1_upper": 0.27814,
+            "precision": 0.27222,
+            "precision_lower": 0.27222,
+            "precision_upper": 0.27222
+          },
+          "R2": {
+            "recall": 0.04094,
+            "recall_lower": 0.04094,
+            "recall_upper": 0.04094,
+            "f1": 0.04004,
+            "f1_lower": 0.04004,
+            "f1_upper": 0.04004,
+            "precision": 0.03918,
+            "precision_lower": 0.03918,
+            "precision_upper": 0.03918
+          },
+          "RL": {
+            "recall": 0.1412,
+            "recall_lower": 0.1412,
+            "recall_upper": 0.1412,
+            "f1": 0.13813,
+            "f1_lower": 0.13813,
+            "f1_upper": 0.13813,
+            "precision": 0.13519,
+            "precision_lower": 0.13519,
+            "precision_upper": 0.13519
+          },
+          "RSU4": {
+            "recall": 0.08295,
+            "recall_lower": 0.08295,
+            "recall_upper": 0.08295,
+            "f1": 0.08111,
+            "f1_lower": 0.08111,
+            "f1_upper": 0.08111,
+            "precision": 0.07935,
+            "precision_lower": 0.07935,
+            "precision_upper": 0.07935
+          }
+        }
+      },
+      {
+        "len": 250,
+        "scores": {
+          "R1": {
+            "recall": 0.33602,
+            "recall_lower": 0.33602,
+            "recall_upper": 0.33602,
+            "f1": 0.32939,
+            "f1_lower": 0.32939,
+            "f1_upper": 0.32939,
+            "precision": 0.32301,
+            "precision_lower": 0.32301,
+            "precision_upper": 0.32301
+          },
+          "R2": {
+            "recall": 0.05318,
+            "recall_lower": 0.05318,
+            "recall_upper": 0.05318,
+            "f1": 0.05212,
+            "f1_lower": 0.05212,
+            "f1_upper": 0.05212,
+            "precision": 0.05111,
+            "precision_lower": 0.05111,
+            "precision_upper": 0.05111
+          },
+          "RL": {
+            "recall": 0.13924,
+            "recall_lower": 0.13924,
+            "recall_upper": 0.13924,
+            "f1": 0.13649,
+            "f1_lower": 0.13649,
+            "f1_upper": 0.13649,
+            "precision": 0.13385,
+            "precision_lower": 0.13385,
+            "precision_upper": 0.13385
+          },
+          "RSU4": {
+            "recall": 0.1035,
+            "recall_lower": 0.1035,
+            "recall_upper": 0.1035,
+            "f1": 0.10143,
+            "f1_lower": 0.10143,
+            "f1_upper": 0.10143,
+            "precision": 0.09944,
+            "precision_lower": 0.09944,
+            "precision_upper": 0.09944
+          }
+        }
+      },
+      {
+        "len": 350,
+        "scores": {
+          "R1": {
+            "recall": 0.38641,
+            "recall_lower": 0.38641,
+            "recall_upper": 0.38641,
+            "f1": 0.34459,
+            "f1_lower": 0.34459,
+            "f1_upper": 0.34459,
+            "precision": 0.31094,
+            "precision_lower": 0.31094,
+            "precision_upper": 0.31094
+          },
+          "R2": {
+            "recall": 0.06628,
+            "recall_lower": 0.06628,
+            "recall_upper": 0.06628,
+            "f1": 0.05908,
+            "f1_lower": 0.05908,
+            "f1_upper": 0.05908,
+            "precision": 0.05329,
+            "precision_lower": 0.05329,
+            "precision_upper": 0.05329
+          },
+          "RL": {
+            "recall": 0.15631,
+            "recall_lower": 0.15631,
+            "recall_upper": 0.15631,
+            "f1": 0.13939,
+            "f1_lower": 0.13939,
+            "f1_upper": 0.13939,
+            "precision": 0.12578,
+            "precision_lower": 0.12578,
+            "precision_upper": 0.12578
+          },
+          "RSU4": {
+            "recall": 0.12083,
+            "recall_lower": 0.12083,
+            "recall_upper": 0.12083,
+            "f1": 0.10763,
+            "f1_lower": 0.10763,
+            "f1_upper": 0.10763,
+            "precision": 0.09703,
+            "precision_lower": 0.09703,
+            "precision_upper": 0.09703
+          }
+        }
+      }
+    ]
+  },
+  "2006_d0615": {
+    "summary": "Kansas last year rekindled the issue of teaching evolution in public schools when the state board of education , led by Holloway , approved science teaching standards that minimized the importance of evolution and omitted the big-bang theory of the origin of the universe . Judging from the agitation in the state over evolution , there is evidence she has succeeded : - In the beginning , the Kansas Board of Education and the state education commissioner appointed a 27-member committee of science teachers and professors to write new science standards for public schools . This was followed last month by the decision of state education officials here in Kentucky to eliminate the word `` evolution `` but not the scientific theory of evolution from the school curriculum and to substitute the phrase `` change over time . `` They also want the board to remove the committee 's dedication at the top of the standards , which said : `` Our children are the future of Kansas . And although Abrams ' version was written by `` various citizens , `` including the Missouri president of a creation science group , the only names on the revision are those of Staver and the 26 other members of the state committee that wrote the original document . The Tangipahoa Parish school board in 1994 voted to require teachers to tell students about to study the theory of evolution that is `` presented to inform students of the scientific concept and not intended to influence or dissuade the biblical version of creation or any other concept . `` The report , commissioned by the Thomas B. Fordham Foundation and released Tuesday at the American Association for the Advancement of Science , grades 49 states and the District of Columbia on the basis of how well evolution is included in the state science education standards . Abrams ' version would change the definition of science , eliminate all but one reference to evolution and add a definition of creation as `` the idea that the design and complexity of the design of the cosmos requires an intelligent designer . `` Evolution _ the theory that life on Earth has mutated and adapted over millions of years _ is the accepted theory in the biological sciences , said Mary Blythe , an elementary science specialist in the Kansas City , Kan. , School District and a member of the science standards committee . Steve Abrams , a member of the Kansas board and veterinarian in Arkansas City who was among the leaders of the push to make the changes , said there are legitimate scientific doubts about whether the universe is more than several thousand years old . And if she was a betting woman , she would wager that across the state , science and biology teachers will do the same , despite the recent decision by the Kansas State Board of Education to remove any mention of evolution from the state 's new science curriculum . Because the adoption of standards in science or any other subject can not be dictated under state law , it will be up to each district to decide whether to follow the lead of the state board , which periodically issues guidelines suggesting what should be taught in the state 's classrooms .",
+    "summary_len": 558,
+    "summary_num_sents": 12,
+    "avg_sent_len": 46.5,
+    "scores_info": [
+      {
+        "len": 75,
+        "scores": {
+          "R1": {
+            "recall": 0.27143,
+            "recall_lower": 0.27143,
+            "recall_upper": 0.27143,
+            "f1": 0.27338,
+            "f1_lower": 0.27338,
+            "f1_upper": 0.27338,
+            "precision": 0.27536,
+            "precision_lower": 0.27536,
+            "precision_upper": 0.27536
+          },
+          "R2": {
+            "recall": 0.0471,
+            "recall_lower": 0.0471,
+            "recall_upper": 0.0471,
+            "f1": 0.04744,
+            "f1_lower": 0.04744,
+            "f1_upper": 0.04744,
+            "precision": 0.04779,
+            "precision_lower": 0.04779,
+            "precision_upper": 0.04779
+          },
+          "RL": {
+            "recall": 0.175,
+            "recall_lower": 0.175,
+            "recall_upper": 0.175,
+            "f1": 0.17626,
+            "f1_lower": 0.17626,
+            "f1_upper": 0.17626,
+            "precision": 0.17754,
+            "precision_lower": 0.17754,
+            "precision_upper": 0.17754
+          },
+          "RSU4": {
+            "recall": 0.08416,
+            "recall_lower": 0.08416,
+            "recall_upper": 0.08416,
+            "f1": 0.08479,
+            "f1_lower": 0.08479,
+            "f1_upper": 0.08479,
+            "precision": 0.08543,
+            "precision_lower": 0.08543,
+            "precision_upper": 0.08543
+          }
+        }
+      },
+      {
+        "len": 150,
+        "scores": {
+          "R1": {
+            "recall": 0.32671,
+            "recall_lower": 0.32671,
+            "recall_upper": 0.32671,
+            "f1": 0.32612,
+            "f1_lower": 0.32612,
+            "f1_upper": 0.32612,
+            "precision": 0.32554,
+            "precision_lower": 0.32554,
+            "precision_upper": 0.32554
+          },
+          "R2": {
+            "recall": 0.04727,
+            "recall_lower": 0.04727,
+            "recall_upper": 0.04727,
+            "f1": 0.04718,
+            "f1_lower": 0.04718,
+            "f1_upper": 0.04718,
+            "precision": 0.0471,
+            "precision_lower": 0.0471,
+            "precision_upper": 0.0471
+          },
+          "RL": {
+            "recall": 0.18231,
+            "recall_lower": 0.18231,
+            "recall_upper": 0.18231,
+            "f1": 0.18198,
+            "f1_lower": 0.18198,
+            "f1_upper": 0.18198,
+            "precision": 0.18165,
+            "precision_lower": 0.18165,
+            "precision_upper": 0.18165
+          },
+          "RSU4": {
+            "recall": 0.10675,
+            "recall_lower": 0.10675,
+            "recall_upper": 0.10675,
+            "f1": 0.10655,
+            "f1_lower": 0.10655,
+            "f1_upper": 0.10655,
+            "precision": 0.10636,
+            "precision_lower": 0.10636,
+            "precision_upper": 0.10636
+          }
+        }
+      },
+      {
+        "len": 250,
+        "scores": {
+          "R1": {
+            "recall": 0.35903,
+            "recall_lower": 0.35903,
+            "recall_upper": 0.35903,
+            "f1": 0.35824,
+            "f1_lower": 0.35824,
+            "f1_upper": 0.35824,
+            "precision": 0.35746,
+            "precision_lower": 0.35746,
+            "precision_upper": 0.35746
+          },
+          "R2": {
+            "recall": 0.05531,
+            "recall_lower": 0.05531,
+            "recall_upper": 0.05531,
+            "f1": 0.05519,
+            "f1_lower": 0.05519,
+            "f1_upper": 0.05519,
+            "precision": 0.05507,
+            "precision_lower": 0.05507,
+            "precision_upper": 0.05507
+          },
+          "RL": {
+            "recall": 0.18062,
+            "recall_lower": 0.18062,
+            "recall_upper": 0.18062,
+            "f1": 0.18022,
+            "f1_lower": 0.18022,
+            "f1_upper": 0.18022,
+            "precision": 0.17982,
+            "precision_lower": 0.17982,
+            "precision_upper": 0.17982
+          },
+          "RSU4": {
+            "recall": 0.12686,
+            "recall_lower": 0.12686,
+            "recall_upper": 0.12686,
+            "f1": 0.12657,
+            "f1_lower": 0.12657,
+            "f1_upper": 0.12657,
+            "precision": 0.12629,
+            "precision_lower": 0.12629,
+            "precision_upper": 0.12629
+          }
+        }
+      },
+      {
+        "len": 350,
+        "scores": {
+          "R1": {
+            "recall": 0.41592,
+            "recall_lower": 0.41592,
+            "recall_upper": 0.41592,
+            "f1": 0.36586,
+            "f1_lower": 0.36586,
+            "f1_upper": 0.36586,
+            "precision": 0.32656,
+            "precision_lower": 0.32656,
+            "precision_upper": 0.32656
+          },
+          "R2": {
+            "recall": 0.08791,
+            "recall_lower": 0.08791,
+            "recall_upper": 0.08791,
+            "f1": 0.0773,
+            "f1_lower": 0.0773,
+            "f1_upper": 0.0773,
+            "precision": 0.06897,
+            "precision_lower": 0.06897,
+            "precision_upper": 0.06897
+          },
+          "RL": {
+            "recall": 0.20498,
+            "recall_lower": 0.20498,
+            "recall_upper": 0.20498,
+            "f1": 0.18031,
+            "f1_lower": 0.18031,
+            "f1_upper": 0.18031,
+            "precision": 0.16094,
+            "precision_lower": 0.16094,
+            "precision_upper": 0.16094
+          },
+          "RSU4": {
+            "recall": 0.15739,
+            "recall_lower": 0.15739,
+            "recall_upper": 0.15739,
+            "f1": 0.13827,
+            "f1_lower": 0.13827,
+            "f1_upper": 0.13827,
+            "precision": 0.12329,
+            "precision_lower": 0.12329,
+            "precision_upper": 0.12329
+          }
+        }
+      }
+    ]
+  },
+  "2006_d0620": {
+    "summary": "The boys , 11 and 13 at the time of the shootings , were found delinquent in the five killings and the wounding of 10 others . The county school board and superintendent allowed the plaques as part of `` an effort to start having good morals in school ... because of all the violent issues that have been showing up , `` said Betty Bond , principal of the high school . `` The sharp decline in the number of students bringing guns to school tells us that we are starting to move in the right direction , `` said Education Secretary Richard Riley . NEW YORK _ The shootings at Columbine High School in Littleton , Colo. , have led school officials in the New York City metropolitan area to reassess security and in some cases to make changes to minimize threats . `` I think that they should just end the school year and have that extra three weeks to figure out what they 're going to do to safeguard our kids for next year , `` said Heidy Martindale , the mother of a 12-year-old girl at Holland Woods . Several students said they had finally shaken off the anxiety that followed the killing of 15 people at Columbine High School in Colorado , a school similar in many ways to Heritage . A bomb was found near the school campus Thursday after school officials and parents gathered to discuss the alleged plot by the four students at the school . The regulation is designed to better track violence and help raise awareness among school officials and the communities they serve to the potential for violence , said Christopher Carpenter , a spokesman for the department . There were 40 shooting deaths in schools in the 1997-1998 school year , the report said . A police officer is stationed in her school and most entrances are locked during the school day , so that outsiders would have to use the main doors . In a report issued this week , the U.S. Department of Education , having compiled statistics from each of the states , found that gun-related expulsions in the last school year dropped by nearly a third from the previous year . In the aftermath of the worst school slayings in U.S. history , local secondary schools have beefed up security measures , from cracking down on even the mildest threat to launching random weapons sweeps of students with hand-held metal detectors .",
+    "summary_len": 419,
+    "summary_num_sents": 12,
+    "avg_sent_len": 34.916666666666664,
+    "scores_info": [
+      {
+        "len": 75,
+        "scores": {
+          "R1": {
+            "recall": 0.20438,
+            "recall_lower": 0.20438,
+            "recall_upper": 0.20438,
+            "f1": 0.20974,
+            "f1_lower": 0.20974,
+            "f1_upper": 0.20974,
+            "precision": 0.21538,
+            "precision_lower": 0.21538,
+            "precision_upper": 0.21538
+          },
+          "R2": {
+            "recall": 0.02593,
+            "recall_lower": 0.02593,
+            "recall_upper": 0.02593,
+            "f1": 0.02662,
+            "f1_lower": 0.02662,
+            "f1_upper": 0.02662,
+            "precision": 0.02734,
+            "precision_lower": 0.02734,
+            "precision_upper": 0.02734
+          },
+          "RL": {
+            "recall": 0.15328,
+            "recall_lower": 0.15328,
+            "recall_upper": 0.15328,
+            "f1": 0.1573,
+            "f1_lower": 0.1573,
+            "f1_upper": 0.1573,
+            "precision": 0.16154,
+            "precision_lower": 0.16154,
+            "precision_upper": 0.16154
+          },
+          "RSU4": {
+            "recall": 0.06329,
+            "recall_lower": 0.06329,
+            "recall_upper": 0.06329,
+            "f1": 0.06502,
+            "f1_lower": 0.06502,
+            "f1_upper": 0.06502,
+            "precision": 0.06684,
+            "precision_lower": 0.06684,
+            "precision_upper": 0.06684
+          }
+        }
+      },
+      {
+        "len": 150,
+        "scores": {
+          "R1": {
+            "recall": 0.27188,
+            "recall_lower": 0.27188,
+            "recall_upper": 0.27188,
+            "f1": 0.27418,
+            "f1_lower": 0.27418,
+            "f1_upper": 0.27418,
+            "precision": 0.27652,
+            "precision_lower": 0.27652,
+            "precision_upper": 0.27652
+          },
+          "R2": {
+            "recall": 0.03377,
+            "recall_lower": 0.03377,
+            "recall_upper": 0.03377,
+            "f1": 0.03406,
+            "f1_lower": 0.03406,
+            "f1_upper": 0.03406,
+            "precision": 0.03435,
+            "precision_lower": 0.03435,
+            "precision_upper": 0.03435
+          },
+          "RL": {
+            "recall": 0.15084,
+            "recall_lower": 0.15084,
+            "recall_upper": 0.15084,
+            "f1": 0.15211,
+            "f1_lower": 0.15211,
+            "f1_upper": 0.15211,
+            "precision": 0.15341,
+            "precision_lower": 0.15341,
+            "precision_upper": 0.15341
+          },
+          "RSU4": {
+            "recall": 0.08708,
+            "recall_lower": 0.08708,
+            "recall_upper": 0.08708,
+            "f1": 0.08783,
+            "f1_lower": 0.08783,
+            "f1_upper": 0.08783,
+            "precision": 0.0886,
+            "precision_lower": 0.0886,
+            "precision_upper": 0.0886
+          }
+        }
+      },
+      {
+        "len": 250,
+        "scores": {
+          "R1": {
+            "recall": 0.30497,
+            "recall_lower": 0.30497,
+            "recall_upper": 0.30497,
+            "f1": 0.3038,
+            "f1_lower": 0.3038,
+            "f1_upper": 0.3038,
+            "precision": 0.30263,
+            "precision_lower": 0.30263,
+            "precision_upper": 0.30263
+          },
+          "R2": {
+            "recall": 0.0455,
+            "recall_lower": 0.0455,
+            "recall_upper": 0.0455,
+            "f1": 0.04532,
+            "f1_lower": 0.04532,
+            "f1_upper": 0.04532,
+            "precision": 0.04515,
+            "precision_lower": 0.04515,
+            "precision_upper": 0.04515
+          },
+          "RL": {
+            "recall": 0.15138,
+            "recall_lower": 0.15138,
+            "recall_upper": 0.15138,
+            "f1": 0.1508,
+            "f1_lower": 0.1508,
+            "f1_upper": 0.1508,
+            "precision": 0.15022,
+            "precision_lower": 0.15022,
+            "precision_upper": 0.15022
+          },
+          "RSU4": {
+            "recall": 0.10492,
+            "recall_lower": 0.10492,
+            "recall_upper": 0.10492,
+            "f1": 0.10451,
+            "f1_lower": 0.10451,
+            "f1_upper": 0.10451,
+            "precision": 0.10411,
+            "precision_lower": 0.10411,
+            "precision_upper": 0.10411
+          }
+        }
+      },
+      {
+        "len": 350,
+        "scores": {
+          "R1": {
+            "recall": 0.37787,
+            "recall_lower": 0.37787,
+            "recall_upper": 0.37787,
+            "f1": 0.33202,
+            "f1_lower": 0.33202,
+            "f1_upper": 0.33202,
+            "precision": 0.29609,
+            "precision_lower": 0.29609,
+            "precision_upper": 0.29609
+          },
+          "R2": {
+            "recall": 0.05906,
+            "recall_lower": 0.05906,
+            "recall_upper": 0.05906,
+            "f1": 0.05187,
+            "f1_lower": 0.05187,
+            "f1_upper": 0.05187,
+            "precision": 0.04624,
+            "precision_lower": 0.04624,
+            "precision_upper": 0.04624
+          },
+          "RL": {
+            "recall": 0.17647,
+            "recall_lower": 0.17647,
+            "recall_upper": 0.17647,
+            "f1": 0.15506,
+            "f1_lower": 0.15506,
+            "f1_upper": 0.15506,
+            "precision": 0.13828,
+            "precision_lower": 0.13828,
+            "precision_upper": 0.13828
+          },
+          "RSU4": {
+            "recall": 0.13117,
+            "recall_lower": 0.13117,
+            "recall_upper": 0.13117,
+            "f1": 0.11511,
+            "f1_lower": 0.11511,
+            "f1_upper": 0.11511,
+            "precision": 0.10255,
+            "precision_lower": 0.10255,
+            "precision_upper": 0.10255
+          }
+        }
+      }
+    ]
+  },
+  "2006_d0601": {
+    "summary": "He said the leaders have in the past made land-use and right-of-way deals with the state , kept the money for themselves and kept the tribe in the dark . Mike Johanns , said that while the governor objected to the cost and form of the bill , he also believed `` it is time for the state and federal government to step up and do more , specifically in the area of funding . `` That a few elders in the Neah Bay community have publicly opposed the tribe 's return to whaling has been used by opponents of the hunt in an attempt to discredit the tribal leadership as not representing the will of the people . The reservation of the Santee Sioux , the tribe involved in the court showdown in Nebraska on Friday , lies on the Missouri River just across the border with South Dakota , and is home to about 1,000 tribal members . That proceeding was the latest in a series of recent skirmishes over the rights of tribes to operate casinos in states from Florida to California and , more broadly , over the ability of tribes to be exempt from state regulation and taxation . `` This highlights what has been going on out there for 130 years , since the beginning of the reservation system , `` said Sidney Harring , a professor of law at the City University of New York School of Law and an expert on Indian crime and criminal law . The spread of violent crime here on the Navajo Reservation , a vast territory of dry plains and red rock mesas in the Four Corners region of the Southwest , reflects problems on dozens of the nation 's Indian reservations . The Cayugas fought on the British side in the Revolutionary War and there was widespread sentiment in the fledgling federal government and among New York lawmakers to treat the tribe as a conquered people and make them wards of the state , von Gernet said . Tribes throughout the state and country are just beginning to take advantage of the power and money granted them by the 1996 federal welfare law to customize their own reform programs . Smith and thousands like her are seeking help for their substance abuse at the American Indian Community House , the largest of a handful of Native American cultural institutions in the New York area . In the first half of 1998 , 18 people have been slain on the reservation , dropping the homicide rate closer to what it was early in the decade . The commission , after spending $ 5 million and two years researching the state of gambling in America , cooked up a casserole of 76 recommendations that ranged from criminalization of Internet gambling to the need for more research and public education .",
+    "summary_len": 482,
+    "summary_num_sents": 12,
+    "avg_sent_len": 40.166666666666664,
+    "scores_info": [
+      {
+        "len": 75,
+        "scores": {
+          "R1": {
+            "recall": 0.19084,
+            "recall_lower": 0.19084,
+            "recall_upper": 0.19084,
+            "f1": 0.18315,
+            "f1_lower": 0.18315,
+            "f1_upper": 0.18315,
+            "precision": 0.17606,
+            "precision_lower": 0.17606,
+            "precision_upper": 0.17606
+          },
+          "R2": {
+            "recall": 0.0155,
+            "recall_lower": 0.0155,
+            "recall_upper": 0.0155,
+            "f1": 0.01487,
+            "f1_lower": 0.01487,
+            "f1_upper": 0.01487,
+            "precision": 0.01429,
+            "precision_lower": 0.01429,
+            "precision_upper": 0.01429
+          },
+          "RL": {
+            "recall": 0.12214,
+            "recall_lower": 0.12214,
+            "recall_upper": 0.12214,
+            "f1": 0.11722,
+            "f1_lower": 0.11722,
+            "f1_upper": 0.11722,
+            "precision": 0.11268,
+            "precision_lower": 0.11268,
+            "precision_upper": 0.11268
+          },
+          "RSU4": {
+            "recall": 0.04377,
+            "recall_lower": 0.04377,
+            "recall_upper": 0.04377,
+            "f1": 0.04193,
+            "f1_lower": 0.04193,
+            "f1_upper": 0.04193,
+            "precision": 0.04024,
+            "precision_lower": 0.04024,
+            "precision_upper": 0.04024
+          }
+        }
+      },
+      {
+        "len": 150,
+        "scores": {
+          "R1": {
+            "recall": 0.26981,
+            "recall_lower": 0.26981,
+            "recall_upper": 0.26981,
+            "f1": 0.26047,
+            "f1_lower": 0.26047,
+            "f1_upper": 0.26047,
+            "precision": 0.25176,
+            "precision_lower": 0.25176,
+            "precision_upper": 0.25176
+          },
+          "R2": {
+            "recall": 0.02281,
+            "recall_lower": 0.02281,
+            "recall_upper": 0.02281,
+            "f1": 0.02202,
+            "f1_lower": 0.02202,
+            "f1_upper": 0.02202,
+            "precision": 0.02128,
+            "precision_lower": 0.02128,
+            "precision_upper": 0.02128
+          },
+          "RL": {
+            "recall": 0.13208,
+            "recall_lower": 0.13208,
+            "recall_upper": 0.13208,
+            "f1": 0.12751,
+            "f1_lower": 0.12751,
+            "f1_upper": 0.12751,
+            "precision": 0.12324,
+            "precision_lower": 0.12324,
+            "precision_upper": 0.12324
+          },
+          "RSU4": {
+            "recall": 0.07766,
+            "recall_lower": 0.07766,
+            "recall_upper": 0.07766,
+            "f1": 0.07492,
+            "f1_lower": 0.07492,
+            "f1_upper": 0.07492,
+            "precision": 0.07237,
+            "precision_lower": 0.07237,
+            "precision_upper": 0.07237
+          }
+        }
+      },
+      {
+        "len": 250,
+        "scores": {
+          "R1": {
+            "recall": 0.3209,
+            "recall_lower": 0.3209,
+            "recall_upper": 0.3209,
+            "f1": 0.3126,
+            "f1_lower": 0.3126,
+            "f1_upper": 0.3126,
+            "precision": 0.30472,
+            "precision_lower": 0.30472,
+            "precision_upper": 0.30472
+          },
+          "R2": {
+            "recall": 0.03292,
+            "recall_lower": 0.03292,
+            "recall_upper": 0.03292,
+            "f1": 0.03206,
+            "f1_lower": 0.03206,
+            "f1_upper": 0.03206,
+            "precision": 0.03125,
+            "precision_lower": 0.03125,
+            "precision_upper": 0.03125
+          },
+          "RL": {
+            "recall": 0.1435,
+            "recall_lower": 0.1435,
+            "recall_upper": 0.1435,
+            "f1": 0.13979,
+            "f1_lower": 0.13979,
+            "f1_upper": 0.13979,
+            "precision": 0.13627,
+            "precision_lower": 0.13627,
+            "precision_upper": 0.13627
+          },
+          "RSU4": {
+            "recall": 0.09912,
+            "recall_lower": 0.09912,
+            "recall_upper": 0.09912,
+            "f1": 0.09653,
+            "f1_lower": 0.09653,
+            "f1_upper": 0.09653,
+            "precision": 0.09407,
+            "precision_lower": 0.09407,
+            "precision_upper": 0.09407
+          }
+        }
+      },
+      {
+        "len": 350,
+        "scores": {
+          "R1": {
+            "recall": 0.36837,
+            "recall_lower": 0.36837,
+            "recall_upper": 0.36837,
+            "f1": 0.31903,
+            "f1_lower": 0.31903,
+            "f1_upper": 0.31903,
+            "precision": 0.28135,
+            "precision_lower": 0.28135,
+            "precision_upper": 0.28135
+          },
+          "R2": {
+            "recall": 0.03819,
+            "recall_lower": 0.03819,
+            "recall_upper": 0.03819,
+            "f1": 0.03306,
+            "f1_lower": 0.03306,
+            "f1_upper": 0.03306,
+            "precision": 0.02914,
+            "precision_lower": 0.02914,
+            "precision_upper": 0.02914
+          },
+          "RL": {
+            "recall": 0.16216,
+            "recall_lower": 0.16216,
+            "recall_upper": 0.16216,
+            "f1": 0.14044,
+            "f1_lower": 0.14044,
+            "f1_upper": 0.14044,
+            "precision": 0.12385,
+            "precision_lower": 0.12385,
+            "precision_upper": 0.12385
+          },
+          "RSU4": {
+            "recall": 0.11788,
+            "recall_lower": 0.11788,
+            "recall_upper": 0.11788,
+            "f1": 0.10194,
+            "f1_lower": 0.10194,
+            "f1_upper": 0.10194,
+            "precision": 0.0898,
+            "precision_lower": 0.0898,
+            "precision_upper": 0.0898
+          }
+        }
+      }
+    ]
+  },
+  "2006_d0643": {
+    "summary": "The most important of gas-releasing areas is the equatorial Pacific , where is also the home of El Nino , the quasi-biennial warming event in the surface waters of the eastern equatorial Pacific Ocean . The general El Nino forceast was that in South Africa and other countries in the Southern Hemisphere normal or above-normal rainfall would occur in the first part of the season with a drier spell in the second part of the season . The pool of cold Pacific water that is the heart of La Nina has shrunk to one-fourth the size it was in May , even as warm water left over from El Nino remains , said Bill Patzert , a researcher at the National Aeronautics and Space Administration laboratory in suburban Pasadena . Ultimately , the researchers hope to take what they learn about El Nino and use it to understand trickier oscillations in other parts of the world 's ocean , such as the rise and fall of sea surface temperatures in the North Atlantic . It can disrupt climate around the world , producing extra rain in the southeastern United States and in Peru during the winter , while causing drought in the western Pacific , for example . Researchers at the Goddard Space Flight Center in Maryland State of the United States and the Walter Reed Army Institute of Research in Washington analyzed 50 years of weather and medical data to establish the connection between warm oceans , rains and the fever . The meeting will provide scientific and technical information on the current status of El Nino , as one of the major forces acting on the global climate system and with a potential to affect weather patterns in many areas of the globe . It is blamed for flooding and heavy snow in the West , abnormally warm weather in the East and extreme weather from South America to Asia . Richard Feely and colleagues form the U.S. National Oceanic and Atmospheric Administration ( NOAA ) have found that during the El Nino years between 1991 and 1994 , the release of carbon dioxide from equatorial Pacific Ocean was between 30 and 80 percent of that in 1996 , a non-El Nino year . The good news is that they can now forecast an El Nino with some precision , and during El Nino years predict its effect on the world 's weather months in advance . GENEVA ( AP ) _ The surface of the Pacific Ocean is expected to continue cooling slowly for the rest of the year , fueling the La Nina weather phenomenon , the U.N. weather agency said Monday . IN December , scientists from the Woods Hole Research Laboratory in Massachusetts reported in the journal Nature that during El Nino years that bring hot , dry weather to the Amazon , Brazil 's rain forest sends out more carbon dioxide gas , trapping heat in the atmosphere .",
+    "summary_len": 496,
+    "summary_num_sents": 12,
+    "avg_sent_len": 41.333333333333336,
+    "scores_info": [
+      {
+        "len": 75,
+        "scores": {
+          "R1": {
+            "recall": 0.31022,
+            "recall_lower": 0.31022,
+            "recall_upper": 0.31022,
+            "f1": 0.29617,
+            "f1_lower": 0.29617,
+            "f1_upper": 0.29617,
+            "precision": 0.28333,
+            "precision_lower": 0.28333,
+            "precision_upper": 0.28333
+          },
+          "R2": {
+            "recall": 0.07778,
+            "recall_lower": 0.07778,
+            "recall_upper": 0.07778,
+            "f1": 0.07421,
+            "f1_lower": 0.07421,
+            "f1_upper": 0.07421,
+            "precision": 0.07095,
+            "precision_lower": 0.07095,
+            "precision_upper": 0.07095
+          },
+          "RL": {
+            "recall": 0.21533,
+            "recall_lower": 0.21533,
+            "recall_upper": 0.21533,
+            "f1": 0.20558,
+            "f1_lower": 0.20558,
+            "f1_upper": 0.20558,
+            "precision": 0.19667,
+            "precision_lower": 0.19667,
+            "precision_upper": 0.19667
+          },
+          "RSU4": {
+            "recall": 0.11013,
+            "recall_lower": 0.11013,
+            "recall_upper": 0.11013,
+            "f1": 0.10495,
+            "f1_lower": 0.10495,
+            "f1_upper": 0.10495,
+            "precision": 0.10023,
+            "precision_lower": 0.10023,
+            "precision_upper": 0.10023
+          }
+        }
+      },
+      {
+        "len": 150,
+        "scores": {
+          "R1": {
+            "recall": 0.33702,
+            "recall_lower": 0.33702,
+            "recall_upper": 0.33702,
+            "f1": 0.32592,
+            "f1_lower": 0.32592,
+            "f1_upper": 0.32592,
+            "precision": 0.31552,
+            "precision_lower": 0.31552,
+            "precision_upper": 0.31552
+          },
+          "R2": {
+            "recall": 0.07607,
+            "recall_lower": 0.07607,
+            "recall_upper": 0.07607,
+            "f1": 0.07354,
+            "f1_lower": 0.07354,
+            "f1_upper": 0.07354,
+            "precision": 0.07118,
+            "precision_lower": 0.07118,
+            "precision_upper": 0.07118
+          },
+          "RL": {
+            "recall": 0.186,
+            "recall_lower": 0.186,
+            "recall_upper": 0.186,
+            "f1": 0.17987,
+            "f1_lower": 0.17987,
+            "f1_upper": 0.17987,
+            "precision": 0.17414,
+            "precision_lower": 0.17414,
+            "precision_upper": 0.17414
+          },
+          "RSU4": {
+            "recall": 0.12085,
+            "recall_lower": 0.12085,
+            "recall_upper": 0.12085,
+            "f1": 0.11679,
+            "f1_lower": 0.11679,
+            "f1_upper": 0.11679,
+            "precision": 0.113,
+            "precision_lower": 0.113,
+            "precision_upper": 0.113
+          }
+        }
+      },
+      {
+        "len": 250,
+        "scores": {
+          "R1": {
+            "recall": 0.40463,
+            "recall_lower": 0.40463,
+            "recall_upper": 0.40463,
+            "f1": 0.39483,
+            "f1_lower": 0.39483,
+            "f1_upper": 0.39483,
+            "precision": 0.3855,
+            "precision_lower": 0.3855,
+            "precision_upper": 0.3855
+          },
+          "R2": {
+            "recall": 0.1196,
+            "recall_lower": 0.1196,
+            "recall_upper": 0.1196,
+            "f1": 0.11669,
+            "f1_lower": 0.11669,
+            "f1_upper": 0.11669,
+            "precision": 0.11392,
+            "precision_lower": 0.11392,
+            "precision_upper": 0.11392
+          },
+          "RL": {
+            "recall": 0.19515,
+            "recall_lower": 0.19515,
+            "recall_upper": 0.19515,
+            "f1": 0.19042,
+            "f1_lower": 0.19042,
+            "f1_upper": 0.19042,
+            "precision": 0.18592,
+            "precision_lower": 0.18592,
+            "precision_upper": 0.18592
+          },
+          "RSU4": {
+            "recall": 0.16419,
+            "recall_lower": 0.16419,
+            "recall_upper": 0.16419,
+            "f1": 0.16017,
+            "f1_lower": 0.16017,
+            "f1_upper": 0.16017,
+            "precision": 0.15634,
+            "precision_lower": 0.15634,
+            "precision_upper": 0.15634
+          }
+        }
+      },
+      {
+        "len": 350,
+        "scores": {
+          "R1": {
+            "recall": 0.47203,
+            "recall_lower": 0.47203,
+            "recall_upper": 0.47203,
+            "f1": 0.40989,
+            "f1_lower": 0.40989,
+            "f1_upper": 0.40989,
+            "precision": 0.3622,
+            "precision_lower": 0.3622,
+            "precision_upper": 0.3622
+          },
+          "R2": {
+            "recall": 0.13596,
+            "recall_lower": 0.13596,
+            "recall_upper": 0.13596,
+            "f1": 0.118,
+            "f1_lower": 0.118,
+            "f1_upper": 0.118,
+            "precision": 0.10423,
+            "precision_lower": 0.10423,
+            "precision_upper": 0.10423
+          },
+          "RL": {
+            "recall": 0.22179,
+            "recall_lower": 0.22179,
+            "recall_upper": 0.22179,
+            "f1": 0.19259,
+            "f1_lower": 0.19259,
+            "f1_upper": 0.19259,
+            "precision": 0.17018,
+            "precision_lower": 0.17018,
+            "precision_upper": 0.17018
+          },
+          "RSU4": {
+            "recall": 0.1919,
+            "recall_lower": 0.1919,
+            "recall_upper": 0.1919,
+            "f1": 0.16641,
+            "f1_lower": 0.16641,
+            "f1_upper": 0.16641,
+            "precision": 0.14689,
+            "precision_lower": 0.14689,
+            "precision_upper": 0.14689
+          }
+        }
+      }
+    ]
+  },
+  "2006_d0627": {
+    "summary": "The Kremlin press office said Yeltsin signed the amendments to the law to give the state more control over adoptions and `` to insure the rights and interests of children in adoptions . `` Leaders of the American adoption community and sources on Capitol Hill said the two Republicans _ Senator Sam Brownback of Kansas and Representative Chris Smith of New Jersey _ are the sole roadblocks to passage of legislation implementing the treaty , called the Hague Convention on Intercountry Adoption . While adoption professionals are quick to point out that only a small fraction of the thousands of adoptive families in the United States participate in cultural awareness events and support groups , they say more and more parents are seeking guidance on how to handle the issue of race in their families . But there 's a loophole : The `` sending `` country would have to formally notify the US central authority of any restrictions _ which may not happen because it 's in the interest of those countries to find families for thousands of orphaned and homeless children . The statement went on to say that `` in general , we commend the Chinese government for their efforts to improve the outcome of institutionalization for a growing number of children through their program of foreign adoption . `` The fight over bringing the bill to the floor of Congress _ it has already been approved by pertinent committees in both houses _ is most striking because the measure enjoys the backing of an unusually wide array of ideological factions on Capitol Hill and in the adoption world . The anxiety among prospective parents -- and among adoption practitioners throughout the United States -- stems from a series of new laws in Russia that promise to radically alter adoption practices within that country and , as a result , possibly change the face of international adoption . And many would-be parents worry about the lingering effects of the abuse or neglect that landed the child in state custody , and the possibility of the biological family 's reappearance . `` When other countries see Americans adopting their children , then dissolving the adoptions and prosecuting the children , they wonder whether to get involved with us at all , `` said Maureen Hogan , who as president of Adopt America has been working to improve conditions in Romanian orphanages . and the father of a daughter who came to the United States from Vietnam in the early 1970s , before the fall of Saigon . Two lawmakers in Washington , rejecting the advice of adoption professionals across the ideological spectrum , threaten to prevent US approval of a landmark international treaty intended to improve the treatment of children , streamline adoption practices worldwide , and curtail corruption in the process . To Gallagher , it matters only that the children , who have seen their parents die in what is being dubbed as the world 's bloodiest war , have a home and love .",
+    "summary_len": 509,
+    "summary_num_sents": 12,
+    "avg_sent_len": 42.416666666666664,
+    "scores_info": [
+      {
+        "len": 75,
+        "scores": {
+          "R1": {
+            "recall": 0.2952,
+            "recall_lower": 0.2952,
+            "recall_upper": 0.2952,
+            "f1": 0.29251,
+            "f1_lower": 0.29251,
+            "f1_upper": 0.29251,
+            "precision": 0.28986,
+            "precision_lower": 0.28986,
+            "precision_upper": 0.28986
+          },
+          "R2": {
+            "recall": 0.01873,
+            "recall_lower": 0.01873,
+            "recall_upper": 0.01873,
+            "f1": 0.01855,
+            "f1_lower": 0.01855,
+            "f1_upper": 0.01855,
+            "precision": 0.01838,
+            "precision_lower": 0.01838,
+            "precision_upper": 0.01838
+          },
+          "RL": {
+            "recall": 0.17712,
+            "recall_lower": 0.17712,
+            "recall_upper": 0.17712,
+            "f1": 0.1755,
+            "f1_lower": 0.1755,
+            "f1_upper": 0.1755,
+            "precision": 0.17391,
+            "precision_lower": 0.17391,
+            "precision_upper": 0.17391
+          },
+          "RSU4": {
+            "recall": 0.10243,
+            "recall_lower": 0.10243,
+            "recall_upper": 0.10243,
+            "f1": 0.10146,
+            "f1_lower": 0.10146,
+            "f1_upper": 0.10146,
+            "precision": 0.1005,
+            "precision_lower": 0.1005,
+            "precision_upper": 0.1005
+          }
+        }
+      },
+      {
+        "len": 150,
+        "scores": {
+          "R1": {
+            "recall": 0.36716,
+            "recall_lower": 0.36716,
+            "recall_upper": 0.36716,
+            "f1": 0.3638,
+            "f1_lower": 0.3638,
+            "f1_upper": 0.3638,
+            "precision": 0.36051,
+            "precision_lower": 0.36051,
+            "precision_upper": 0.36051
+          },
+          "R2": {
+            "recall": 0.05948,
+            "recall_lower": 0.05948,
+            "recall_upper": 0.05948,
+            "f1": 0.05893,
+            "f1_lower": 0.05893,
+            "f1_upper": 0.05893,
+            "precision": 0.05839,
+            "precision_lower": 0.05839,
+            "precision_upper": 0.05839
+          },
+          "RL": {
+            "recall": 0.17343,
+            "recall_lower": 0.17343,
+            "recall_upper": 0.17343,
+            "f1": 0.17185,
+            "f1_lower": 0.17185,
+            "f1_upper": 0.17185,
+            "precision": 0.17029,
+            "precision_lower": 0.17029,
+            "precision_upper": 0.17029
+          },
+          "RSU4": {
+            "recall": 0.12955,
+            "recall_lower": 0.12955,
+            "recall_upper": 0.12955,
+            "f1": 0.12834,
+            "f1_lower": 0.12834,
+            "f1_upper": 0.12834,
+            "precision": 0.12716,
+            "precision_lower": 0.12716,
+            "precision_upper": 0.12716
+          }
+        }
+      },
+      {
+        "len": 250,
+        "scores": {
+          "R1": {
+            "recall": 0.40243,
+            "recall_lower": 0.40243,
+            "recall_upper": 0.40243,
+            "f1": 0.39956,
+            "f1_lower": 0.39956,
+            "f1_upper": 0.39956,
+            "precision": 0.39674,
+            "precision_lower": 0.39674,
+            "precision_upper": 0.39674
+          },
+          "R2": {
+            "recall": 0.0742,
+            "recall_lower": 0.0742,
+            "recall_upper": 0.0742,
+            "f1": 0.07367,
+            "f1_lower": 0.07367,
+            "f1_upper": 0.07367,
+            "precision": 0.07314,
+            "precision_lower": 0.07314,
+            "precision_upper": 0.07314
+          },
+          "RL": {
+            "recall": 0.16759,
+            "recall_lower": 0.16759,
+            "recall_upper": 0.16759,
+            "f1": 0.1664,
+            "f1_lower": 0.1664,
+            "f1_upper": 0.1664,
+            "precision": 0.16522,
+            "precision_lower": 0.16522,
+            "precision_upper": 0.16522
+          },
+          "RSU4": {
+            "recall": 0.14857,
+            "recall_lower": 0.14857,
+            "recall_upper": 0.14857,
+            "f1": 0.1475,
+            "f1_lower": 0.1475,
+            "f1_upper": 0.1475,
+            "precision": 0.14644,
+            "precision_lower": 0.14644,
+            "precision_upper": 0.14644
+          }
+        }
+      },
+      {
+        "len": 350,
+        "scores": {
+          "R1": {
+            "recall": 0.46354,
+            "recall_lower": 0.46354,
+            "recall_upper": 0.46354,
+            "f1": 0.404,
+            "f1_lower": 0.404,
+            "f1_upper": 0.404,
+            "precision": 0.35802,
+            "precision_lower": 0.35802,
+            "precision_upper": 0.35802
+          },
+          "R2": {
+            "recall": 0.09027,
+            "recall_lower": 0.09027,
+            "recall_upper": 0.09027,
+            "f1": 0.07864,
+            "f1_lower": 0.07864,
+            "f1_upper": 0.07864,
+            "precision": 0.06966,
+            "precision_lower": 0.06966,
+            "precision_upper": 0.06966
+          },
+          "RL": {
+            "recall": 0.18681,
+            "recall_lower": 0.18681,
+            "recall_upper": 0.18681,
+            "f1": 0.16282,
+            "f1_lower": 0.16282,
+            "f1_upper": 0.16282,
+            "precision": 0.14429,
+            "precision_lower": 0.14429,
+            "precision_upper": 0.14429
+          },
+          "RSU4": {
+            "recall": 0.17115,
+            "recall_lower": 0.17115,
+            "recall_upper": 0.17115,
+            "f1": 0.14896,
+            "f1_lower": 0.14896,
+            "f1_upper": 0.14896,
+            "precision": 0.13187,
+            "precision_lower": 0.13187,
+            "precision_upper": 0.13187
+          }
+        }
+      }
+    ]
+  },
+  "2006_d0650": {
+    "summary": "`` The purpose of our mission is to assess the state of the electoral process , and to demonstrate by our presence and activities the confidence of the international community in the Mexican people 's commitment to free and fair elections . `` But he said the rise of the independents and the uncertainty surrounding the election were the reasons he and his team from the Atlanta-based Carter Center were invited to observe Sunday 's balloting . According to Gordon Streeb , leader of the delegation , the former US president Jimmy Carter would lead a delegation of about 60 observers to Liberia as a reflection of the importance the center attaches to the success of the country 's post-war elections . Their imprisonment was the cause of the lingering strained relations between Nigeria and America , said Carter , now head of the Carter Center , a foundation committed to the eradication of Guinea-worm and river blindness in Africa . The former U.S. president said he is `` optimistic `` about the future U.S.-China relations , because the people and leaders of the two countries have come to see the greatest advantages if they communicate , understand and cooperate with each other . The Carter Center Council has observed 14 elections in nine countries of this hemisphere , including the 1990 Nicaraguan elections that marked the first peaceful transference of power from one party to another in this country . The Carter Center , founded by former President Jimmy Carter , said Friday that Fujimori 's government was abusing public funds to garner votes , had blocked opposition candidates ' access to the media , and had used other irregular practices to gain an unfair advantage in the April 9 vote . The Commonwealth chief said `` the people of Nigeria demonstrated keenness and eagerness to have democracy and the election is a reflection of the will of the electorate . `` The award was presented to the representative of the Embassy of Pakistan in the United States by former U.S. President Jimmy Carter at a special ceremony held in Atlanta recently . The 52-member observer group said that it was impressed with the conduct of all the polling officials , emphasizing that the democratic process was not only important for Nigeria but for Africa as a whole . Observers from the Atlanta-based Carter Center have monitored local government as well as state governors and legislators elections held earlier under the transition program and are expected to monitor the coming national House of Assembly and presidential elections scheduled for February . In a statement issued by the Atlanta-based Carter Center , he said his center and the U.S. National Democratic Institute for International Affairs would send a 40-to-50-member team to observe the February 27 presidential polls which would draw the curtain on the transfer of power from the military to civilians on May 29 .",
+    "summary_len": 486,
+    "summary_num_sents": 12,
+    "avg_sent_len": 40.5,
+    "scores_info": [
+      {
+        "len": 75,
+        "scores": {
+          "R1": {
+            "recall": 0.28571,
+            "recall_lower": 0.28571,
+            "recall_upper": 0.28571,
+            "f1": 0.27056,
+            "f1_lower": 0.27056,
+            "f1_upper": 0.27056,
+            "precision": 0.25694,
+            "precision_lower": 0.25694,
+            "precision_upper": 0.25694
+          },
+          "R2": {
+            "recall": 0.04706,
+            "recall_lower": 0.04706,
+            "recall_upper": 0.04706,
+            "f1": 0.04453,
+            "f1_lower": 0.04453,
+            "f1_upper": 0.04453,
+            "precision": 0.04225,
+            "precision_lower": 0.04225,
+            "precision_upper": 0.04225
+          },
+          "RL": {
+            "recall": 0.18147,
+            "recall_lower": 0.18147,
+            "recall_upper": 0.18147,
+            "f1": 0.17185,
+            "f1_lower": 0.17185,
+            "f1_upper": 0.17185,
+            "precision": 0.16319,
+            "precision_lower": 0.16319,
+            "precision_upper": 0.16319
+          },
+          "RSU4": {
+            "recall": 0.09664,
+            "recall_lower": 0.09664,
+            "recall_upper": 0.09664,
+            "f1": 0.09131,
+            "f1_lower": 0.09131,
+            "f1_upper": 0.09131,
+            "precision": 0.08654,
+            "precision_lower": 0.08654,
+            "precision_upper": 0.08654
+          }
+        }
+      },
+      {
+        "len": 150,
+        "scores": {
+          "R1": {
+            "recall": 0.34799,
+            "recall_lower": 0.34799,
+            "recall_upper": 0.34799,
+            "f1": 0.33487,
+            "f1_lower": 0.33487,
+            "f1_upper": 0.33487,
+            "precision": 0.3227,
+            "precision_lower": 0.3227,
+            "precision_upper": 0.3227
+          },
+          "R2": {
+            "recall": 0.07322,
+            "recall_lower": 0.07322,
+            "recall_upper": 0.07322,
+            "f1": 0.07044,
+            "f1_lower": 0.07044,
+            "f1_upper": 0.07044,
+            "precision": 0.06786,
+            "precision_lower": 0.06786,
+            "precision_upper": 0.06786
+          },
+          "RL": {
+            "recall": 0.174,
+            "recall_lower": 0.174,
+            "recall_upper": 0.174,
+            "f1": 0.16744,
+            "f1_lower": 0.16744,
+            "f1_upper": 0.16744,
+            "precision": 0.16135,
+            "precision_lower": 0.16135,
+            "precision_upper": 0.16135
+          },
+          "RSU4": {
+            "recall": 0.11874,
+            "recall_lower": 0.11874,
+            "recall_upper": 0.11874,
+            "f1": 0.11417,
+            "f1_lower": 0.11417,
+            "f1_upper": 0.11417,
+            "precision": 0.10994,
+            "precision_lower": 0.10994,
+            "precision_upper": 0.10994
+          }
+        }
+      },
+      {
+        "len": 250,
+        "scores": {
+          "R1": {
+            "recall": 0.40565,
+            "recall_lower": 0.40565,
+            "recall_upper": 0.40565,
+            "f1": 0.39257,
+            "f1_lower": 0.39257,
+            "f1_upper": 0.39257,
+            "precision": 0.3803,
+            "precision_lower": 0.3803,
+            "precision_upper": 0.3803
+          },
+          "R2": {
+            "recall": 0.10329,
+            "recall_lower": 0.10329,
+            "recall_upper": 0.10329,
+            "f1": 0.09995,
+            "f1_lower": 0.09995,
+            "f1_upper": 0.09995,
+            "precision": 0.09681,
+            "precision_lower": 0.09681,
+            "precision_upper": 0.09681
+          },
+          "RL": {
+            "recall": 0.19548,
+            "recall_lower": 0.19548,
+            "recall_upper": 0.19548,
+            "f1": 0.18917,
+            "f1_lower": 0.18917,
+            "f1_upper": 0.18917,
+            "precision": 0.18326,
+            "precision_lower": 0.18326,
+            "precision_upper": 0.18326
+          },
+          "RSU4": {
+            "recall": 0.15536,
+            "recall_lower": 0.15536,
+            "recall_upper": 0.15536,
+            "f1": 0.15029,
+            "f1_lower": 0.15029,
+            "f1_upper": 0.15029,
+            "precision": 0.14554,
+            "precision_lower": 0.14554,
+            "precision_upper": 0.14554
+          }
+        }
+      },
+      {
+        "len": 350,
+        "scores": {
+          "R1": {
+            "recall": 0.42545,
+            "recall_lower": 0.42545,
+            "recall_upper": 0.42545,
+            "f1": 0.36865,
+            "f1_lower": 0.36865,
+            "f1_upper": 0.36865,
+            "precision": 0.32523,
+            "precision_lower": 0.32523,
+            "precision_upper": 0.32523
+          },
+          "R2": {
+            "recall": 0.0988,
+            "recall_lower": 0.0988,
+            "recall_upper": 0.0988,
+            "f1": 0.08557,
+            "f1_lower": 0.08557,
+            "f1_upper": 0.08557,
+            "precision": 0.07546,
+            "precision_lower": 0.07546,
+            "precision_upper": 0.07546
+          },
+          "RL": {
+            "recall": 0.20179,
+            "recall_lower": 0.20179,
+            "recall_upper": 0.20179,
+            "f1": 0.17485,
+            "f1_lower": 0.17485,
+            "f1_upper": 0.17485,
+            "precision": 0.15426,
+            "precision_lower": 0.15426,
+            "precision_upper": 0.15426
+          },
+          "RSU4": {
+            "recall": 0.16142,
+            "recall_lower": 0.16142,
+            "recall_upper": 0.16142,
+            "f1": 0.13967,
+            "f1_lower": 0.13967,
+            "f1_upper": 0.13967,
+            "precision": 0.12308,
+            "precision_lower": 0.12308,
+            "precision_upper": 0.12308
+          }
+        }
+      }
+    ]
+  },
+  "2006_d0628": {
+    "summary": "And the companies and the American Psychiatric Association worked together to include the diagnosis of the two disorders and list it in the Diagnostic and Statistical Manual of Mental Disorders in 1980 , creating a huge market for the drug , the lawsuits say . But Jensen said the problem is that thousands of children are n't treated and more than one-half of children with the disorder have not been diagnosed . But sales of the pill , the stimulant methylphenidate , which is marketed under the trade name Ritalin , have more than doubled in the past decade as more and more parents , teachers and therapists turn to the drug to treat a condition known as attention deficit hyperactivity disorder . While the drug , which acts on the brain in much the same way as cocaine , is increasingly used to make better students out of elementary school children deemed to have `` developmental disorders , `` a growing number of specialists has begun to question the wisdom of using the drug . Dr. Steven Pliszka , chief of child and adolescent psychiatry at the University of Texas Health Science Center , was the lead investigator in the study published this month in the Journal of the American Academy of Child and Adolescent Psychiatry . Figures released by the APA in May indicate that anywhere from 4 percent to 12 percent of all American children _ some 2.5 million _ are now thought to have the disorder , making it the most common pediatric mental illness in the United States . Though he holds master 's degrees in neuroscience and anthropology , he is skeptical of the theories that the disorder is due to an absence of neurotransmitters in the brain or abnormal glucose metabolism . And while the Food and Drug Administration has approved the sale of methylphenidate on the basis of short-term studies of its safety and effectiveness , no one knows the impact of long-range use of the drug . That figure rose to 2.3 million in 1998 , and in the first nine months of this year the number has increased to 2.7 million , he said . Madras , a professor of biopsychology at the medical school , said the test showed that the seven adults diagnosed with attention deficit disorder had on average a 70 percent elevation in concentrations of a brain protein called the dopamine transporter . Researchers examined about 30,000 grade-school children in two districts in southeastern Virginia and found that pupils took drugs for ADHD in school at two to three times the expected rate , according to the study in the American Journal of Public Health . Examining 10- and 11-year-olds in Oxfordshire and in western Massachusetts , Jacobson found that there was little difference between the behavior of children in whom the disorder is diagnosed and those found to be normal .",
+    "summary_len": 486,
+    "summary_num_sents": 12,
+    "avg_sent_len": 40.5,
+    "scores_info": [
+      {
+        "len": 75,
+        "scores": {
+          "R1": {
+            "recall": 0.31086,
+            "recall_lower": 0.31086,
+            "recall_upper": 0.31086,
+            "f1": 0.29696,
+            "f1_lower": 0.29696,
+            "f1_upper": 0.29696,
+            "precision": 0.28425,
+            "precision_lower": 0.28425,
+            "precision_upper": 0.28425
+          },
+          "R2": {
+            "recall": 0.04563,
+            "recall_lower": 0.04563,
+            "recall_upper": 0.04563,
+            "f1": 0.04356,
+            "f1_lower": 0.04356,
+            "f1_upper": 0.04356,
+            "precision": 0.04167,
+            "precision_lower": 0.04167,
+            "precision_upper": 0.04167
+          },
+          "RL": {
+            "recall": 0.17228,
+            "recall_lower": 0.17228,
+            "recall_upper": 0.17228,
+            "f1": 0.16458,
+            "f1_lower": 0.16458,
+            "f1_upper": 0.16458,
+            "precision": 0.15753,
+            "precision_lower": 0.15753,
+            "precision_upper": 0.15753
+          },
+          "RSU4": {
+            "recall": 0.09493,
+            "recall_lower": 0.09493,
+            "recall_upper": 0.09493,
+            "f1": 0.09051,
+            "f1_lower": 0.09051,
+            "f1_upper": 0.09051,
+            "precision": 0.08649,
+            "precision_lower": 0.08649,
+            "precision_upper": 0.08649
+          }
+        }
+      },
+      {
+        "len": 150,
+        "scores": {
+          "R1": {
+            "recall": 0.3512,
+            "recall_lower": 0.3512,
+            "recall_upper": 0.3512,
+            "f1": 0.34389,
+            "f1_lower": 0.34389,
+            "f1_upper": 0.34389,
+            "precision": 0.33688,
+            "precision_lower": 0.33688,
+            "precision_upper": 0.33688
+          },
+          "R2": {
+            "recall": 0.0689,
+            "recall_lower": 0.0689,
+            "recall_upper": 0.0689,
+            "f1": 0.06746,
+            "f1_lower": 0.06746,
+            "f1_upper": 0.06746,
+            "precision": 0.06607,
+            "precision_lower": 0.06607,
+            "precision_upper": 0.06607
+          },
+          "RL": {
+            "recall": 0.1719,
+            "recall_lower": 0.1719,
+            "recall_upper": 0.1719,
+            "f1": 0.16832,
+            "f1_lower": 0.16832,
+            "f1_upper": 0.16832,
+            "precision": 0.16489,
+            "precision_lower": 0.16489,
+            "precision_upper": 0.16489
+          },
+          "RSU4": {
+            "recall": 0.11596,
+            "recall_lower": 0.11596,
+            "recall_upper": 0.11596,
+            "f1": 0.1135,
+            "f1_lower": 0.1135,
+            "f1_upper": 0.1135,
+            "precision": 0.11114,
+            "precision_lower": 0.11114,
+            "precision_upper": 0.11114
+          }
+        }
+      },
+      {
+        "len": 250,
+        "scores": {
+          "R1": {
+            "recall": 0.38742,
+            "recall_lower": 0.38742,
+            "recall_upper": 0.38742,
+            "f1": 0.38194,
+            "f1_lower": 0.38194,
+            "f1_upper": 0.38194,
+            "precision": 0.37661,
+            "precision_lower": 0.37661,
+            "precision_upper": 0.37661
+          },
+          "R2": {
+            "recall": 0.08758,
+            "recall_lower": 0.08758,
+            "recall_upper": 0.08758,
+            "f1": 0.08634,
+            "f1_lower": 0.08634,
+            "f1_upper": 0.08634,
+            "precision": 0.08513,
+            "precision_lower": 0.08513,
+            "precision_upper": 0.08513
+          },
+          "RL": {
+            "recall": 0.16336,
+            "recall_lower": 0.16336,
+            "recall_upper": 0.16336,
+            "f1": 0.16105,
+            "f1_lower": 0.16105,
+            "f1_upper": 0.16105,
+            "precision": 0.1588,
+            "precision_lower": 0.1588,
+            "precision_upper": 0.1588
+          },
+          "RSU4": {
+            "recall": 0.13589,
+            "recall_lower": 0.13589,
+            "recall_upper": 0.13589,
+            "f1": 0.13394,
+            "f1_lower": 0.13394,
+            "f1_upper": 0.13394,
+            "precision": 0.13205,
+            "precision_lower": 0.13205,
+            "precision_upper": 0.13205
+          }
+        }
+      },
+      {
+        "len": 350,
+        "scores": {
+          "R1": {
+            "recall": 0.43719,
+            "recall_lower": 0.43719,
+            "recall_upper": 0.43719,
+            "f1": 0.37989,
+            "f1_lower": 0.37989,
+            "f1_upper": 0.37989,
+            "precision": 0.33587,
+            "precision_lower": 0.33587,
+            "precision_upper": 0.33587
+          },
+          "R2": {
+            "recall": 0.09732,
+            "recall_lower": 0.09732,
+            "recall_upper": 0.09732,
+            "f1": 0.08452,
+            "f1_lower": 0.08452,
+            "f1_upper": 0.08452,
+            "precision": 0.0747,
+            "precision_lower": 0.0747,
+            "precision_upper": 0.0747
+          },
+          "RL": {
+            "recall": 0.18793,
+            "recall_lower": 0.18793,
+            "recall_upper": 0.18793,
+            "f1": 0.1633,
+            "f1_lower": 0.1633,
+            "f1_upper": 0.1633,
+            "precision": 0.14438,
+            "precision_lower": 0.14438,
+            "precision_upper": 0.14438
+          },
+          "RSU4": {
+            "recall": 0.15878,
+            "recall_lower": 0.15878,
+            "recall_upper": 0.15878,
+            "f1": 0.13778,
+            "f1_lower": 0.13778,
+            "f1_upper": 0.13778,
+            "precision": 0.12168,
+            "precision_lower": 0.12168,
+            "precision_upper": 0.12168
+          }
+        }
+      }
+    ]
+  },
+  "2006_d0629": {
+    "summary": "`` Instead they should be more interested in the person who released the bug which caused the spread of the virus , `` said the statement , which was e-mailed to The Associated Press . Once in the computer it will infect any Word files that the owner opens or creates , and it will rifle through his or her Outlook address book and send a copy of itself , embedded in a Word document , to the first 50 people or groups on the list . The unusually destructive virus -- timed to strike on April 26 , the 13th anniversary of the Chernobyl nuclear disaster -- tries to erase a computer 's hard drive and write gibberish into its system settings to prevent the machine from being restarted . Melissa has focused the computing world 's attention on the rapidly growing threat of computer viruses in the Internet era and underscored the need of all PC users to take virus protection seriously . NEW YORK ( AP ) -- The FBI on Friday tried to track the author of a file-destroying computer virus that has hit some of the nation 's biggest corporations and infected tens of thousands of machines . To the best of my knowledge , I never did that , but the thing suddenly turned into a kind of hand grenade ; every time it came wafting into my computer by way of e-mail , as soon as it was downloaded , it caused the computer to seize up . Software companies posted new virus-killing programs on their Web sites to attack the Worm.Explore.Zip virus , which enters machines in almost the same way as the recent Melissa virus -- by disguising itself as a friendly piece of e-mail . The Federal Bureau of Investigation was trying to track down the author of the virus , but the agency declined to provide any updates on the probe over the weekend . In a more sophisticated examination , however , it is found that the new offshoot of the virus is much more dangerous as it will attaches itself to every file on the victims ' computer drivers , while the previous bug reportedly written by a Filipino only attacked selected multimedia files . Only two cases of the virus have been detected `` in the wild `` so far , said Sal Viveros , group marketing manager in the virus defense division of Santa-Clara , Calif.-based Network Associates , maker of the McAfee virus protection software . It is not destructive , except to the extent that it clogs e-mail systems and forces system administrators to spend most of their time cleansing the virus from their computers . But many were caught off guard by the amount of damage and said it was much worse than the Melissa virus early this month .",
+    "summary_len": 478,
+    "summary_num_sents": 12,
+    "avg_sent_len": 39.833333333333336,
+    "scores_info": [
+      {
+        "len": 75,
+        "scores": {
+          "R1": {
+            "recall": 0.26545,
+            "recall_lower": 0.26545,
+            "recall_upper": 0.26545,
+            "f1": 0.26497,
+            "f1_lower": 0.26497,
+            "f1_upper": 0.26497,
+            "precision": 0.26449,
+            "precision_lower": 0.26449,
+            "precision_upper": 0.26449
+          },
+          "R2": {
+            "recall": 0.02952,
+            "recall_lower": 0.02952,
+            "recall_upper": 0.02952,
+            "f1": 0.02946,
+            "f1_lower": 0.02946,
+            "f1_upper": 0.02946,
+            "precision": 0.02941,
+            "precision_lower": 0.02941,
+            "precision_upper": 0.02941
+          },
+          "RL": {
+            "recall": 0.14909,
+            "recall_lower": 0.14909,
+            "recall_upper": 0.14909,
+            "f1": 0.14882,
+            "f1_lower": 0.14882,
+            "f1_upper": 0.14882,
+            "precision": 0.14855,
+            "precision_lower": 0.14855,
+            "precision_upper": 0.14855
+          },
+          "RSU4": {
+            "recall": 0.07503,
+            "recall_lower": 0.07503,
+            "recall_upper": 0.07503,
+            "f1": 0.07489,
+            "f1_lower": 0.07489,
+            "f1_upper": 0.07489,
+            "precision": 0.07475,
+            "precision_lower": 0.07475,
+            "precision_upper": 0.07475
+          }
+        }
+      },
+      {
+        "len": 150,
+        "scores": {
+          "R1": {
+            "recall": 0.37112,
+            "recall_lower": 0.37112,
+            "recall_upper": 0.37112,
+            "f1": 0.36943,
+            "f1_lower": 0.36943,
+            "f1_upper": 0.36943,
+            "precision": 0.36775,
+            "precision_lower": 0.36775,
+            "precision_upper": 0.36775
+          },
+          "R2": {
+            "recall": 0.09761,
+            "recall_lower": 0.09761,
+            "recall_upper": 0.09761,
+            "f1": 0.09716,
+            "f1_lower": 0.09716,
+            "f1_upper": 0.09716,
+            "precision": 0.09672,
+            "precision_lower": 0.09672,
+            "precision_upper": 0.09672
+          },
+          "RL": {
+            "recall": 0.18282,
+            "recall_lower": 0.18282,
+            "recall_upper": 0.18282,
+            "f1": 0.18199,
+            "f1_lower": 0.18199,
+            "f1_upper": 0.18199,
+            "precision": 0.18116,
+            "precision_lower": 0.18116,
+            "precision_upper": 0.18116
+          },
+          "RSU4": {
+            "recall": 0.13704,
+            "recall_lower": 0.13704,
+            "recall_upper": 0.13704,
+            "f1": 0.13641,
+            "f1_lower": 0.13641,
+            "f1_upper": 0.13641,
+            "precision": 0.13578,
+            "precision_lower": 0.13578,
+            "precision_upper": 0.13578
+          }
+        }
+      },
+      {
+        "len": 250,
+        "scores": {
+          "R1": {
+            "recall": 0.39092,
+            "recall_lower": 0.39092,
+            "recall_upper": 0.39092,
+            "f1": 0.38728,
+            "f1_lower": 0.38728,
+            "f1_upper": 0.38728,
+            "precision": 0.3837,
+            "precision_lower": 0.3837,
+            "precision_upper": 0.3837
+          },
+          "R2": {
+            "recall": 0.08676,
+            "recall_lower": 0.08676,
+            "recall_upper": 0.08676,
+            "f1": 0.08595,
+            "f1_lower": 0.08595,
+            "f1_upper": 0.08595,
+            "precision": 0.08515,
+            "precision_lower": 0.08515,
+            "precision_upper": 0.08515
+          },
+          "RL": {
+            "recall": 0.17165,
+            "recall_lower": 0.17165,
+            "recall_upper": 0.17165,
+            "f1": 0.17005,
+            "f1_lower": 0.17005,
+            "f1_upper": 0.17005,
+            "precision": 0.16848,
+            "precision_lower": 0.16848,
+            "precision_upper": 0.16848
+          },
+          "RSU4": {
+            "recall": 0.14008,
+            "recall_lower": 0.14008,
+            "recall_upper": 0.14008,
+            "f1": 0.13876,
+            "f1_lower": 0.13876,
+            "f1_upper": 0.13876,
+            "precision": 0.13746,
+            "precision_lower": 0.13746,
+            "precision_upper": 0.13746
+          }
+        }
+      },
+      {
+        "len": 350,
+        "scores": {
+          "R1": {
+            "recall": 0.44043,
+            "recall_lower": 0.44043,
+            "recall_upper": 0.44043,
+            "f1": 0.38746,
+            "f1_lower": 0.38746,
+            "f1_upper": 0.38746,
+            "precision": 0.34586,
+            "precision_lower": 0.34586,
+            "precision_upper": 0.34586
+          },
+          "R2": {
+            "recall": 0.09608,
+            "recall_lower": 0.09608,
+            "recall_upper": 0.09608,
+            "f1": 0.08448,
+            "f1_lower": 0.08448,
+            "f1_upper": 0.08448,
+            "precision": 0.07538,
+            "precision_lower": 0.07538,
+            "precision_upper": 0.07538
+          },
+          "RL": {
+            "recall": 0.19434,
+            "recall_lower": 0.19434,
+            "recall_upper": 0.19434,
+            "f1": 0.17097,
+            "f1_lower": 0.17097,
+            "f1_upper": 0.17097,
+            "precision": 0.15261,
+            "precision_lower": 0.15261,
+            "precision_upper": 0.15261
+          },
+          "RSU4": {
+            "recall": 0.15872,
+            "recall_lower": 0.15872,
+            "recall_upper": 0.15872,
+            "f1": 0.13945,
+            "f1_lower": 0.13945,
+            "f1_upper": 0.13945,
+            "precision": 0.12436,
+            "precision_lower": 0.12436,
+            "precision_upper": 0.12436
+          }
+        }
+      }
+    ]
+  },
+  "2006_d0631": {
+    "summary": "There has been speculation in the French press that a 16-inch strip of metal found on the runway -- and not belonging to the Concorde -- could have been at the origin of the crash . It remains to be seen whether the accident last week , which killed 114 people including five on the ground , will kill the supersonic transports the way the Hindenburg ended the promise of the dirigible , when it crashed killing 35 people on board and one on the ground . Tower controllers told the pilots that flames were streaming from the rear of the plane during take-off , but the Concorde was traveling too fast to halt the flight , the BEA said . In their statement Thursday , the investigators said that the bursting of the tire while the plane was moving down the runway at about 195 mph threw up large pieces of the tire , some of them weighing as much as 9 pounds . PARIS ( AP ) -- Investigators removed two engines from the Concorde crash site Wednesday in hopes the wreckage of the Air France supersonic jet will help determine the cause of the disaster that killed 113 people . In the aftermath of Tuesday 's crash of a chartered Air France Concorde outside Paris , killing all 109 people on the airplane and four people on the ground , most members of the elite club that is the Concorde 's clientele had few qualms about flying the jet again . On Tuesday , British Airways -- the only airline flying the supersonic jets at the moment since the French fleet is grounded for now -- said Concorde traffic was comparable in recent days to the same time period in 1999 . In 1969 , the year the Concorde first broke the sound barrier , the total number of people carried on planes in the United States was less than the country 's population . French investigators have said they believe that a thin strip of metal fell off the Continental plane , which had taken off on the same runway as the Concorde , and set off the events that caused the Air France jet to burst into flames and crash within minutes after its takeoff . LONDON ( AP ) -- The grounding of the Concorde left a hole at the top end of the travel market , reducing the rich and famous to the same subsonic pace as the rest of humanity . Britain 's decision on Tuesday to ground the Concorde following the first fatal crash of the supersonic transport plane probably marks the end of the line for what was almost certainly the loftiest niche in commercial aviation history . Le Figaro newspaper on Wednesday quoted Gayssot , the transport minister , as raising the possibility that the ban on Air France Concorde flights could remain in place until the Accident and Inquiry Office releases a preliminary report on the crash at the end of August .",
+    "summary_len": 505,
+    "summary_num_sents": 12,
+    "avg_sent_len": 42.083333333333336,
+    "scores_info": [
+      {
+        "len": 75,
+        "scores": {
+          "R1": {
+            "recall": 0.23529,
+            "recall_lower": 0.23529,
+            "recall_upper": 0.23529,
+            "f1": 0.23188,
+            "f1_lower": 0.23188,
+            "f1_upper": 0.23188,
+            "precision": 0.22857,
+            "precision_lower": 0.22857,
+            "precision_upper": 0.22857
+          },
+          "R2": {
+            "recall": 0.04851,
+            "recall_lower": 0.04851,
+            "recall_upper": 0.04851,
+            "f1": 0.04779,
+            "f1_lower": 0.04779,
+            "f1_upper": 0.04779,
+            "precision": 0.0471,
+            "precision_lower": 0.0471,
+            "precision_upper": 0.0471
+          },
+          "RL": {
+            "recall": 0.15074,
+            "recall_lower": 0.15074,
+            "recall_upper": 0.15074,
+            "f1": 0.14855,
+            "f1_lower": 0.14855,
+            "f1_upper": 0.14855,
+            "precision": 0.14643,
+            "precision_lower": 0.14643,
+            "precision_upper": 0.14643
+          },
+          "RSU4": {
+            "recall": 0.07781,
+            "recall_lower": 0.07781,
+            "recall_upper": 0.07781,
+            "f1": 0.07664,
+            "f1_lower": 0.07664,
+            "f1_upper": 0.07664,
+            "precision": 0.0755,
+            "precision_lower": 0.0755,
+            "precision_upper": 0.0755
+          }
+        }
+      },
+      {
+        "len": 150,
+        "scores": {
+          "R1": {
+            "recall": 0.2865,
+            "recall_lower": 0.2865,
+            "recall_upper": 0.2865,
+            "f1": 0.28238,
+            "f1_lower": 0.28238,
+            "f1_upper": 0.28238,
+            "precision": 0.27837,
+            "precision_lower": 0.27837,
+            "precision_upper": 0.27837
+          },
+          "R2": {
+            "recall": 0.06434,
+            "recall_lower": 0.06434,
+            "recall_upper": 0.06434,
+            "f1": 0.06341,
+            "f1_lower": 0.06341,
+            "f1_upper": 0.06341,
+            "precision": 0.0625,
+            "precision_lower": 0.0625,
+            "precision_upper": 0.0625
+          },
+          "RL": {
+            "recall": 0.15328,
+            "recall_lower": 0.15328,
+            "recall_upper": 0.15328,
+            "f1": 0.15108,
+            "f1_lower": 0.15108,
+            "f1_upper": 0.15108,
+            "precision": 0.14894,
+            "precision_lower": 0.14894,
+            "precision_upper": 0.14894
+          },
+          "RSU4": {
+            "recall": 0.1005,
+            "recall_lower": 0.1005,
+            "recall_upper": 0.1005,
+            "f1": 0.09902,
+            "f1_lower": 0.09902,
+            "f1_upper": 0.09902,
+            "precision": 0.09759,
+            "precision_lower": 0.09759,
+            "precision_upper": 0.09759
+          }
+        }
+      },
+      {
+        "len": 250,
+        "scores": {
+          "R1": {
+            "recall": 0.39387,
+            "recall_lower": 0.39387,
+            "recall_upper": 0.39387,
+            "f1": 0.39003,
+            "f1_lower": 0.39003,
+            "f1_upper": 0.39003,
+            "precision": 0.38627,
+            "precision_lower": 0.38627,
+            "precision_upper": 0.38627
+          },
+          "R2": {
+            "recall": 0.11319,
+            "recall_lower": 0.11319,
+            "recall_upper": 0.11319,
+            "f1": 0.11208,
+            "f1_lower": 0.11208,
+            "f1_upper": 0.11208,
+            "precision": 0.11099,
+            "precision_lower": 0.11099,
+            "precision_upper": 0.11099
+          },
+          "RL": {
+            "recall": 0.17724,
+            "recall_lower": 0.17724,
+            "recall_upper": 0.17724,
+            "f1": 0.17551,
+            "f1_lower": 0.17551,
+            "f1_upper": 0.17551,
+            "precision": 0.17382,
+            "precision_lower": 0.17382,
+            "precision_upper": 0.17382
+          },
+          "RSU4": {
+            "recall": 0.15129,
+            "recall_lower": 0.15129,
+            "recall_upper": 0.15129,
+            "f1": 0.1498,
+            "f1_lower": 0.1498,
+            "f1_upper": 0.1498,
+            "precision": 0.14834,
+            "precision_lower": 0.14834,
+            "precision_upper": 0.14834
+          }
+        }
+      },
+      {
+        "len": 350,
+        "scores": {
+          "R1": {
+            "recall": 0.43337,
+            "recall_lower": 0.43337,
+            "recall_upper": 0.43337,
+            "f1": 0.38025,
+            "f1_lower": 0.38025,
+            "f1_upper": 0.38025,
+            "precision": 0.33873,
+            "precision_lower": 0.33873,
+            "precision_upper": 0.33873
+          },
+          "R2": {
+            "recall": 0.1219,
+            "recall_lower": 0.1219,
+            "recall_upper": 0.1219,
+            "f1": 0.10691,
+            "f1_lower": 0.10691,
+            "f1_upper": 0.10691,
+            "precision": 0.0952,
+            "precision_lower": 0.0952,
+            "precision_upper": 0.0952
+          },
+          "RL": {
+            "recall": 0.18559,
+            "recall_lower": 0.18559,
+            "recall_upper": 0.18559,
+            "f1": 0.16284,
+            "f1_lower": 0.16284,
+            "f1_upper": 0.16284,
+            "precision": 0.14506,
+            "precision_lower": 0.14506,
+            "precision_upper": 0.14506
+          },
+          "RSU4": {
+            "recall": 0.16944,
+            "recall_lower": 0.16944,
+            "recall_upper": 0.16944,
+            "f1": 0.14848,
+            "f1_lower": 0.14848,
+            "f1_upper": 0.14848,
+            "precision": 0.13213,
+            "precision_lower": 0.13213,
+            "precision_upper": 0.13213
+          }
+        }
+      }
+    ]
+  },
+  "2006_d0645": {
+    "summary": "Despite the call for more affordable housing units from the administration and advocates for fair housing , some people think the federal government should not be in the business of housing to begin with . The largest part of the request comes from the Department of Housing and Urban Development , which is seeking $ 1.8 billion in new spending beyond the appropriation of $ 24 billion it has received in each of the last five years . Two 30-year mortgages are offered to qualified buyers to cover the cost of a house _ one for 75 percent of the cost at 5.4 percent by the finance agency , the other for 25 percent of the cost at 1.5 percent by the Colorado Springs Housing authority . The report , issued by Andrew Cuomo , the U.S. secretary of housing and urban development , said that 5.4 million low-income families pay more than half their incomes for housing or live in dilapidated units , an increase of 12 percent since the economic expansion began in 1991 . A spokesman at Kerry 's office said the senator , who is the ranking Democrat on the Senate 's housing subcommittee , will work to build bipartisan support for the legislation to establish the trust fund , which he expects to introduce at the next session of Congress . The vouchers allow low-income families to find their own housing , and to use government subsidies to help pay the costs . The trust , which the Massachusetts Democrat said can be funded by annual revenues of the Federal Housing Administration , would be used to help create rental housing for low- and moderate-income families , and to expand elderly housing and homeownership programs across the nation . Rep. Rick A. Lazio , R-N.Y. , chairman of the House subcommittee on housing and community opportunity , said the center 's study tells the public what it already knows : there is a growing shortage of affordable housing for the poorest Americans . `` The graying of America is going to have significant impact on the nation 's housing and will be one of the greatest challenges we face over the next 10 years . `` Cuomo is also on the verge of winning enactment of two other housing measures that are likely to make it easier for congressional Democrats and the Clinton administration to accept the public housing bill . The national average for public housing tenants is $ 7,000 to $ 8,000 , according to the National Association of Housing and Redevelopment Officials . But because of the nation 's rising prosperity , Cuomo said , many property owners have found that higher-income tenants have bid up the prices of the apartments beyond the poorer tenants ' abilities to pay , even with the subsidies .",
+    "summary_len": 473,
+    "summary_num_sents": 12,
+    "avg_sent_len": 39.416666666666664,
+    "scores_info": [
+      {
+        "len": 75,
+        "scores": {
+          "R1": {
+            "recall": 0.27178,
+            "recall_lower": 0.27178,
+            "recall_upper": 0.27178,
+            "f1": 0.27321,
+            "f1_lower": 0.27321,
+            "f1_upper": 0.27321,
+            "precision": 0.27465,
+            "precision_lower": 0.27465,
+            "precision_upper": 0.27465
+          },
+          "R2": {
+            "recall": 0.03887,
+            "recall_lower": 0.03887,
+            "recall_upper": 0.03887,
+            "f1": 0.03908,
+            "f1_lower": 0.03908,
+            "f1_upper": 0.03908,
+            "precision": 0.03929,
+            "precision_lower": 0.03929,
+            "precision_upper": 0.03929
+          },
+          "RL": {
+            "recall": 0.16028,
+            "recall_lower": 0.16028,
+            "recall_upper": 0.16028,
+            "f1": 0.16112,
+            "f1_lower": 0.16112,
+            "f1_upper": 0.16112,
+            "precision": 0.16197,
+            "precision_lower": 0.16197,
+            "precision_upper": 0.16197
+          },
+          "RSU4": {
+            "recall": 0.08384,
+            "recall_lower": 0.08384,
+            "recall_upper": 0.08384,
+            "f1": 0.0843,
+            "f1_lower": 0.0843,
+            "f1_upper": 0.0843,
+            "precision": 0.08476,
+            "precision_lower": 0.08476,
+            "precision_upper": 0.08476
+          }
+        }
+      },
+      {
+        "len": 150,
+        "scores": {
+          "R1": {
+            "recall": 0.30088,
+            "recall_lower": 0.30088,
+            "recall_upper": 0.30088,
+            "f1": 0.29694,
+            "f1_lower": 0.29694,
+            "f1_upper": 0.29694,
+            "precision": 0.2931,
+            "precision_lower": 0.2931,
+            "precision_upper": 0.2931
+          },
+          "R2": {
+            "recall": 0.03743,
+            "recall_lower": 0.03743,
+            "recall_upper": 0.03743,
+            "f1": 0.03694,
+            "f1_lower": 0.03694,
+            "f1_upper": 0.03694,
+            "precision": 0.03646,
+            "precision_lower": 0.03646,
+            "precision_upper": 0.03646
+          },
+          "RL": {
+            "recall": 0.15398,
+            "recall_lower": 0.15398,
+            "recall_upper": 0.15398,
+            "f1": 0.15196,
+            "f1_lower": 0.15196,
+            "f1_upper": 0.15196,
+            "precision": 0.15,
+            "precision_lower": 0.15,
+            "precision_upper": 0.15
+          },
+          "RSU4": {
+            "recall": 0.09651,
+            "recall_lower": 0.09651,
+            "recall_upper": 0.09651,
+            "f1": 0.09522,
+            "f1_lower": 0.09522,
+            "f1_upper": 0.09522,
+            "precision": 0.09397,
+            "precision_lower": 0.09397,
+            "precision_upper": 0.09397
+          }
+        }
+      },
+      {
+        "len": 250,
+        "scores": {
+          "R1": {
+            "recall": 0.37232,
+            "recall_lower": 0.37232,
+            "recall_upper": 0.37232,
+            "f1": 0.36837,
+            "f1_lower": 0.36837,
+            "f1_upper": 0.36837,
+            "precision": 0.3645,
+            "precision_lower": 0.3645,
+            "precision_upper": 0.3645
+          },
+          "R2": {
+            "recall": 0.06034,
+            "recall_lower": 0.06034,
+            "recall_upper": 0.06034,
+            "f1": 0.0597,
+            "f1_lower": 0.0597,
+            "f1_upper": 0.0597,
+            "precision": 0.05907,
+            "precision_lower": 0.05907,
+            "precision_upper": 0.05907
+          },
+          "RL": {
+            "recall": 0.16953,
+            "recall_lower": 0.16953,
+            "recall_upper": 0.16953,
+            "f1": 0.16773,
+            "f1_lower": 0.16773,
+            "f1_upper": 0.16773,
+            "precision": 0.16597,
+            "precision_lower": 0.16597,
+            "precision_upper": 0.16597
+          },
+          "RSU4": {
+            "recall": 0.13296,
+            "recall_lower": 0.13296,
+            "recall_upper": 0.13296,
+            "f1": 0.13153,
+            "f1_lower": 0.13153,
+            "f1_upper": 0.13153,
+            "precision": 0.13013,
+            "precision_lower": 0.13013,
+            "precision_upper": 0.13013
+          }
+        }
+      },
+      {
+        "len": 350,
+        "scores": {
+          "R1": {
+            "recall": 0.4312,
+            "recall_lower": 0.4312,
+            "recall_upper": 0.4312,
+            "f1": 0.37776,
+            "f1_lower": 0.37776,
+            "f1_upper": 0.37776,
+            "precision": 0.3361,
+            "precision_lower": 0.3361,
+            "precision_upper": 0.3361
+          },
+          "R2": {
+            "recall": 0.08366,
+            "recall_lower": 0.08366,
+            "recall_upper": 0.08366,
+            "f1": 0.07325,
+            "f1_lower": 0.07325,
+            "f1_upper": 0.07325,
+            "precision": 0.06515,
+            "precision_lower": 0.06515,
+            "precision_upper": 0.06515
+          },
+          "RL": {
+            "recall": 0.1938,
+            "recall_lower": 0.1938,
+            "recall_upper": 0.1938,
+            "f1": 0.16978,
+            "f1_lower": 0.16978,
+            "f1_upper": 0.16978,
+            "precision": 0.15106,
+            "precision_lower": 0.15106,
+            "precision_upper": 0.15106
+          },
+          "RSU4": {
+            "recall": 0.15715,
+            "recall_lower": 0.15715,
+            "recall_upper": 0.15715,
+            "f1": 0.13749,
+            "f1_lower": 0.13749,
+            "f1_upper": 0.13749,
+            "precision": 0.12221,
+            "precision_lower": 0.12221,
+            "precision_upper": 0.12221
+          }
+        }
+      }
+    ]
+  },
+  "2006_d0630": {
+    "summary": "Independent booksellers , meanwhile , have organized one of the most elaborate opposition campaigns in the recent history of the book industry , with so many petitions , e-mails and telephone appeals to the FTC that the agency has set aside a special line just to record calls about the Ingram deal . Avin Domnitz , the chief executive of the American Booksellers Association , said the study reflected other research the trade group had conducted to prepare for the August start of the Book Sense site on the World Wide Web . As Richard Howorth , owner of Square Books in Oxford and president of the American Booksellers Association says , `` In 1991 , when Barnes & AMP ; Noble and Borders began to expand , there were 5,200 members of the ABA . Of the so-called `` bricks and mortar `` bookstores that captured about 50 percent of the market in the second quarter of 1998 , more than half of sales were generated in four chain stores . `` We intend to remain competitive in the marketplace , `` said Leonard Riggio , the chairman and chief executive of Barnes & AMP ; Noble , who added that Amazon has `` changed their prices in the middle of a public offering for Barnesandnoble.com and that speaks for itself . `` The downturn in sales comes as the economy continues to thrive and the number of small independent publishers has grown in the last 10 years to more than 53,400 companies . But the competition among online bookstores could intensify with the entry of the German media conglomerate , Bertelsmann AG , which is expected to open its online store , Booksonline , in Europe and the United States in the fall . The announcement this month that the nation 's leading bookseller , Barnes & AMP ; Noble , will buy the leading wholesaler , the Ingram Book Group , for $ 600 million is just the latest move in a shifting field of distribution networks . The unit sales of adult trade books are projected to grow more than 2 percent annually through the year 2003 _ an indication that online sales are not expected to increase the market for popular books . Because `` You 've Got Mail `` is the first popular entertainment to focus on the plight of embattled independent booksellers as they try to survive the tidal wave of chain superstores ( Barnes & AMP ; Noble , Borders ) along with such online competitors as Seattle-based Amazon.com . Ingram , for example , has worked over the last two years to improve its ability to ship smaller orders to more customers , and over the last year has developed this operation in earnest delivering books for Barnesandnoble.com and Buy.com , the two largest of 20 such clients it works with . A new industry study indicates that the popular market for literature declined , with the number of purchases dropping for the first time in seven years despite the growing presence of electronic bookstores and the easy availability of titles .",
+    "summary_len": 521,
+    "summary_num_sents": 12,
+    "avg_sent_len": 43.416666666666664,
+    "scores_info": [
+      {
+        "len": 75,
+        "scores": {
+          "R1": {
+            "recall": 0.25735,
+            "recall_lower": 0.25735,
+            "recall_upper": 0.25735,
+            "f1": 0.25547,
+            "f1_lower": 0.25547,
+            "f1_upper": 0.25547,
+            "precision": 0.25362,
+            "precision_lower": 0.25362,
+            "precision_upper": 0.25362
+          },
+          "R2": {
+            "recall": 0.0597,
+            "recall_lower": 0.0597,
+            "recall_upper": 0.0597,
+            "f1": 0.05926,
+            "f1_lower": 0.05926,
+            "f1_upper": 0.05926,
+            "precision": 0.05882,
+            "precision_lower": 0.05882,
+            "precision_upper": 0.05882
+          },
+          "RL": {
+            "recall": 0.17279,
+            "recall_lower": 0.17279,
+            "recall_upper": 0.17279,
+            "f1": 0.17153,
+            "f1_lower": 0.17153,
+            "f1_upper": 0.17153,
+            "precision": 0.17029,
+            "precision_lower": 0.17029,
+            "precision_upper": 0.17029
+          },
+          "RSU4": {
+            "recall": 0.0861,
+            "recall_lower": 0.0861,
+            "recall_upper": 0.0861,
+            "f1": 0.08545,
+            "f1_lower": 0.08545,
+            "f1_upper": 0.08545,
+            "precision": 0.0848,
+            "precision_lower": 0.0848,
+            "precision_upper": 0.0848
+          }
+        }
+      },
+      {
+        "len": 150,
+        "scores": {
+          "R1": {
+            "recall": 0.33087,
+            "recall_lower": 0.33087,
+            "recall_upper": 0.33087,
+            "f1": 0.33117,
+            "f1_lower": 0.33117,
+            "f1_upper": 0.33117,
+            "precision": 0.33148,
+            "precision_lower": 0.33148,
+            "precision_upper": 0.33148
+          },
+          "R2": {
+            "recall": 0.06518,
+            "recall_lower": 0.06518,
+            "recall_upper": 0.06518,
+            "f1": 0.06524,
+            "f1_lower": 0.06524,
+            "f1_upper": 0.06524,
+            "precision": 0.0653,
+            "precision_lower": 0.0653,
+            "precision_upper": 0.0653
+          },
+          "RL": {
+            "recall": 0.16081,
+            "recall_lower": 0.16081,
+            "recall_upper": 0.16081,
+            "f1": 0.16096,
+            "f1_lower": 0.16096,
+            "f1_upper": 0.16096,
+            "precision": 0.16111,
+            "precision_lower": 0.16111,
+            "precision_upper": 0.16111
+          },
+          "RSU4": {
+            "recall": 0.10339,
+            "recall_lower": 0.10339,
+            "recall_upper": 0.10339,
+            "f1": 0.10349,
+            "f1_lower": 0.10349,
+            "f1_upper": 0.10349,
+            "precision": 0.10359,
+            "precision_lower": 0.10359,
+            "precision_upper": 0.10359
+          }
+        }
+      },
+      {
+        "len": 250,
+        "scores": {
+          "R1": {
+            "recall": 0.3876,
+            "recall_lower": 0.3876,
+            "recall_upper": 0.3876,
+            "f1": 0.3891,
+            "f1_lower": 0.3891,
+            "f1_upper": 0.3891,
+            "precision": 0.39062,
+            "precision_lower": 0.39062,
+            "precision_upper": 0.39062
+          },
+          "R2": {
+            "recall": 0.08231,
+            "recall_lower": 0.08231,
+            "recall_upper": 0.08231,
+            "f1": 0.08263,
+            "f1_lower": 0.08263,
+            "f1_upper": 0.08263,
+            "precision": 0.08296,
+            "precision_lower": 0.08296,
+            "precision_upper": 0.08296
+          },
+          "RL": {
+            "recall": 0.17386,
+            "recall_lower": 0.17386,
+            "recall_upper": 0.17386,
+            "f1": 0.17454,
+            "f1_lower": 0.17454,
+            "f1_upper": 0.17454,
+            "precision": 0.17522,
+            "precision_lower": 0.17522,
+            "precision_upper": 0.17522
+          },
+          "RSU4": {
+            "recall": 0.13467,
+            "recall_lower": 0.13467,
+            "recall_upper": 0.13467,
+            "f1": 0.1352,
+            "f1_lower": 0.1352,
+            "f1_upper": 0.1352,
+            "precision": 0.13573,
+            "precision_lower": 0.13573,
+            "precision_upper": 0.13573
+          }
+        }
+      },
+      {
+        "len": 350,
+        "scores": {
+          "R1": {
+            "recall": 0.43976,
+            "recall_lower": 0.43976,
+            "recall_upper": 0.43976,
+            "f1": 0.39646,
+            "f1_lower": 0.39646,
+            "f1_upper": 0.39646,
+            "precision": 0.36093,
+            "precision_lower": 0.36093,
+            "precision_upper": 0.36093
+          },
+          "R2": {
+            "recall": 0.10226,
+            "recall_lower": 0.10226,
+            "recall_upper": 0.10226,
+            "f1": 0.09216,
+            "f1_lower": 0.09216,
+            "f1_upper": 0.09216,
+            "precision": 0.08387,
+            "precision_lower": 0.08387,
+            "precision_upper": 0.08387
+          },
+          "RL": {
+            "recall": 0.18805,
+            "recall_lower": 0.18805,
+            "recall_upper": 0.18805,
+            "f1": 0.16954,
+            "f1_lower": 0.16954,
+            "f1_upper": 0.16954,
+            "precision": 0.15434,
+            "precision_lower": 0.15434,
+            "precision_upper": 0.15434
+          },
+          "RSU4": {
+            "recall": 0.15754,
+            "recall_lower": 0.15754,
+            "recall_upper": 0.15754,
+            "f1": 0.14188,
+            "f1_lower": 0.14188,
+            "f1_upper": 0.14188,
+            "precision": 0.12905,
+            "precision_lower": 0.12905,
+            "precision_upper": 0.12905
+          }
+        }
+      }
+    ]
+  },
+  "2006_d0647": {
+    "summary": "The boy was soon in the center of a campaign to bring him back to Cuba by his father and relatives in Cuba and to keep him in the United States by his relatives in Miami . The 12 judges of the 11th Circuit evidently shared with many observers of the case the feeling that it was time to write the last chapter of a saga that has captivated the nation and sparked international controversy since Elian was discovered floating on an inner tube off the Florida coast last November . But shortly before midnight , Lazaro Gonzales , the great-uncle who has custody of the boy , emerged from his house in Miami and said Elian did not want to go to Washington , so no one from the Miami family would go , The Associated Press reported . Earlier Wednesday , the Gonzalez family 's spokesman said the family would not accede to the INS 's key demand : that they agree in writing to surrender the boy if an appeals court orders that he be returned to his father . WASHINGTON _ The relatives of Elian Gonzalez , the 6-year-old Cuban boy at the center of an international custody battle , decided Tuesday night to turn the boy over to his father on Wednesday at a meeting here , government officials said on Tuesday night . Circuit Court of Appeals upheld the denial of the amnesty hearing , but ordered the boy to remain in the country as the relatives filed an appeal with the full Court of Appeals . In frantic last-minute negotiations , as the Justice Department prepared to order the transfer on Thursday morning in Florida , representatives of the Miami relatives and Juan Miguel Gonzalez , Elian 's father , agreed to a meeting in the Washington , D.C. , area , the officials said . MIAMI _ The drama intensified Wednesday in the Elian Gonzalez saga as Cuban President Fidel Castro announced that the boy 's father was ready to fly `` immediately `` to retrieve his son , while the US government extended its deadline for taking action to return the boy to Cuba . President Clinton seemed concerned Wednesday about both the prospect of violence and about the possibility that the Gonzalez family in Miami , members of the Cuban exile community , and local elected officials may be preparing to flout the federal government 's authority . Others in Miami attached religious significance to Elian 's migration to Florida , saying that the intercession of the Virgin Mary had saved the boy and that it would be a violation of God 's will to return the boy to a totalitarian regime . It said , in part : `` We believe that the INS decision to recognize the right of Juan Miguel Gonzalez to speak for his son Elian is consistent with the rule of law and our nation 's core values and traditions . The Supreme Court on Wednesday refused to issue an order to keep Elian Gonzalez in the United States , clearing the way for the 6-year-old boy to return home to Cuba .",
+    "summary_len": 528,
+    "summary_num_sents": 12,
+    "avg_sent_len": 44.0,
+    "scores_info": [
+      {
+        "len": 75,
+        "scores": {
+          "R1": {
+            "recall": 0.26277,
+            "recall_lower": 0.26277,
+            "recall_upper": 0.26277,
+            "f1": 0.25263,
+            "f1_lower": 0.25263,
+            "f1_upper": 0.25263,
+            "precision": 0.24324,
+            "precision_lower": 0.24324,
+            "precision_upper": 0.24324
+          },
+          "R2": {
+            "recall": 0.04074,
+            "recall_lower": 0.04074,
+            "recall_upper": 0.04074,
+            "f1": 0.03914,
+            "f1_lower": 0.03914,
+            "f1_upper": 0.03914,
+            "precision": 0.03767,
+            "precision_lower": 0.03767,
+            "precision_upper": 0.03767
+          },
+          "RL": {
+            "recall": 0.15693,
+            "recall_lower": 0.15693,
+            "recall_upper": 0.15693,
+            "f1": 0.15088,
+            "f1_lower": 0.15088,
+            "f1_upper": 0.15088,
+            "precision": 0.14527,
+            "precision_lower": 0.14527,
+            "precision_upper": 0.14527
+          },
+          "RSU4": {
+            "recall": 0.08165,
+            "recall_lower": 0.08165,
+            "recall_upper": 0.08165,
+            "f1": 0.07837,
+            "f1_lower": 0.07837,
+            "f1_upper": 0.07837,
+            "precision": 0.07535,
+            "precision_lower": 0.07535,
+            "precision_upper": 0.07535
+          }
+        }
+      },
+      {
+        "len": 150,
+        "scores": {
+          "R1": {
+            "recall": 0.34545,
+            "recall_lower": 0.34545,
+            "recall_upper": 0.34545,
+            "f1": 0.33989,
+            "f1_lower": 0.33989,
+            "f1_upper": 0.33989,
+            "precision": 0.33451,
+            "precision_lower": 0.33451,
+            "precision_upper": 0.33451
+          },
+          "R2": {
+            "recall": 0.07326,
+            "recall_lower": 0.07326,
+            "recall_upper": 0.07326,
+            "f1": 0.07207,
+            "f1_lower": 0.07207,
+            "f1_upper": 0.07207,
+            "precision": 0.07092,
+            "precision_lower": 0.07092,
+            "precision_upper": 0.07092
+          },
+          "RL": {
+            "recall": 0.16727,
+            "recall_lower": 0.16727,
+            "recall_upper": 0.16727,
+            "f1": 0.16458,
+            "f1_lower": 0.16458,
+            "f1_upper": 0.16458,
+            "precision": 0.16197,
+            "precision_lower": 0.16197,
+            "precision_upper": 0.16197
+          },
+          "RSU4": {
+            "recall": 0.12052,
+            "recall_lower": 0.12052,
+            "recall_upper": 0.12052,
+            "f1": 0.11854,
+            "f1_lower": 0.11854,
+            "f1_upper": 0.11854,
+            "precision": 0.11663,
+            "precision_lower": 0.11663,
+            "precision_upper": 0.11663
+          }
+        }
+      },
+      {
+        "len": 250,
+        "scores": {
+          "R1": {
+            "recall": 0.42031,
+            "recall_lower": 0.42031,
+            "recall_upper": 0.42031,
+            "f1": 0.41398,
+            "f1_lower": 0.41398,
+            "f1_upper": 0.41398,
+            "precision": 0.40784,
+            "precision_lower": 0.40784,
+            "precision_upper": 0.40784
+          },
+          "R2": {
+            "recall": 0.10417,
+            "recall_lower": 0.10417,
+            "recall_upper": 0.10417,
+            "f1": 0.10259,
+            "f1_lower": 0.10259,
+            "f1_upper": 0.10259,
+            "precision": 0.10106,
+            "precision_lower": 0.10106,
+            "precision_upper": 0.10106
+          },
+          "RL": {
+            "recall": 0.17576,
+            "recall_lower": 0.17576,
+            "recall_upper": 0.17576,
+            "f1": 0.17312,
+            "f1_lower": 0.17312,
+            "f1_upper": 0.17312,
+            "precision": 0.17055,
+            "precision_lower": 0.17055,
+            "precision_upper": 0.17055
+          },
+          "RSU4": {
+            "recall": 0.15464,
+            "recall_lower": 0.15464,
+            "recall_upper": 0.15464,
+            "f1": 0.15228,
+            "f1_lower": 0.15228,
+            "f1_upper": 0.15228,
+            "precision": 0.15,
+            "precision_lower": 0.15,
+            "precision_upper": 0.15
+          }
+        }
+      },
+      {
+        "len": 350,
+        "scores": {
+          "R1": {
+            "recall": 0.47596,
+            "recall_lower": 0.47596,
+            "recall_upper": 0.47596,
+            "f1": 0.42308,
+            "f1_lower": 0.42308,
+            "f1_upper": 0.42308,
+            "precision": 0.38077,
+            "precision_lower": 0.38077,
+            "precision_upper": 0.38077
+          },
+          "R2": {
+            "recall": 0.12838,
+            "recall_lower": 0.12838,
+            "recall_upper": 0.12838,
+            "f1": 0.11406,
+            "f1_lower": 0.11406,
+            "f1_upper": 0.11406,
+            "precision": 0.10262,
+            "precision_lower": 0.10262,
+            "precision_upper": 0.10262
+          },
+          "RL": {
+            "recall": 0.20288,
+            "recall_lower": 0.20288,
+            "recall_upper": 0.20288,
+            "f1": 0.18034,
+            "f1_lower": 0.18034,
+            "f1_upper": 0.18034,
+            "precision": 0.16231,
+            "precision_lower": 0.16231,
+            "precision_upper": 0.16231
+          },
+          "RSU4": {
+            "recall": 0.18718,
+            "recall_lower": 0.18718,
+            "recall_upper": 0.18718,
+            "f1": 0.16619,
+            "f1_lower": 0.16619,
+            "f1_upper": 0.16619,
+            "precision": 0.14943,
+            "precision_lower": 0.14943,
+            "precision_upper": 0.14943
+          }
+        }
+      }
+    ]
+  },
+  "2006_d0640": {
+    "summary": "There was no news Thursday about the 118 men trapped since Saturday at the bottom of the Barents Sea aboard the Kursk , one of the newest and most powerful nuclear submarines in the Russian navy . The blasts shattered the submarine so severely that divers are unlikely to be able to retrieve the remains of sailors who were in the first four of the Kursk 's nine compartments , Klebanov said . U.S. officials have said the explosions _ recorded by the Memphis , another U.S. submarine reported to be the Toledo and a surveillance ship , the Loyal _ strongly suggest that the Kursk sank after a catastrophic accident in its hull and not because of a collision . The authorities said most of the Kursk 's crew apparently died in the first minutes of the disaster , and that any survivors likely drowned as the ship filled with water . One explanation presumes that the submarine hit a World War II mine , the second is that the Kursk collided with another submarine , and the third is that an explosion took place inside the submarine 's torpedo compartment . The navy exercises that the Kursk sailed to join on Aug. 10 were a prelude for a major step in putting Moscow back on the world stage : the return of a Russian fleet to the Mediterranean in 2001 for the first time in a decade . Russian Deputy Prime Minister Ilya Klebanov , who heads a government commission probing the causes of the accident , said the crewmembers in the first , second and possibly several subsequent compartments of the submarine died instantly when the Kursk struck the seabed Saturday . Igor Spassky , head of the Rubin submarine design bureau , which designed the Kursk , told the NTV television channel that the method would `` enable the divers to freely get into every compartment of the submarine and evacuate the bodies to accompanying vessels . `` Russian officials at first said the submarine sank on Sunday , but according to news reports Tuesday the accident occurred on Saturday _ meaning the supply of air for the 116 sailors on board was even smaller than had been believed originally . The decision to share information on the Kursk was unusual , given the fact that it was gathered by one of the most secretive parts of the U.S. military , the submarine fleet . While the Americans had a fair guess of what happened to the Kursk early on , it was only after the Memphis unloaded its sonar tapes on Aug. 18 that officials began to offer the theory of the misfiring of the torpedo missile . The cause of the accident remains unknown , but Moscow says a collision with another object or an explosion in the first compartment of the submarine as among the most probable scenarios .",
+    "summary_len": 486,
+    "summary_num_sents": 12,
+    "avg_sent_len": 40.5,
+    "scores_info": [
+      {
+        "len": 75,
+        "scores": {
+          "R1": {
+            "recall": 0.34317,
+            "recall_lower": 0.34317,
+            "recall_upper": 0.34317,
+            "f1": 0.33274,
+            "f1_lower": 0.33274,
+            "f1_upper": 0.33274,
+            "precision": 0.32292,
+            "precision_lower": 0.32292,
+            "precision_upper": 0.32292
+          },
+          "R2": {
+            "recall": 0.10861,
+            "recall_lower": 0.10861,
+            "recall_upper": 0.10861,
+            "f1": 0.10526,
+            "f1_lower": 0.10526,
+            "f1_upper": 0.10526,
+            "precision": 0.10211,
+            "precision_lower": 0.10211,
+            "precision_upper": 0.10211
+          },
+          "RL": {
+            "recall": 0.21033,
+            "recall_lower": 0.21033,
+            "recall_upper": 0.21033,
+            "f1": 0.20394,
+            "f1_lower": 0.20394,
+            "f1_upper": 0.20394,
+            "precision": 0.19792,
+            "precision_lower": 0.19792,
+            "precision_upper": 0.19792
+          },
+          "RSU4": {
+            "recall": 0.12164,
+            "recall_lower": 0.12164,
+            "recall_upper": 0.12164,
+            "f1": 0.11779,
+            "f1_lower": 0.11779,
+            "f1_upper": 0.11779,
+            "precision": 0.11418,
+            "precision_lower": 0.11418,
+            "precision_upper": 0.11418
+          }
+        }
+      },
+      {
+        "len": 150,
+        "scores": {
+          "R1": {
+            "recall": 0.36496,
+            "recall_lower": 0.36496,
+            "recall_upper": 0.36496,
+            "f1": 0.35842,
+            "f1_lower": 0.35842,
+            "f1_upper": 0.35842,
+            "precision": 0.35211,
+            "precision_lower": 0.35211,
+            "precision_upper": 0.35211
+          },
+          "R2": {
+            "recall": 0.09559,
+            "recall_lower": 0.09559,
+            "recall_upper": 0.09559,
+            "f1": 0.09386,
+            "f1_lower": 0.09386,
+            "f1_upper": 0.09386,
+            "precision": 0.0922,
+            "precision_lower": 0.0922,
+            "precision_upper": 0.0922
+          },
+          "RL": {
+            "recall": 0.19526,
+            "recall_lower": 0.19526,
+            "recall_upper": 0.19526,
+            "f1": 0.19176,
+            "f1_lower": 0.19176,
+            "f1_upper": 0.19176,
+            "precision": 0.18838,
+            "precision_lower": 0.18838,
+            "precision_upper": 0.18838
+          },
+          "RSU4": {
+            "recall": 0.12686,
+            "recall_lower": 0.12686,
+            "recall_upper": 0.12686,
+            "f1": 0.12454,
+            "f1_lower": 0.12454,
+            "f1_upper": 0.12454,
+            "precision": 0.12231,
+            "precision_lower": 0.12231,
+            "precision_upper": 0.12231
+          }
+        }
+      },
+      {
+        "len": 250,
+        "scores": {
+          "R1": {
+            "recall": 0.40132,
+            "recall_lower": 0.40132,
+            "recall_upper": 0.40132,
+            "f1": 0.39525,
+            "f1_lower": 0.39525,
+            "f1_upper": 0.39525,
+            "precision": 0.38936,
+            "precision_lower": 0.38936,
+            "precision_upper": 0.38936
+          },
+          "R2": {
+            "recall": 0.11784,
+            "recall_lower": 0.11784,
+            "recall_upper": 0.11784,
+            "f1": 0.11605,
+            "f1_lower": 0.11605,
+            "f1_upper": 0.11605,
+            "precision": 0.11432,
+            "precision_lower": 0.11432,
+            "precision_upper": 0.11432
+          },
+          "RL": {
+            "recall": 0.19189,
+            "recall_lower": 0.19189,
+            "recall_upper": 0.19189,
+            "f1": 0.18899,
+            "f1_lower": 0.18899,
+            "f1_upper": 0.18899,
+            "precision": 0.18617,
+            "precision_lower": 0.18617,
+            "precision_upper": 0.18617
+          },
+          "RSU4": {
+            "recall": 0.14774,
+            "recall_lower": 0.14774,
+            "recall_upper": 0.14774,
+            "f1": 0.14548,
+            "f1_lower": 0.14548,
+            "f1_upper": 0.14548,
+            "precision": 0.14329,
+            "precision_lower": 0.14329,
+            "precision_upper": 0.14329
+          }
+        }
+      },
+      {
+        "len": 350,
+        "scores": {
+          "R1": {
+            "recall": 0.44016,
+            "recall_lower": 0.44016,
+            "recall_upper": 0.44016,
+            "f1": 0.38512,
+            "f1_lower": 0.38512,
+            "f1_upper": 0.38512,
+            "precision": 0.34231,
+            "precision_lower": 0.34231,
+            "precision_upper": 0.34231
+          },
+          "R2": {
+            "recall": 0.12413,
+            "recall_lower": 0.12413,
+            "recall_upper": 0.12413,
+            "f1": 0.10855,
+            "f1_lower": 0.10855,
+            "f1_upper": 0.10855,
+            "precision": 0.09645,
+            "precision_lower": 0.09645,
+            "precision_upper": 0.09645
+          },
+          "RL": {
+            "recall": 0.20574,
+            "recall_lower": 0.20574,
+            "recall_upper": 0.20574,
+            "f1": 0.18001,
+            "f1_lower": 0.18001,
+            "f1_upper": 0.18001,
+            "precision": 0.16,
+            "precision_lower": 0.16,
+            "precision_upper": 0.16
+          },
+          "RSU4": {
+            "recall": 0.16628,
+            "recall_lower": 0.16628,
+            "recall_upper": 0.16628,
+            "f1": 0.14529,
+            "f1_lower": 0.14529,
+            "f1_upper": 0.14529,
+            "precision": 0.12901,
+            "precision_lower": 0.12901,
+            "precision_upper": 0.12901
+          }
+        }
+      }
+    ]
+  }
+}

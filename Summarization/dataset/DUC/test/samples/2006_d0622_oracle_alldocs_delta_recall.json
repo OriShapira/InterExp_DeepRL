@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0622_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0622",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "61 cases",
+            1
+        ],
+        [
+            "pennsylvania officials wednesday",
+            1
+        ],
+        [
+            "15 birds",
+            1
+        ],
+        [
+            "combat st. louis",
+            1
+        ],
+        [
+            "unexplained neurologic problems",
+            1
+        ],
+        [
+            "seriously ill. last",
+            1
+        ],
+        [
+            "environmental officials announced",
+            1
+        ],
+        [
+            "spray high-risk areas",
+            1
+        ],
+        [
+            "virus would spread",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "That 's because West Nile virus had not been reported in the United States until August ; in the late summer and fall , 61 cases of severe infection and seven deaths were reported in the New York area , the Centers for Disease Control and Prevention reported .",
+                "The virus also has been detected in birds in Maryland , New Jersey , New York , Connecticut , Massachusetts and Rhode Island , and Pennsylvania officials Wednesday said they had found the virus in two dead crows outside Philadelphia .",
+                "In New Jersey , the virus had been confirmed in 15 birds as of July 31 , and in Connecticut , it was confirmed in one bird in Stamford on Monday , as in mosquitoes there earlier .",
+                "Officials said the unprecedented discovery of the virus in the United States was no cause for alarm , since the pesticide spraying now under way to combat St. Louis encephalitis should also work against the mosquitoes that carry the West Nile virus .",
+                "It warns that states are likely to be weak in : _ Surveillance of birds and mosquitoes , to see whether they are carrying the virus , and reports by veterinarians and doctors of unexplained neurologic problems in horses and humans .",
+                "Less than one percent of those infected will because seriously ill. Last year , the first U.S. case of West Nile virus was reported in late August , and a total of seven people in the New York City area died and 62 were infected .",
+                "WARWICK , R.I. ( AP ) -- Environmental officials announced plans Monday to spray insecticide in a two-mile radius where researchers found a dead crow with West Nile virus , the first time the virus was detected in Rhode Island .",
+                "The scientists say that scrupulous monitoring of bird populations is needed , otherwise it wo n't be possible to identify and spray high-risk areas with insecticide to kill the mosquitoes that transmit the virus to people .",
+                "John Rappole and his colleagues at the Smithsonian Institution 's zoo in Front Royal , Va. , have calculated that the virus would spread far and wide from New York if there were susceptible migratory birds congregating on mosquito-infested wetlands nearby ."
+            ],
+            "score": 0.5987279064799056,
+            "len": 379
+        }
+    ]
+}

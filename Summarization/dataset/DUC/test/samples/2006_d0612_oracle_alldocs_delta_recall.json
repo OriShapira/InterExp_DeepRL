@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0612_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0612",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "autism per 1,000",
+            1
+        ],
+        [
+            "conducting research aimed",
+            1
+        ],
+        [
+            "appears gradually",
+            1
+        ],
+        [
+            "unusually high incidence",
+            1
+        ],
+        [
+            "new test aimed",
+            1
+        ],
+        [
+            "subtle abnormalities",
+            1
+        ],
+        [
+            "helped form northwest",
+            1
+        ],
+        [
+            "environment causes things",
+            1
+        ],
+        [
+            "intensive early intervention",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The study in Brick Township , prompted by the suspicions of one couple with two autistic children who noticed many other autistic children in their community , found a rate of 4 children with autism per 1,000 between the ages of 3 and 10 .",
+                "The University 's Center on Human Development and Disability , funded in part by the National Institute of Child Health and Human Development , is conducting research aimed at early detection of autism and at understanding the role of genetic factors in autism .",
+                "The disease is suspected in most cases of being genetic , and it appears gradually in the first two years of life as a failure to speak , the beginning of repetitive motions , and a withdrawal from social interaction .",
+                "The Centers for Disease Control and Prevention , for example , have been investigating whether an unusually high incidence of autism in Brick Township , N.J. , could be related to environmental causes , or is simply a statistical artifact .",
+                "LOS ANGELES ( AP ) -- A new test aimed at helping doctors predict whether newborn children will develop autism or mental retardation confirms that such disorders are present at birth and are not the result of nurturing , researchers said .",
+                "The discovery that autistic children appear to have subtle abnormalities in body movements that can be diagnosed as early as 3 months old is leading researchers to hope for new treatments .",
+                "Together with several other Microsoft parents ( who also have children with autism ) and professionals , she has helped form Northwest Behavioral Associates , a non-profit program to provide educational and behavioral support services to children with autism .",
+                "By studying the anatomy of autistic brains , researchers are trying to figure out when in development and where in the brain the complex interaction of genes and environment causes things to go astray .",
+                "Today , if a child is identified by age 2 or 3 and given high-quality , intensive early intervention _ at least 25 hours of one-on-one therapy a week for two to three years _ about 50 percent respond really well , she said ."
+            ],
+            "score": 0.5359401779528133,
+            "len": 365
+        }
+    ]
+}

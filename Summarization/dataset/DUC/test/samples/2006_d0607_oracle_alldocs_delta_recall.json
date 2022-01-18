@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0607_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0607",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "government also imprisoned",
+            1
+        ],
+        [
+            "sunday night announced",
+            1
+        ],
+        [
+            "disperse student demonstrators",
+            1
+        ],
+        [
+            "become almost daily",
+            1
+        ],
+        [
+            "150 people",
+            1
+        ],
+        [
+            "fearing social unrest",
+            1
+        ],
+        [
+            "top national leaders",
+            1
+        ],
+        [
+            "ailing industrial city",
+            1
+        ],
+        [
+            "falun gong says",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The government also imprisoned several thousand political and religious dissidents , tortured prisoners , suppressed Chinese of minority faiths , especially Christians , and imposed new restrictions on the press , including the Internet , according to the report .",
+                "BEIJING _ The Chinese government on Sunday night announced sweeping increases in salaries , pensions and welfare payments for 84 million people , describing the move as a birthday gift as the country prepares to celebrate the 50th anniversary of the founding of the People 's Republic .",
+                "That year , the armed police 's failure to disperse student demonstrators in Beijing forced the leaders to call in combat units , which killed hundreds of civilians and did lasting damage to China 's image as well as to army morale .",
+                "Small-scale demonstrations have become almost daily occurrences in many Chinese cities as workers , the unemployed , farmers and pensioners feel they are losing out to market reforms and being abandoned by an indifferent or corrupt officialdom .",
+                "A group of about 150 people were protesting the government 's failure to allocate them new housing after they were evicted from their homes for redevelopment , the Information Center of Human Rights and Democratic Movement in China said .",
+                "Chinese authorities , fearing social unrest at a time of rising unemployment , appear to be especially fearful of any labor organizations outside Communist Party control , and of any efforts to link up disaffected workers with democracy campaigners .",
+                "Numerous such farmer protests have been reported around the country in recent years and top national leaders have spoken out against high , unfair burdens put on peasants by local and county governments .",
+                "The protest was the sixth this month in the ailing industrial city and is part of a nationwide wave of unrest by workers as state factories cut jobs to cope with government-ordered market reforms .",
+                "The Falun Gong says it has no political agenda , but it has a popular exiled leader , tens of millions of followers and a remarkable ability to organize protests under the noses of China 's omnipresent police ."
+            ],
+            "score": 0.5363745584051163,
+            "len": 357
+        }
+    ]
+}

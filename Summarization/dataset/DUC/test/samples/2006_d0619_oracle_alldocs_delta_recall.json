@@ -1,0 +1,56 @@
+{
+    "id": "2006_d0619_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0619",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "excise language favoring",
+            1
+        ],
+        [
+            "largest organization",
+            1
+        ],
+        [
+            "pitted religious conservatives",
+            1
+        ],
+        [
+            "organizing gay republican",
+            1
+        ],
+        [
+            "provide indirect support",
+            1
+        ],
+        [
+            "welcomed gay voters",
+            1
+        ],
+        [
+            "christian groups criticized",
+            1
+        ],
+        [
+            "intriguing campaign dance",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The Log Cabin Republicans , an association of gay Republicans , and their supporters want to excise language favoring a ban on gays in the military , and supporting the 1996 Defense of Marriage Act , which permits states not to recognize same-sex marriages performed in other states .",
+                "But Kevin Ivers , a spokesman for the Log Cabin Republicans , the country 's largest organization for gay Republicans , said despite the Kolbe incident and the platform , the convention was by far the most successful ever for homosexual Republicans .",
+                "The debate has pitted religious conservatives , who are active in Republican politics , against gay and socially moderate Republicans , who want the party to take a softer line on issues of concern to gays and lesbians .",
+                "Tafel , who is organizing gay Republican voters this week to participate in the Iowa straw poll and is seeking a slot for an openly gay speaker at the Republican national convention next year , said that the party was finally recognizing the influence of the gay electorate .",
+                "The controversial campaign , widely seen as an effort by the Christian right to provide indirect support for congressional candidates who promote the movement 's agenda , sparked outrage among gay rights leaders and produced the unintended consequence of exposing a major rift in the Republican Party .",
+                "Though he said he welcomed gay voters into his campaign , Bush reiterated his opposition to initiatives of importance to that community , including same-sex marriages , adoptions by gay couples and expanding anti-hate crime laws to treat homosexuals in the same manner as racial and ethnic minorities .",
+                "The leader of one of Texas 's most conservative Christian groups criticized national Republican party officials on Thursday for inviting a homosexual congressman to speak at the GOP convention in Philadelphia next week .",
+                "WASHINGTON _ In an intriguing campaign dance , John McCain has collected tens of thousands of dollars in contributions from members of a gay Republican group with whom he disagrees on a broad range of issues , from job-discrimination protection to benefits for same-sex couples ."
+            ],
+            "score": 0.5721294635861793,
+            "len": 357
+        }
+    ]
+}

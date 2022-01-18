@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0632_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0632",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "one important part",
+            1
+        ],
+        [
+            "foreign countries vowed",
+            1
+        ],
+        [
+            "stable friendly",
+            1
+        ],
+        [
+            "qian welcomed altangerel",
+            1
+        ],
+        [
+            "bagabandi kuwait tour",
+            1
+        ],
+        [
+            "centrally-planned economy",
+            1
+        ],
+        [
+            "technological aid",
+            1
+        ],
+        [
+            "37-year-old minister said",
+            1
+        ],
+        [
+            "organized six international",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "One important part of Mongolia 's foreign policy , he said , is to strength friendly relations and cooperation with China , which is not only in the interests of the two countries , but also favorable for peace and stability in the Asian-Pacific region .",
+                "ULAN BATOR , June 22 ( Xinhua ) -- Some international organizations and foreign countries vowed here Tuesday to provide 320 million U.S. dollars in loans and aid to Mongolia to help it overcome economic difficulties and to assist in the transition to a market economy .",
+                "China is willing to push forward , together with Mongolia , long-term and stable friendly and good-neighborly relations and cooperation on the basis of the five principles of the peaceful co-existence and the China-Mongolia Treaty of Friendly Relations and Cooperation , he said .",
+                "Qian welcomed Altangerel , saying that China and Mongolia are friendly neighbors , and that since the normalization of bilateral ties , the contacts and cooperation in various fields and between different departments of the two sides have kept expanding and moving forward .",
+                "During Bagabandi Kuwait tour , the two countries are expected to sign an economic cooperation agreement to build a 180-kilometer road in Mongolia valued at 59.4 million U.S. dollars to be funded by Kuwait Fund for Arab Economic Development .",
+                "Mongolia 's reforms , aimed at transforming its centrally-planned economy into a market-oriented one , have won support from France and Britain since they were launched in 1990 , said Ochirbat , shortly after his return from his first visit to the two countries .",
+                "So far , Mongolia has received more than 70 million U.S. dollars of economic and technological aid from the United States , and the two sides had signed an agreement on military exchange and cooperation .",
+                "On the fundamental principle of Mongolia 's foreign policy , the 37-year-old minister said his country should be active in political and economic activities in the northeast Asia and the whole Asian-Pacific region .",
+                "Japan has organized six international meetings with the World Bank to help Mongolia get 1.7 billion U.S. dollars , about one third of which was from Japan ."
+            ],
+            "score": 0.6096306886743565,
+            "len": 364
+        }
+    ]
+}

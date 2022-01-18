@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0644_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0644",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "fixing financial problems",
+            1
+        ],
+        [
+            "congress could dip",
+            1
+        ],
+        [
+            "measure would set",
+            1
+        ],
+        [
+            "proposed using 62",
+            1
+        ],
+        [
+            "debt would leave",
+            1
+        ],
+        [
+            "one year alone",
+            1
+        ],
+        [
+            "improving efficiency among",
+            1
+        ],
+        [
+            "projected multitrillion-dollar budget",
+            1
+        ],
+        [
+            "current fiscal year",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "With both parties agreeing to devote most of the surplus to Social Security , their major difference is whether the remainder should go to tax cuts , as Republicans want , or to fixing financial problems in the Medicare health insurance program , a top Clinton priority .",
+                "Under that plan , Congress could dip into the interest payments the Treasury owes the Social Security reserves for the next two years and use the money for tax cuts or spending on programs like the military and education .",
+                "Over the next five years , the measure would set aside at least $ 150 billion for tax cuts and the entire $ 1 trillion in projected Social Security surpluses for debt reduction , Republicans said .",
+                "The president has proposed using 62 percent of the overall budget surplus over the next 15 years _ approximately the portion of the surplus attributable to an excess in payroll taxes over retirement benefits _ to shore up Social Security .",
+                "Democrats , Republicans and most economists agree that reducing the debt would leave interest rates lower , stimulating more economic growth , and would make it easier to address long-term problems like the solvency of Social Security by easing the financial burden on future generations .",
+                "By 1998 , the office was predicting a surplus for 2005 of $ 100 billion -- a swing of a half-trillion dollars for one year alone .",
+                "In testimony to the House Banking Committee , Greenspan said the current combination of strong growth , low inflation , declining unemployment and improving efficiency among businesses and workers was unprecedented in the half century he has spent monitoring the economy .",
+                "Whether it 's Republicans pushing for a big tax cut or Democrats trying to cover the cost of prescription drugs through Medicare , politicians here are drooling over a projected multitrillion-dollar budget surplus and vying over ways to spend it .",
+                "Clinton 's plan includes $ 34 billion in tax cuts over five years , $ 39 billion in increased spending over the current fiscal year and projects a record $ 117 billion surplus ."
+            ],
+            "score": 0.5649217700479774,
+            "len": 356
+        }
+    ]
+}

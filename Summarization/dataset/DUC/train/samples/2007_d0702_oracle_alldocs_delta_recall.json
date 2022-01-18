@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0702_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0702",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "january 5",
+            1
+        ],
+        [
+            "reviewing 188 studies",
+            1
+        ],
+        [
+            "increasing number",
+            1
+        ],
+        [
+            "performing arts classes",
+            1
+        ],
+        [
+            "competing academic interests",
+            1
+        ],
+        [
+            "federal law mandates",
+            1
+        ],
+        [
+            "last two decades",
+            1
+        ],
+        [
+            "arts education created",
+            1
+        ],
+        [
+            "linguistic labs",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "FUZHOU , January 5 ( Xinhua ) -- A school in the western part of east China 's Fujian Province has been set up to provide more qualified professionals , and sports , arts , and music teachers for primary and middle schools in rural areas .",
+                "In reviewing 188 studies over the past 50 years , Harvard researchers found some evidence that playing and listening to music improves spatial thinking , but little proof that music and art classes help students read better or score higher on tests .",
+                "What 's right is that an increasing number of educators are using technology to interest children in the arts , just as their colleagues continue to strive to use computers to teach the basics of reading , writing and 'rithmetic .",
+                "Inner City Arts , founded in 1989 , provides visual and performing arts classes and English language instruction to students from public elementary schools _ largely the offspring of immigrants from Mexico and Central America who work in the local garment and manufacturing industries .",
+                "While many public schools , struggling under budget constraints and competing academic interests , are marginalizing arts programs , if not eliminating them altogether , the opposite is happening in the small village of Greenport at the tip of the North Fork on Long Island .",
+                "Though no federal law mandates the teaching of fine arts , in 1994 an objective of improving fine-arts instruction was added to the U.S. Department of Education 's Goals for 2000 .",
+                "For the last two decades , schools like Public School 156 have increasingly turned to the city 's museums , concert halls and theaters for lessons in art , music and dance .",
+                "Their aim was to fill a void in arts education created by Proposition 13 , a property tax cut initiative approved 20 years ago this month by California voters that slashed financing for public services and schools .",
+                "Linguistic labs , computer labs , and specialized classrooms for other practical skills will be created in these schools , along with libraries and facilities for music , the arts , and physical education ."
+            ],
+            "score": 0.571115192726762,
+            "len": 360
+        }
+    ]
+}

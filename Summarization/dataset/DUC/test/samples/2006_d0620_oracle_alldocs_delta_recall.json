@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0620_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0620",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "measures adopted monday",
+            1
+        ],
+        [
+            "detection systems",
+            1
+        ],
+        [
+            "district police officers",
+            1
+        ],
+        [
+            "teach students social",
+            1
+        ],
+        [
+            "tonya aultman-bettridge",
+            1
+        ],
+        [
+            "also reassessing whether",
+            1
+        ],
+        [
+            "governs columbine high",
+            1
+        ],
+        [
+            "advises school security",
+            1
+        ],
+        [
+            "eastern kentucky school",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Other measures adopted Monday include : requiring visitors to get a school pass , the continued use of search dogs and the installation of a hot line and tip box to report incidents that might lead to violence .",
+                "Some districts , by contrast , have rejected the idea of detection systems , finding them an affront to educational openness , and are concentrating instead on a drumbeat of programs to make students feel more responsible for their school 's safety and less reluctant to report violations .",
+                "Fort Bend does n't have metal detectors in its schools but does have district police officers at middle and high school campuses , video surveillance cameras in some schools and a student crime-stopper number to report incidents to administrators .",
+                "She suggested that districts foster an environment where violent behavior is unacceptable ; teach students social skills such as anger management and empathy ; and create a crisis plan and build partnerships between schools , law enforcement , social services , parents and the community .",
+                "Tonya Aultman-Bettridge , a researcher with the Center for the Study and Prevention of Violence in Boulder , Colo. , is n't sure the school shootings in Littleton could have been prevented with better or more security measures .",
+                "Local school districts are also reassessing whether lockdown drills _ which are not required by law _ should become mandatory , and are offering training to anxious teachers and principals who feel ill-prepared to respond to armed intruders .",
+                "GOLDEN , Colo. ( AP ) -- The school board that governs Columbine High School has adopted 27 security measures , including panic alarms in main offices and mandatory identification badges for high school students and staff .",
+                "The safety center , which advises school security officers , says its statistics show that youngsters are 99 times more likely to be shot and killed on the street or at home than in school .",
+                "But officials in this eastern Kentucky school district hope that by posting the Ten Commandments in each classroom , they can prevent violence and other problems that have plagued schools nationwide ."
+            ],
+            "score": 0.5949503512592497,
+            "len": 358
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0707_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0707",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "turkey submitted",
+            1
+        ],
+        [
+            "european security affairs",
+            1
+        ],
+        [
+            "deputy prime minister",
+            1
+        ],
+        [
+            "voted thursday",
+            1
+        ],
+        [
+            "eu leaders decided",
+            1
+        ],
+        [
+            "leading human rights",
+            1
+        ],
+        [
+            "near future partially",
+            1
+        ],
+        [
+            "new york times",
+            1
+        ],
+        [
+            "finance commissioner pedro",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Turkey submitted its formal application for the EU membership in 1987 , but so far the goal has not been achieved due to its various differences with the EU , such as on human rights , economic problems as well as the Cyprus issue .",
+                "Turkey , a NATO member and EU candidate , has endeavoured to join the European defense mechanism with the support of the U.S. , who fears the ESDI will take the place of the NATO and reduce Washington 's role in the European security affairs .",
+                "It is the first time that the EU mentioned the possibility of Turkey 's membership in the Union and it would pave the way for Turkey to take up a position , Turkey 's Deputy Prime Minister and Foreign Minister Tansu Ciller said at a news conference here .",
+                "The European Parliament , angered by Turkey 's human rights record , voted Thursday to freeze hundreds of millions of U.S. dollars in aid to Turkey for setting up a customs union with the EU .",
+                "The relations between Turkey and EU have been soured after EU leaders decided last December not to accept Turkey as an official new member candidate , though they did not rule out its candidacy in the future .",
+                "ANKARA , Turkey ( AP ) -- Turkey 's leading human rights activist was released from prison Saturday and said he hoped to be the last person jailed in Turkey under laws curbing freedom of expression .",
+                "To ease its tense relations with Turkey , Greece will in the near future partially lift its veto on EU funding for Turkey after the devastating earthquake in northwestern Turkey , which has claimed thousands of lives .",
+                "The New York Times said in an editorial on Friday , Jan. 14 : Turkey made the right choice in deferring the execution of Abdullah Ocalan , the Kurdish rebel leader , until the European Court of Human Rights hears his appeal .",
+                "The bilateral meeting , held Tuesday between EU Economy and Finance Commissioner Pedro Solbes Mira and Turkish Economy Minister Recep Onal , reviewed the fact that Turkey had initiated an economic stability program in order to decrease inflation and increase economic growth ."
+            ],
+            "score": 0.6158548223648097,
+            "len": 375
+        }
+    ]
+}

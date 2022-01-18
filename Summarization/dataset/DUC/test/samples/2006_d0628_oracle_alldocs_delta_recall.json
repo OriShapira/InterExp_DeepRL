@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0628_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0628",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "certain brain receptors",
+            1
+        ],
+        [
+            "psychiatric association worked",
+            1
+        ],
+        [
+            "observers say public",
+            1
+        ],
+        [
+            "said mccormick",
+            1
+        ],
+        [
+            "form known",
+            1
+        ],
+        [
+            "common pediatric mental",
+            1
+        ],
+        [
+            "landmark study",
+            1
+        ],
+        [
+            "vincent j. monastra",
+            1
+        ],
+        [
+            "study shows ritalin",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "People with behavioral patterns that cause them to be diagnosed as having ADHD _ impulsiveness , inability to concentrate , difficulty learning _ appear to have a deficiency in certain brain receptors involved in processing the neurotransmitter dopamine , according to this view .",
+                "And the companies and the American Psychiatric Association worked together to include the diagnosis of the two disorders and list it in the Diagnostic and Statistical Manual of Mental Disorders in 1980 , creating a huge market for the drug , the lawsuits say .",
+                "While there are no reliable statistics on the phenomenon , observers say public schools are increasingly accusing parents of child abuse and neglect if they balk at giving their children medication such as Ritalin , a stimulant being prescribed to an increasing number of students .",
+                "The problem is that other conditions , such as anxiety or depression , can mimic the symptoms of ADHD , said McCormick , a family doctor in Franklin , La. , who has given seminars on ADHD .",
+                "Most girls with ADHD have a form known as Type A , which is characterized primarily by inattentiveness and distractibility , and less by hyperactivity and impulsive behavior .",
+                "Figures released by the APA in May indicate that anywhere from 4 percent to 12 percent of all American children _ some 2.5 million _ are now thought to have the disorder , making it the most common pediatric mental illness in the United States .",
+                "In December , a landmark study by the national institutes on treatment of the disorder found that the drug Ritalin was more effective than behavioral-modification therapy , which is what is primarily used in Britain .",
+                "Vincent J. Monastra of the FBI Attention Disorders Clinic in the suburb of Endicott and Joel F. Lubar of the University of Tennessee say the disorder can be diagnosed by monitoring activity in the front region of the brain .",
+                "& UR ; ___ & UR ; Study shows Ritalin is effective in helping children with ADHD ANAHEIM , California ( AP ) _ Behavior in children with attention-deficit hyperactivity disorder improves dramatically when they take the controversial drug Ritalin , according to a study ."
+            ],
+            "score": 0.5881269706026097,
+            "len": 371
+        }
+    ]
+}

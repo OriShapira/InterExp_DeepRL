@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0735_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0735",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "department officials said",
+            1
+        ],
+        [
+            "help ensure populations",
+            1
+        ],
+        [
+            "wildlife agency based",
+            1
+        ],
+        [
+            "successful since 1995",
+            1
+        ],
+        [
+            "new policy",
+            1
+        ],
+        [
+            "northern mexico but",
+            1
+        ],
+        [
+            "would risk fines",
+            1
+        ],
+        [
+            "30 packs totaling",
+            1
+        ],
+        [
+            "restore red wolves",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Department officials said they believed it was time to remove about 2,500 wolves in Minnesota , Michigan and Wisconsin from the list of those animals protected under the Endangered Species Act , turning over to the states the authority to manage the wolves .",
+                "The wolves are being returned to the wild in an effort to increase their numbers , remove them from the list of species in danger of extinction and put back a predator into the Southwest ecosystems that will help ensure populations of other animals are kept in check .",
+                "Ron Refsnider , a wolf biologist for the wildlife agency based in Minnesota and the main author of the classification proposal , said there was still plenty of work to do to nurture the wolves living in the northern Rockies and especially in the Southwest .",
+                "Experimental restoration of the gray wolf to Montana , Idaho and Wyoming has been so successful since 1995 , federal officials say , that the first steps toward a single , integrated wolf population in the Northern Rockies have now been taken .",
+                "The new policy will not affect the protection of wolves that were reintroduced to Yellowstone National Park and central Idaho , reproducing successfully , even though these populations might be reclassified from endangered to threatened .",
+                "Mexican gray wolves are native to Arizona , New Mexico and northern Mexico but were shot , poisoned and trapped to near extinction by the 1970s .",
+                "Both Marks and Cowen said it is doubtful ranchers are the killers because they not only would risk fines under the Endangered Species Act of $ 100,000 and a year in prison , but they also would risk losing their right to graze livestock on public lands .",
+                "More than 30 packs totaling 400 to 500 wolves now inhabit large areas of Wyoming , Montana and Idaho , mostly because wolves artificially introduced from western Canada in 1995 and 1996 have rapidly reproduced .",
+                "The program to restore red wolves suffered a major setback last fall when officials removed the remnants of a group of some 30 animals that had been reintroduced into the Great Smoky Mountains National Park in Tennessee for lack of sufficient prey ."
+            ],
+            "score": 0.5699003196184068,
+            "len": 372
+        }
+    ]
+}

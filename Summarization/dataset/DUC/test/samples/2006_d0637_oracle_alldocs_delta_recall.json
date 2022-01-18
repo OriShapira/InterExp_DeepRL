@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0637_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0637",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "solar energy resources",
+            1
+        ],
+        [
+            "solar panels made",
+            1
+        ],
+        [
+            "rural electrification program",
+            1
+        ],
+        [
+            "sharing 44 percent",
+            1
+        ],
+        [
+            "energy research center",
+            1
+        ],
+        [
+            "two energy resources",
+            1
+        ],
+        [
+            "germany today announced",
+            1
+        ],
+        [
+            "forest fire prevention",
+            1
+        ],
+        [
+            "2 billion people",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Tibet has plenty of solar energy resources and Japan has a great deal of experience in the use of solar energy , according to a local official , who says that China and Japan will continue to cooperate in building power projects in Tibet .",
+                "From India and Indonesia to Mexico and Brazil , solar panels made in America are spouting on thousands of roof-tops , lighting up jungles , deserts and other hard-to-wire areas of the developing world that have never been connected to conventional power grids .",
+                "These projects are divided into five categories , namely , the rural electrification program , the global education and training program , the water desalination and purification program , the information and communication program , as well as the industrial policy , market penetration and technology transfer program .",
+                "As the leading producer of solar energy in the world , the U.S. put out 38.9 megawatts in 1996 , sharing 44 percent of world production of 88.6 megawatts , followed by two other major producers -- Japan and Europe , the industry publication PV News reported .",
+                "Yunnan Province , rich in solar energy , has set up a solar energy research center , the country 's first station for inspecting the quality of solar water heaters and a key lab for rural energy resources projects .",
+                "The development of the two energy resources will add to the traditional and predominant power generation means through oil and hydro resources in meeting an ever-increasing energy need , which is growing at 12 to 14 percent yearly , said Minister of Electricity and Energy Osman Abaza .",
+                "BONN , November 4 ( Xinhua ) -- Germany today announced its plan to considerably expand its production capacity of solar cells and modules in a bid to replace the United States as the world No.1 provider of solar technology .",
+                "The solar energy is widely used in telecommunication , meteorology , earthquake forecasts , and forest fire prevention .",
+                "The institute said for the 2 billion people worldwide who are not yet connected to power lines , solar energy is often the most affordable way to get electricity ."
+            ],
+            "score": 0.5458848242636316,
+            "len": 364
+        }
+    ]
+}

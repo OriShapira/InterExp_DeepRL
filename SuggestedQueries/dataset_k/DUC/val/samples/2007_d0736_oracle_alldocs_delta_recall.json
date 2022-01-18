@@ -1,0 +1,66 @@
+{
+    "id": "2007_d0736_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0736",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "tailwind americans see",
+            1
+        ],
+        [
+            "50th anniversary medal",
+            1
+        ],
+        [
+            "dr. phillip c.",
+            1
+        ],
+        [
+            "ms. winfrey founded",
+            1
+        ],
+        [
+            "u.s. democratic presidential",
+            1
+        ],
+        [
+            "real-life extension",
+            1
+        ],
+        [
+            "new channel would",
+            1
+        ],
+        [
+            "w. bush got",
+            1
+        ],
+        [
+            "northwestern university business",
+            1
+        ],
+        [
+            "including john lithgow",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "SEEN AND HEARD Poll on Tailwind Americans see CNN 's retraction of its Operation Tailwind story as part of an overall decline in the media 's accuracy , according to a poll to be released today by the Pew Research Center for the People and the Press .",
+                "The talk show host Oprah Winfrey , a powerful figure in the book world because of Oprah 's Book Club , received a 50th Anniversary Medal from the foundation .",
+                "What 's hers is ours , it seems : the magazine 's sensible psychologist , Dr. Phillip C. McGraw , and its spiritual advice giver , Gary Zukav , both appear on the talk show and are introduced as Oprah 's personal counselors .",
+                "Ms. Winfrey founded her book blub in 1996 , and since then being chosen for the club has been almost a guarantee that a book will be a best seller .",
+                "WASHINGTON , September 11 ( Xinhua ) -- U.S. Democratic presidential candidate Al Gore appeared on a TV talk show Monday in a bid to attract more women 's votes in the November election .",
+                "Oprah is a real-life extension of this fantasy , bestowing gifts on her television audiences _ food , CDs , Palm Pilots _ and opportunities for self-enhancement and self-discipline on all her fans .",
+                "The companies did not release information about specific programs , but they said the new channel would draw material from style , entertaining , travel , food and parenting articles in the various magazines published by Conde Nast and Time .",
+                "George W. Bush got a father figure in Dick Cheney , one who supplies him with authority and stability but who still has to take a back seat when it comes to visibility and sex appeal .",
+                "CHICAGO ( AP ) -- Oprah Winfrey was such a big hit with Northwestern University business students that she 's been invited to teach another class .",
+                "Many actors , including John Lithgow and David Schwimmer , wore gold ribbons in a show of support for the Screen Actors Guild and American Federation of Television and Radio Artists , who are involved in a strike against the advertising industry ."
+            ],
+            "score": 0.5391745675445141,
+            "len": 370
+        }
+    ]
+}

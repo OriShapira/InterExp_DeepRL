@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0729_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0729",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "seven people",
+            1
+        ],
+        [
+            "robert rudolph walked",
+            1
+        ],
+        [
+            "extremist religious groups",
+            1
+        ],
+        [
+            "speculation centers",
+            1
+        ],
+        [
+            "100 investigative officers",
+            1
+        ],
+        [
+            "reported stolen immediately",
+            1
+        ],
+        [
+            "wanted list last",
+            1
+        ],
+        [
+            "teenager moved",
+            1
+        ],
+        [
+            "familiar woods near",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Seven people were injured in a pair of explosions on Jan. 27 , 1997 , outside a building housing an abortion clinic in the Atlanta suburbs , and five were injured in a Feb. 21 , 1997 , bombing at a gay nightclub in midtown Atlanta .",
+                "ANDREWS , N.C._Nine days after Eric Robert Rudolph walked out of the Western North Carolina mountains in search of food and batteries , law enforcement officials equipped with the latest in gadgetry still have not been able to track the Birmingham bombing suspect to his rugged hideout .",
+                "Rudolph , a 31-year-old carpenter with ties to extremist religious groups , also is wanted for questioning in three bombings in the Atlanta area in 1996 and 1997 , including the July 27 , 1996 , explosion at Centennial Olympic Park .",
+                "Most of the speculation centers on Rudolph , who has been on the run since the Jan. 29 , 1998 , bombing of a Birmingham , Ala. , abortion clinic that killed an off-duty police officer and severely wounded a nurse .",
+                "About 100 investigative officers from the FBI , the Bureau of Alcohol , Tobacco and Firearms and local sheriffs departments are hunting for fugitive Eric Robert Rudolph in the 530,000-acre Nantahala National Forest , a rugged area at the state 's western tip .",
+                "What was unclear to investigators was why the pickup was not reported stolen immediately , giving Rudolph time to escape with another six months ' worth of food , which he is believed to have stolen from the owner of the truck .",
+                "Rudolph was placed on the FBI 's Most Wanted List last May , and a one million U.S. dollars reward was offered based on earlier charges that he bombed a Birmingham abortion clinic .",
+                "Enderson said Rudolph , who as a teenager moved with his mother and brothers to Nantahala and recently lived in nearby Murphy , is believed to have altered his appearance slightly by growing a beard and longer hair pulled back in a ponytail .",
+                "Federal officials had long said they assumed that Rudolph , an avid outdoorsman who has been described as a survivalist , was hiding in the familiar woods near his home ."
+            ],
+            "score": 0.6345160211968875,
+            "len": 375
+        }
+    ]
+}

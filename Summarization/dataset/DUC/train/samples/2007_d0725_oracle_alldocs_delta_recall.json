@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0725_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0725",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "u.s. intelligence agencies",
+            1
+        ],
+        [
+            "bushehr nuclear plant",
+            1
+        ],
+        [
+            "iranian commander said",
+            1
+        ],
+        [
+            "khosravi also refuted",
+            1
+        ],
+        [
+            "leading enemy iran",
+            1
+        ],
+        [
+            "hitting israel",
+            1
+        ],
+        [
+            "first solid-liquid fuel",
+            1
+        ],
+        [
+            "contemplate possible cooperation",
+            1
+        ],
+        [
+            "iran regards",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "U.S. intelligence agencies have worked for years to track the development of Iran 's weapons programs , and have traced shipments of technology from Russia , China and North Korea as well as attempting to learn what local military and technological capability Iran had developed .",
+                "Russia signed a contract with Iran in 1995 to complete the construction of the Bushehr nuclear plant in southern Iran , defying pressures of the United States , which has repeatedly attempted to convince Russia not to cooperate on the project .",
+                "The Iranian commander said Iran has already voiced concern and transparent view about the nuclear tests of both India and Pakistan , adding that Tehran supports the comprehensive test ban treaty and believes that any action by any country to carry out nuclear test is provocative .",
+                "Khosravi also refuted the recent remarks by a U.S. naval commander on Iran 's capability to build nuclear weapons , saying that the International Atomic Energy Agency has consistently confirmed the peaceful nature of Iran 's nuclear programs .",
+                "Worried that its leading enemy Iran could acquire nuclear weapons that will threaten its safety , Israel has been launching an aggressive campaign around the world to prevent Tehran from obtaining nuclear technologies needed to build a nuclear bomb .",
+                "The weapon , with a range of about 800 miles , is capable of hitting Israel and Saudi Arabia , and of altering the political and military balance of power in the Middle East , he said .",
+                "The war games , code-named Zolfaqar-3 , began a day after Iran test-fired its first solid-liquid fuel missile , raising concerns in Israel and in Washington that Iran is developing its long-range offensive missile capacity .",
+                "During Adamov 's visit to Tehran , the two countries signed an agreement to accelerate the construction of a nuclear reactor in Bushehr and contemplate possible cooperation in building more nuclear power stations in Iran .",
+                "Iran is a signatory to the Nuclear Non-Proliferation Treaty , the official said , adding that based on its convictions , Iran regards as inhuman the development of nuclear energy for non-peaceful purposes ."
+            ],
+            "score": 0.5980652884305614,
+            "len": 358
+        }
+    ]
+}

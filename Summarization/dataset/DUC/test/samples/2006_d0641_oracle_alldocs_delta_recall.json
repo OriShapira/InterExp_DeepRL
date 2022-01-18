@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0641_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0641",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "carbon dioxide created",
+            1
+        ],
+        [
+            "first overview",
+            1
+        ],
+        [
+            "observed surface warming",
+            1
+        ],
+        [
+            "least partly attributable",
+            1
+        ],
+        [
+            "el nino may",
+            1
+        ],
+        [
+            "u.n. climate summit",
+            1
+        ],
+        [
+            "earth satellites since",
+            1
+        ],
+        [
+            "panel also predicted",
+            1
+        ],
+        [
+            "scientists agreed",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Greenhouse gas emissions - including carbon dioxide created by the burning of coal , gas and oil , are believed by most atmospheric scientists to cause the warming of the Earth 's surface and a change in the global climate .",
+                "In its first overview of the link between agriculture , global warming and climate change , Eurostat said that agriculture is the main source of methane and nitrous oxide , but total emissions of these gases are small compared to that of carbon dioxide .",
+                "To them , the observed surface warming of about 1 degree over the last century _ with an especially sharp rise in the last quarter century _ is mostly or wholly natural , and there is no significant human influence on global climate .",
+                "The dominant view is that the surface warming is at least partly attributable to emissions of heat-trapping waste industrial gases like carbon dioxide , a product of the burning of fossil fuels like coal , oil and natural gas .",
+                "WASHINGTON , April 20 ( Xinhua ) -- New study suggests that El Nino may help slow the global warming , though it has been blamed for many climate disorders such as floods and droughts , according to a report published in the Washington Post .",
+                "But a number of governments , scientists and environmentalists meeting this week at a U.N. climate summit in the Argentine capital warned there could be more extreme weather if nations do n't effectively cut greenhouse gas pollutants believed to cause Earth 's undue warming .",
+                "Over the years , skeptics have tried to cast doubt on the idea of global warming by noting that measurements taken by earth satellites since 1979 have found little or no temperature rise in large parts of the upper atmosphere .",
+                "The panel also predicted that if emissions of the gases are not reduced , the average global temperature will increase by 1.8 degrees to 6.3 degrees Fahrenheit .",
+                "While most scientists agreed that the ice sheet was shrinking , they disagreed on how fast it will melt and what the consequences would be ."
+            ],
+            "score": 0.5963964359601204,
+            "len": 356
+        }
+    ]
+}

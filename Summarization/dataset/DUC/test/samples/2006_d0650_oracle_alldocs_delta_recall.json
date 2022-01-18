@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0650_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0650",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "us president jimmy",
+            1
+        ],
+        [
+            "first asian country",
+            1
+        ],
+        [
+            "115 countries carter",
+            1
+        ],
+        [
+            "observing many countries",
+            1
+        ],
+        [
+            "clubs international foundation",
+            1
+        ],
+        [
+            "bloody riots forced",
+            1
+        ],
+        [
+            "late mad dictator",
+            1
+        ],
+        [
+            "goes beyond photo",
+            1
+        ],
+        [
+            "global 2000 river",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "According to Gordon Streeb , leader of the delegation , the former US president Jimmy Carter would lead a delegation of about 60 observers to Liberia as a reflection of the importance the center attaches to the success of the country 's post-war elections .",
+                "ISLAMABAD , August 9 ( Xinhua ) -- Pakistan has been awarded by an international organization , Carter Center of the USA , for being the first Asian country to eradicate the Guinea Worm disease , the Associated Press of Pakistan ( APP ) reported on Wednesday .",
+                "In his medal citation , Clinton attached some impressive numbers to Carter 's record of service to humanity : The 115 countries Carter has visited either on missions to promote peace and human rights or to combat disease and hunger .",
+                "Founded in 1982 by former U.S. president Jimmy Carter and his wife , the Carter Center has been devoted to observing many countries in respect of democracy and development , human rights issues and public health .",
+                "Grants from the Lions Clubs International Foundation and the Conrad N. Hilton Foundation _ totaling almost $ 30 million _ will allow the Atlanta-based center to expand its existing blindness treatment and prevention programs in Africa and Latin America and start new ones .",
+                "A year after bloody riots forced President Suharto from power , more than 100 million Indonesians exercised their democratic rights in a process that , so far , seems to have been largely fair and peaceful , Carter said Tuesday night .",
+                "In the name of peace , he buddied up to Yasser Arafat ; the late mad dictator of North Korea , Kim Il-sung ; the clueless communist Ortega ; Haitian bully Raoul Cedras ; and indicted war criminal Radovan Karadzic of the Bosnian Serbs .",
+                "He 's known for work with Habitat for Humanity , which builds housing for low-income families , which goes beyond photo opportunities to honest sweat , as well as for quixotic peacemaking efforts .",
+                "Through the Global 2000 River Blindness Program in collaboration with the National and District Health Services , the center has been involved in the control of river blindness in Uganda since 1996 ."
+            ],
+            "score": 0.5954860860255191,
+            "len": 369
+        }
+    ]
+}

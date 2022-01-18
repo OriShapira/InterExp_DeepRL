@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0610_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0610",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "sulaiman teach",
+            1
+        ],
+        [
+            "court said officials",
+            1
+        ],
+        [
+            "home-schooled students outperform",
+            1
+        ],
+        [
+            "even without columbine",
+            1
+        ],
+        [
+            "transition challenging",
+            1
+        ],
+        [
+            "overburdened public schools",
+            1
+        ],
+        [
+            "give home-schooling parents",
+            1
+        ],
+        [
+            "many participating families",
+            1
+        ],
+        [
+            "base wholesale changes",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Beresford and Sulaiman teach their children at home for some of the same reasons cited by other home-schooling parents : a desire for safety , a concern about the secular nature of public schools , and a hope their children will do better with individual attention .",
+                "While not directly endorsing the home schooling movement , the court said officials need to trust that parents who choose home school over public school are capable of educating their children _ although it many be in a different way than a public school .",
+                "The HSLDA claims that , on average , home-schooled students outperform their public-school peers by more than 30 percentage points in all subjects , and that the longer a child is schooled at home the larger the test gap grows .",
+                "Even without Columbine , the number of home schoolers has increased 7 percent to 15 percent nationally in the past five years , with up to 1.6 million children home schooled in 1998 , according to National Home Education Research Institute .",
+                "Some have found the transition challenging , especially when trying to convince colleges and employers that home school is as good as high school , or when trying to get used to working in groups and socializing with peers .",
+                "Fueled by a desire to rescue their children from academic failure and neglect at the hands of overburdened public schools and determined to weave tight-knit families , more African-Americans and other minorities nationwide are deciding that when it comes to school , there 's no place like home .",
+                "Computers can give home-schooling parents expert support for college-preparatory and elective courses for children of high school age , and a large number of children taught at home in the 1980s have now reached adolescence .",
+                "In the 1990s , the number of home schoolers has tripled , and many participating families say they see home schooling as an alternative to mediocre public schools and expensive private schools .",
+                "Only about 50,000 students are in voucher programs , meaning suggestions of success are anecdotal at best and provide far too sketchy findings on which to base wholesale changes in the nation 's education system , even as troubled as it admittedly is ."
+            ],
+            "score": 0.5745836691033641,
+            "len": 377
+        }
+    ]
+}

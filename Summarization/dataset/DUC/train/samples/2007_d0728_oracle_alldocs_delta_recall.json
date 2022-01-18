@@ -1,0 +1,56 @@
+{
+    "id": "2007_d0728_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0728",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "interferon called intron",
+            1
+        ],
+        [
+            "face difficult questions",
+            1
+        ],
+        [
+            "brand name avonex",
+            1
+        ],
+        [
+            "mrs. buchanan enrolled",
+            1
+        ],
+        [
+            "best interferon produced",
+            1
+        ],
+        [
+            "flulike side effects",
+            1
+        ],
+        [
+            "unsanitary food preparation",
+            1
+        ],
+        [
+            "national institute said",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The company uses a type of interferon called Intron A , the only type approved for use with Ribavirin for treating hepatitis C. Fisher 's is selling Ribavirin for $ 225 a month and , separately , an interferon not made by Schering-Plough for $ 420 a month .",
+                "But those who test positive for the virus but have no signs of disease will face difficult questions about whether to start treatment , because it is expensive , complicated by severe side effects and , in more than half of patients , unable to eradicate the virus .",
+                "One of them , interferon beta-1a , known by the brand name Avonex , is a genetically engineered replica of a naturally occurring human protein , said the lead researcher , Dr. Lawrence Jacobs , professor of neurology at SUNY-Buffalo and head of neurology at Buffalo General Hospital .",
+                "In 1995 , when she first learned she was infected , Mrs. Buchanan enrolled in a study that provided six months of treatment with Schering-Plough 's version of the drug interferon , which eliminates the virus in 10 to 20 percent of patients .",
+                "The best interferon produced by the genes was 285,000 times as potent as interferon alpha-2b , which is marketed as a drug , as measured by its ability to protect cultured cells against a mouse virus .",
+                "While interferon alone is associated with flulike side effects , ribavirin can cause severe anemia that comes on suddenly , Hoofnagle said , and in people with cardiovascular disease that can touch off a heart attack or stroke .",
+                "Unlike hepatitis A ( transmitted through unsanitary food preparation ) and hepatitis B ( spread through blood and sexual contact ) , for which there are vaccines and effective cures , the C strain becomes chronic in 85 percent of cases .",
+                "Seeff and Dr. Jay Hoofnagle , director of the division of digestive diseases and nutrition at the national institute said they expected that many doctors would prescribe it for all hepatitis C patients , including those who have not taken interferon or who did not respond to it ."
+            ],
+            "score": 0.5813387002956243,
+            "len": 358
+        }
+    ]
+}

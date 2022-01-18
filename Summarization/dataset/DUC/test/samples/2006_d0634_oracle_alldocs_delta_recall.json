@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0634_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0634",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "rebuild wild salmon",
+            1
+        ],
+        [
+            "river salmon began",
+            1
+        ],
+        [
+            "report also comes",
+            1
+        ],
+        [
+            "douglas county public",
+            1
+        ],
+        [
+            "set new limits",
+            1
+        ],
+        [
+            "federal government set",
+            1
+        ],
+        [
+            "20-year-old barging program",
+            1
+        ],
+        [
+            "agreement also calls",
+            1
+        ],
+        [
+            "impose tough restrictions",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The Pacific Salmon Treaty , agreed to after five years of tough negotiations and years of disputes between U.S. and Canadian fishermen , revises a 1985 agreement to rebuild wild salmon runs and ensure that both sides get a fair share of the catch .",
+                "They argue that the population of the Snake River salmon began to decline after the dams were built in the 1960s and 1970s , and that while the system for trucking and barging fish downstream and helping adults back up may have helped , it is inadequate .",
+                "The report also comes at a time when residents of the Northwest and the country are already spending millions of dollars and facing potential restrictions in development in order to address other factors thought to be harming Pacific salmon , such as overfishing , dams and hatcheries .",
+                "The Chelan and Douglas County Public Utility Districts , the operators of the dams , will make up for any salmon mortality by production at hatcheries , and by an ambitious program of enhancing salmon habitat in river systems draining the east slope of the Cascades .",
+                "Then last week , following years of fruitless negotiations , the United States and Canada announced a plan to set new limits on salmon catches and establish a conservation fund to further protect the fish .",
+                "In March , acting under the Endangered Species Act , the federal government set in motion a regional plan to restore salmon runs throughout the Pacific Northwest .",
+                "The cost of the 20-year-old barging program for juvenile salmon , known as smolts , is just part of the more than $ 3 billion the government has spent over that period trying to save salmon on the Snake and Columbia Rivers .",
+                "The agreement also calls for a $ 140 million fund that would be used to buy up fishing licenses _ essentially paying some fishermen not to fish _ and to begin restoration efforts in rivers whose spawning areas have been damaged .",
+                "It will impose tough restrictions on new construction , farming and logging , and may even require the costly decommissioning of federal and private dams that impede salmon runs but have also long supplied the Pacific Northwest with cheap power ."
+            ],
+            "score": 0.6061690786867968,
+            "len": 378
+        }
+    ]
+}

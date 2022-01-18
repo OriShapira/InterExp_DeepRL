@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0731_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0731",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "woman suing clinton",
+            1
+        ],
+        [
+            "conservative legal group",
+            1
+        ],
+        [
+            "one count",
+            1
+        ],
+        [
+            "become suspicious",
+            1
+        ],
+        [
+            "even schoolgirlish electronic",
+            1
+        ],
+        [
+            "polled believe linda",
+            1
+        ],
+        [
+            "testimony nov. 19",
+            1
+        ],
+        [
+            "least partly responsible",
+            1
+        ],
+        [
+            "40 telephone conversations",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "It was Goldberg , she said , who suggested she passed her tapes to the independent prosecutor , Kenneth Starr , and Goldberg , who suggested she talk to lawyers representing Paula Jones , the woman suing Clinton for sexual harassment .",
+                "A conservative legal group , Judicial Watch , had argued for the material to be made public alleging that political pressure from the Clinton administration drove the grand jury to investigate whether Ms. Tripp broke Maryland law by recording phone conversations with former White House intern Monica Lewinsky .",
+                "Tripp is charged with one count of making a tape recording of conversation with Lewinsky on December 22 after she had been informed that it was illegal to do so in Maryland and another count of turning that tape to a Newsweek reporter .",
+                "By January of this year , she had become suspicious of Tripp , Lewinsky testified , but thought she still had a chance of persuading her to keep mum about the affair with the president in any testimony in the Jones suit .",
+                "In chatty , even schoolgirlish electronic messages , Lewinsky and Tripp shared laughs and then lunched regularly as Lewinsky came to rely on Tripp 's advice in trying to deal with the ups and downs of her relationship with Bill Clinton .",
+                "Fifty-six percent of those polled believe Linda Tripp 's main motivation in secretly taping her conversations with Ms. Monica Lewinsky was to get attention or make money through a book deal .",
+                "Four days before Linda Tripp 's first contact with Starr 's office on Jan. 12 , 1998 , Marcus spoke with Rosenzweig about the Lewinsky allegations , a contact that Starr confirmed in his testimony Nov. 19 to the House Judiciary Committee .",
+                "It was Tripp , Lewinsky told the grand jury , who was at least partly responsible that the semen-stained Gap dress was never cleaned , thus preserving genetic evidence of the sexual relationship between Clinton and Lewinsky .",
+                "Although no transcripts of her tapes or testimony were included in Monday 's document release , Tripp recorded more than 40 telephone conversations with Lewinsky , 38 times on her own and twice while cooperating with the FBI ."
+            ],
+            "score": 0.6546735803556216,
+            "len": 372
+        }
+    ]
+}

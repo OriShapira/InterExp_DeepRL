@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0740_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0740",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "ballooning expert",
+            1
+        ],
+        [
+            "international olympic committee",
+            1
+        ],
+        [
+            "breitling balloon entered",
+            1
+        ],
+        [
+            "second balloon team",
+            1
+        ],
+        [
+            "world without stop",
+            1
+        ],
+        [
+            "found better winds",
+            1
+        ],
+        [
+            "attempt last year",
+            1
+        ],
+        [
+            "final night soaring",
+            1
+        ],
+        [
+            "swiss radio international",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "For their feat , Piccard , a psychiatrist , and Jones , a ballooning expert , will be awarded a cup and a $ 1 million prize from the Anheuser-Busch Corporation , half of which will be donated to charities .",
+                "GENEVA , March 24 ( Xinhua ) -- The International Olympic Committee said Wednesday that they will award the Olympic Order to balloonists Bertrand Piccard and Brian Jones who are the first to circumnavigate the world in a balloon .",
+                "As the Breitling balloon entered its 18th day aloft , however , the two pilots were complaining of exhaustion and said they were worried that the propane used in the balloon 's burners might run out before the craft reached the finish line : 9.27 degrees west longitude .",
+                "With a second balloon team moving steadily along behind them , the British pair hope to pick up speed on the crossing to North America and in about two weeks ' time to become the first balloonists to fly nonstop around the world .",
+                "GENEVA , January 12 ( Xinhua ) -- A Swiss and a Belgium were forced to abandon their attempt to tour around the world without stop by balloon six hours after they took off from the Swiss Alpine resort of Chateau d'Oex this morning .",
+                "After some slow going in the early days of the flight , Uliassi 's balloon , the J. Renee , found better winds and at midweek was traveling at about 100 miles an hour , said Scott Lorenz , a spokesman .",
+                "Piccard , who had to abandon an attempt last year because he failed to receive permission to cross China , delayed his departure from Switzerland this year until he got Beijing 's approval .",
+                "CAIRO , Egypt _ After a final night soaring across North Africa , the first balloonists to circle the globe touched down early Sunday morning in the soft sands of southern Egypt _ and then spent hours waiting for a ride home .",
+                "The two men , Bertrand Piccard and Wim Verstraeten , were rescued by French helicopters in the Mediterranean where their balloon landed because fuel from the heating system had leaked into the cabin , according to a report by Swiss Radio International ."
+            ],
+            "score": 0.6201666395024301,
+            "len": 381
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0734_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0734",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "nih sees acupuncture",
+            1
+        ],
+        [
+            "alternative medical therapies",
+            1
+        ],
+        [
+            "american healthcare system",
+            1
+        ],
+        [
+            "health sponsored panel",
+            1
+        ],
+        [
+            "5,000-year-old chinese healing",
+            1
+        ],
+        [
+            "average , survey",
+            1
+        ],
+        [
+            "health maintenance organizations",
+            1
+        ],
+        [
+            "alternative treatments work",
+            1
+        ],
+        [
+            "dr. richard swanson",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "according to AAMA , NIH sees acupuncture applicable to treat low back pain , asthma , adult post-operative and chemotherapy nausea , post-operative dental pain , addiction , stroke rehabilitation , headache , menstrual cramps , tennis elbow , fibromyalgia , and carpal tunnel syndrome .",
+                "With 42 percent of the public now using some sort of alternative medical therapies , Weil and others have been pushing the nation 's medical schools to start requiring more medical students to learn more about such things as acupuncture , herbal therapies and hundreds of other therapies .",
+                "Acknowledging that a growing number of physicians are recognizing the effectiveness of acupuncture , the panel called for significant funding for research in all disciplines of acupuncture to see how medical acupuncture can best be integrated into the American healthcare system .",
+                "NEW YORK , November 5 ( Xinhua ) -- A U.S. National Institutes of Health sponsored panel has concluded that acupuncture merits inclusion in the comprehensive treatment for certain common conditions , and called for further research in its application .",
+                "Acupuncture , the 5,000-year-old Chinese healing practice , is used in the United States not only for preventing and treating diseases , relieving pain and anesthetizing patients for surgery , but also for face-lifts .",
+                "But , on average , survey respondents said they would be willing to spend an additional $ 15.41 a month in health insurance for complementary services such as chiropractic , massage or acupuncture .",
+                "Health maintenance organizations are starting to pay for the ancient Chinese therapy , and last week the California Legislature sent the governor a bill requiring workers ' compensation policies to cover it .",
+                "So the pressure is on the complementary-care centers to track patient outcomes and prove to insurers that alternative treatments work as well as _ or better than _ conventional treatments in managing disease and keeping costs down .",
+                "Dr. Richard Swanson , president of the American Veterinary Medical Association , said that the legitimacy of acupuncture , at least on mammals with skeletal structures similar to people 's , was beyond doubt , and that hydrotherapy and chiropractic were probably effective ."
+            ],
+            "score": 0.6164930107232821,
+            "len": 362
+        }
+    ]
+}

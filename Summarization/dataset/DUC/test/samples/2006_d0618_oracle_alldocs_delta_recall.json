@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0618_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0618",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "key features",
+            1
+        ],
+        [
+            "areas developed resistance",
+            1
+        ],
+        [
+            "pills combining atovaquone",
+            1
+        ],
+        [
+            "promote new strategies",
+            1
+        ],
+        [
+            "two important measures",
+            1
+        ],
+        [
+            "prime minister said",
+            1
+        ],
+        [
+            "malaria endemic areas",
+            1
+        ],
+        [
+            "preferably first dipped",
+            1
+        ],
+        [
+            "reaching epidemic proportions",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The key features of the implementation of the initiative will be early treatment of malaria cases , promotion of the use of insecticide-impregnated nets , prevention and strengthening of the capacities of countries and communities to combat the disease , according to the statement .",
+                "Complicating matters , preventive measures have gotten trickier and much more costly in recent years , ever since the malaria parasite in most areas developed resistance to chloroquine , the inexpensive and well-tolerated medication that had long been used to prevent and treat malaria .",
+                "Glaxo Wellcome is expecting approval of Malarone _ its name for pills combining atovaquone and proguanil _ by the Food and Drug Administration for sale in the United States as a preventive drug and as a treatment for malaria .",
+                "The recent emergence and spread of malaria resistant to chloroquine , a drug that has saved millions of lives for over five decades , further highlights the need to promote new strategies to protect vulnerable populations from infection and put our emphasis on preventative measures , he noted .",
+                "PREVENTION AND TREATMENT Since there is no vaccine against malaria , prevention depends on two important measures : taking a drug that combats the parasite prophylactically _ that is , in advance of any known infection _ and avoiding bites by the Anopheles mosquito .",
+                "Meanwhile , the Tanzanian Prime Minister said that the fight against malaria by destroying habitat of mosquitoes has to continue , adding that people need to clean their surroundings by cutting grass and shrubs around houses and destroying stationary water ponds .",
+                "NAIROBI , June 24 ( Xinhua ) -- Malaria is resurging in many countries where it has been sharply reduced or even eradicated and more than a third of the world 's total population now live in malaria endemic areas , experts say Wednesday .",
+                "Use of protective clothing and insect repellent and a mosquito net over the bed at night ( preferably first dipped in a solution of insecticide ) are important parts of malaria prevention .",
+                "Malaria , which is reaching epidemic proportions in Africa and parts of Asia , Latin America and the southern fringe of the former Soviet Union , kills about a million people a year , and children are especially vulnerable ."
+            ],
+            "score": 0.634590734042545,
+            "len": 384
+        }
+    ]
+}

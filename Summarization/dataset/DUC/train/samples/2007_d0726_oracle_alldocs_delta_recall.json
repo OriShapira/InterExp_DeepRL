@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0726_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0726",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "influential environmental group",
+            1
+        ],
+        [
+            "white house faces",
+            1
+        ],
+        [
+            "endorse al gore",
+            1
+        ],
+        [
+            "many political experts",
+            1
+        ],
+        [
+            "first formal step",
+            1
+        ],
+        [
+            "skiing vacation",
+            1
+        ],
+        [
+            "early presidential polls",
+            1
+        ],
+        [
+            "assist campaign manager",
+            1
+        ],
+        [
+            "state congressional leaders",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The Hispanic endorsements of Gore may have taken some of the sting out of the decision by Friends of the Earth , an influential environmental group , to back former Sen. Bill Bradley of New Jersey , Gore 's sole competitor for the 2000 Democratic presidential campaign .",
+                "But the vice president 's campaign for the White House faces a fresh challenge from some Democrats in Congress who want Gore to criticize the president 's conduct to help the party distinguish itself more effectively from Clinton on the hot-button issue of personal values .",
+                "SOMERSWORTH , N.H. ( AP ) -- Sen. Edward Kennedy will endorse Al Gore for president Wednesday in a move the Gore campaign hopes will help with voters in New Hampshire , next door to Kennedy 's Massachusetts , and with wavering Democrats nationwide .",
+                "In the view of many political experts , Gore will enter the 2000 campaign as the leading Democratic candidate , after a political career that spans eight years as a House member from Tennessee , eight years in the Senate and six years as vice president .",
+                "WASHINGTON _ Vice President Al Gore will take his first formal step toward running for president in 2000 by notifying the Federal Election Commission that he has formed a campaign organization , aides to the vice president said Thursday .",
+                "Gore , who was on a skiing vacation with his family in Utah , was not available for comment , and the announcement by his staff included no statement from him .",
+                "George W. Bush , the Republican leader in early presidential polls , Gore trails among women by 10 points -- 52 percent to 42 percent , according to a CNN/USA Today/Gallup poll in late May .",
+                "Stacie Spector , deputy communications director at the White House , will move over to the Gore campaign to assist campaign manager Craig Smith and be director of strategic operations , campaign sources , asking not to be identified , said Thursday .",
+                "On the eve of his 59th trip to California , Vice President Al Gore has released a list of new endorsements for his 2000 presidential bid from state congressional leaders _ including U.S. Sen. Dianne Feinstein ."
+            ],
+            "score": 0.5627575254933745,
+            "len": 374
+        }
+    ]
+}

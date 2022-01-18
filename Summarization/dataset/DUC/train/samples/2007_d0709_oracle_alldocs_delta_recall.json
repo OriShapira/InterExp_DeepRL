@@ -1,0 +1,66 @@
+{
+    "id": "2007_d0709_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0709",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "nationally televised ceremony",
+            1
+        ],
+        [
+            "new york university",
+            1
+        ],
+        [
+            "ms. wang handily",
+            1
+        ],
+        [
+            "woody allen movie",
+            1
+        ],
+        [
+            "oscar winners billy",
+            1
+        ],
+        [
+            "last 16 years",
+            1
+        ],
+        [
+            "washington comes across",
+            1
+        ],
+        [
+            "first husband",
+            1
+        ],
+        [
+            "little patience",
+            1
+        ],
+        [
+            "latest rolling stone",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The Golden Globes , selected by reporters from the Hollywood Foreign Press Association , are awarded for both film and television in a nationally televised ceremony in a hotel ballroom in what can be a much more colorful affair than the stuffy Academy Awards .",
+                "She took writing and directing classes at New York University , road the subways a lot and realized _ it did n't take too long _ that she really loved acting and that she had much more of herself to give to her profession .",
+                "Throughout the collections , designers of evening wear have pushed the idea of knits for after 8 , and Ms. Wang handily paired skirts and dresses with turtlenecks and ponchos , infusing the collection with a very American spirit .",
+                "Morton , despite having a few movies under her belt , is more of an unknown _ but she 's in a Woody Allen movie , and Allen 's movies have historically done well in this category .",
+                "LAS VEGAS ( AP ) -- Oscar winners Billy Bob Thornton and Angelina Jolie were married here in a no-frills , quickie ceremony .",
+                "In the last 16 years , 12 films that won best motion picture honors at the Golden Globes went on to take the same prize at the Oscars .",
+                "Even in action roles , Washington comes across as cerebral , and _ except for flashbacks to when his character was n't paralyzed _ that 's what you see in this film .",
+                "But Jolie , who 's first husband was actor Jonny Lee Miller , mentioned that marriage frightened her somewhat because of the split of her own parents .",
+                "To a nation with little patience for quaint remnants , he can seem an anomalous holdover of the British Empire , which much of his music appeared to embody in its doughty as in brave/valiant , or dowdy , as in unstylish ?",
+                "& UR ; - Norm Macdonald & LR ; , interviewed just before his sitcom 's debut , in the latest Rolling Stone , said that he agreed to live in Los Angeles only to be near his 6-year-old son ( he is separated from his wife ) ."
+            ],
+            "score": 0.434659347300853,
+            "len": 374
+        }
+    ]
+}

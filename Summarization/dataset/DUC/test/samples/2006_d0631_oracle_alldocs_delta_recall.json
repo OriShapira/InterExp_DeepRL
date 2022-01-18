@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0631_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0631",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "runway among debris",
+            1
+        ],
+        [
+            "mainly german tourists",
+            1
+        ],
+        [
+            "le figaro newspaper",
+            1
+        ],
+        [
+            "ever built",
+            1
+        ],
+        [
+            "needle-nosed aircraft could",
+            1
+        ],
+        [
+            "plying scheduled trans-atlantic",
+            1
+        ],
+        [
+            "identical metal band",
+            1
+        ],
+        [
+            "25 crash outside",
+            1
+        ],
+        [
+            "concorde makes far",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Three weeks ago , Continental acknowledged that a strip of metal found on the runway among debris from the plane was similar in shape to a piece missing from its DC-10 , which had been heading for New Jersey just minutes before the doomed Concorde took off .",
+                "The July 25 crash , the first in the Concorde 's 24 years of commercial service , killed all 109 people aboard , mainly German tourists , and four on the ground .",
+                "Le Figaro newspaper on Wednesday quoted Gayssot , the transport minister , as raising the possibility that the ban on Air France Concorde flights could remain in place until the Accident and Inquiry Office releases a preliminary report on the crash at the end of August .",
+                "Only 20 of the planes were ever built , and just 13 of those were still in service , seven with British Air and six with Air France , which grounded its planes immediately after the accident .",
+                "The sleek , needle-nosed aircraft could cross the Atlantic at an altitude of 60,000 feet and at 1,350 mph , completing the trip from London to New York in less than four hours -- half the time of regular jets .",
+                "The Concorde has been plying scheduled trans-Atlantic and charter routes for almost 25 years and had come to be seen as an icon of prestigious travel for executives and celebrities ready to pay up to $ 10,000 for a round-trip ticket .",
+                "The agency said that an identical metal band that is believed to have gashed a tire on the supersonic jet , causing huge chunks of rubber to pierce the plane 's fuel tanks , was reported missing by Continental .",
+                "Family members were flown in from Germany by Air France , which suspended all Concorde flights immediately after the July 25 crash outside Gonesse , a small town nine miles northeast of Paris .",
+                "But because the Concorde makes far fewer flights than most aircraft , that one crash gave it one of the worst safety records for passenger aircraft ."
+            ],
+            "score": 0.591869241838201,
+            "len": 350
+        }
+    ]
+}

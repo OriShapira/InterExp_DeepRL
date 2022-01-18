@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0716_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0716",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "kakadu natural park",
+            1
+        ],
+        [
+            "malakunanja 2 archaeological",
+            1
+        ],
+        [
+            "federal government thursday",
+            1
+        ],
+        [
+            "uranium mining project",
+            1
+        ],
+        [
+            "leading environmental pirate",
+            1
+        ],
+        [
+            "jabiluka mine _",
+            1
+        ],
+        [
+            "australian government today",
+            1
+        ],
+        [
+            "two aboriginal protesters",
+            1
+        ],
+        [
+            "green groups",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The Australian : -- The Australian government 's environmental report on the Jabiluka uranium mine ( located in Kakadu Natural Park ) , to be released Thursday , found the area is not under threat and attacked a UNESCO report that said Kakadu Natural Park was in danger .",
+                "In a submission to the U.N. team , which is investigating whether the mine threatens the environmental and cultural values of Kakadu , the council said it was particularly concerned about the Malakunanja 2 archaeological site , just 1.2 miles ( 2 kilometers ) from the mine entrance .",
+                "CANBERRA , April 15 ( Xinhua ) -- The Australian federal government Thursday rejected a UNESCO report which called for Kakadu National Park in northwest Australia to be placed on the endangered list because of the threat posed by the Jabiluka uranium mine .",
+                "Many environmentalists have been calling on the Australian government not to approve the uranium mining project adjacent to the park , but the government rejected their environmental concerns , saying jobs and export income to be generated from the mining project is important .",
+                "CANBERRA , November 29 ( Xinhua ) -- The Greens accused the Howard government 's standing on Kakadu National Park by saying it had become the world 's leading environmental pirate for its role in stopping the immediate listing of Kakadu as an endangered area .",
+                "Construction of the Jabiluka mine _ Australia 's first new uranium mine in a decade _ began in June , after a protracted legal battle with Aboriginal land owners and amid continuing environmental protest .",
+                "CANBERRA , October 8 ( Xinhua ) -- The Australian government today gave the green light to the country 's controversial uranium mining plan , arguing that it would generate billions of U.S. dollars in revenue for Australians and create 2,000 jobs .",
+                "SAN FRANCISCO ( AP ) -- Two aboriginal protesters of an Australian uranium mine and an African who has worked to protect a huge tropical rainforest were among the winners of the Goldman Environmental Prize .",
+                "The finding was hailed by traditional owners and green groups as a great victory , but Environment Minister Robert Hill blasted the report as biased and unbalanced and said the mine would go ahead , according to Australian Associated Press ."
+            ],
+            "score": 0.6394831268271914,
+            "len": 387
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0615_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0615",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "mere 10,000 years",
+            1
+        ],
+        [
+            "education , led",
+            1
+        ],
+        [
+            "widely believed",
+            1
+        ],
+        [
+            "grades 49 states",
+            1
+        ],
+        [
+            "gallup poll taken",
+            1
+        ],
+        [
+            "said keith miller",
+            1
+        ],
+        [
+            "students realize",
+            1
+        ],
+        [
+            "vote effectively made",
+            1
+        ],
+        [
+            "shawnee mission school",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Creationism holds that a divine being created humans and other species a mere 10,000 years ago , while evolutionists say scientific evidence shows that life began almost 4 billion years ago with simple organisms , from which humans and all other forms of life evolved .",
+                "Kansas last year rekindled the issue of teaching evolution in public schools when the state board of education , led by Holloway , approved science teaching standards that minimized the importance of evolution and omitted the big-bang theory of the origin of the universe .",
+                "But it also is widely believed to be the textbook of the creationists who have tried , unsuccessfully , to introduce it to schoolbook lists in Idaho , Alabama and Texas and who have sold it to local school districts in several states .",
+                "The report , commissioned by the Thomas B. Fordham Foundation and released Tuesday at the American Association for the Advancement of Science , grades 49 states and the District of Columbia on the basis of how well evolution is included in the state science education standards .",
+                "A Gallup poll taken in June for CNN and USA Today found that 68 percent of those surveyed favored teaching creationism along with evolution in public schools ; 40 percent favored dropping evolution altogether and teaching children only the biblical version of creation .",
+                "More specifically , believing that Earth is older than described in the first chapter of Genesis threatens some creationists ' understanding of the basis of their faith , said Keith Miller , an evangelical Christian and a geologist at Kansas State University .",
+                "Although most of Siemens ' students realize the theory has a place in science classrooms , there always are a few who ask to be excused from learning about evolution , saying it goes against their religious belief in creation .",
+                "The vote effectively made New Mexico the first state in recent years to take a firm stand against the teaching of creationism , which generally recognizes the Bible as the ultimate authority on how the world was formed .",
+                "In 1995 she and her brother asked the Shawnee Mission School District to use Of Pandas and People , a science textbook that puts forth intelligent design _ the idea that an intelligent being created Earth and everything in it ."
+            ],
+            "score": 0.5763338655922599,
+            "len": 390
+        }
+    ]
+}

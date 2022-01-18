@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0711_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0711",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "17 states filed",
+            1
+        ],
+        [
+            "20 states suing",
+            1
+        ],
+        [
+            "software publishers association",
+            1
+        ],
+        [
+            "justice department trustbrusters",
+            1
+        ],
+        [
+            "would sell operating",
+            1
+        ],
+        [
+            "federal judge trying",
+            1
+        ],
+        [
+            "legal document quoted",
+            1
+        ],
+        [
+            "experts said one",
+            1
+        ],
+        [
+            "marketing arrangements",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Under the schedule set by Jackson in April , the Justice Department and 17 states filed a brief with the court on April 28 asking the judge to break Microsoft into two companies as the remedy for the illegal behavior found in the long antitrust trial .",
+                "The Justice Department and 20 states suing Microsoft in the antitrust case say that this is part of a pattern of illegal practices by the software giant intended to protect and extend its tight grip on the market for personal computer software .",
+                "The Software and Information Industry Association , formerly known as the Software Publishers Association , filed a friend-of-the-court brief in February on behalf of the Justice Department , arguing that Microsoft had a monopoly in personal computer operating systems and used it to expand its market power .",
+                "1994 : July 16 _ Microsoft and Justice Department trustbrusters reach a settlement that requires the company to change a variety of business practices , including key aspects of its licensing agreements with personal computer makers .",
+                "District Court Judge Thomas Penfield Jackson has gone along with the government recommendation that the software giant be split in two , one that would sell operating systems , and another that would develop and market Microsoft 's popular Office software and Internet properties .",
+                "WASHINGTON _ The federal judge trying the Microsoft antitrust case agreed Thursday morning to delay his final ruling for about a week , giving the Justice Department time to reply to Microsoft 's proposal , filed Wednesday , to revise the government 's break up plan .",
+                "The legal document quoted in the Microsoft brief was taken from the court record of the Justice Department 's first antitrust suit against Microsoft , which was resolved in 1995 .",
+                "Several experts said one of Jackson 's legally risky decisions was his treatment of Microsoft 's Windows operating system and its Web browser as two separate products that it had illegally tied together .",
+                "At the same time , the judge ruled that Microsoft 's marketing arrangements with other companies to promote its Web browser at Netscape 's expense did not have sufficient effect to violate the law ."
+            ],
+            "score": 0.6023274127963408,
+            "len": 367
+        }
+    ]
+}

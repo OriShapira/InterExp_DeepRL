@@ -1,0 +1,66 @@
+{
+    "id": "2006_d0623_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0623",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "public place causes",
+            1
+        ],
+        [
+            "bill lists various",
+            1
+        ],
+        [
+            "gained wide support",
+            1
+        ],
+        [
+            "several researchers said",
+            1
+        ],
+        [
+            "existing anti-smoking ordinances",
+            1
+        ],
+        [
+            "local newspapers based",
+            1
+        ],
+        [
+            "enable local authorities",
+            1
+        ],
+        [
+            "areas ban smoking",
+            1
+        ],
+        [
+            "9,408 citizens found",
+            1
+        ],
+        [
+            "drastic anti-smoking bill",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Since smoking in a public place causes serious secondary smoking and has a bad impact on youngsters , China has taken the ban on smoking in public places as a key part of the ban on smoking in public places in its anti-smoking effort .",
+                "The bill lists various public places to enforce the smoking ban , including holy sites , mosques , factories , hospitals and clinics , transportation terminals , public transport , department stores , and hotels and restaurants .",
+                "The ban was passed by the Municipal People 's Congress , the local legislative body , last December , and has gained wide support , although half the adult males are still smoking , and the number of women and teenagers who puff is on the rise .",
+                "Several researchers said the next step would be a dual effort : to pass laws like the city 's in other counties , and to extend the city law to bars , both those within restaurants and free-standing ones .",
+                "Bans are in place already in several towns , but none of the existing anti-smoking ordinances are as sweeping as the one in Princeton , which would have been the strictest in the state .",
+                "Reporters from local newspapers based in Los Angeles , San Diego , San Francisco and other cities spent much time in New Year 's Day in bars which were packed with patrons to interview with smokers , non-smokers , bar owners and policemen .",
+                "The new law will enable local authorities to ban smoking in public places and to designate areas where smoking is allowed , a health spokesman of the Gauteng province was quoted as saying .",
+                "Smoking is generally prohibited in public places such as government buildings and auditoriums , and some areas ban smoking in bars and restaurants .",
+                "A recent survey of 9,408 citizens found that about 94 percent endorsed the ban , because they believe that smoking not only harms smokers ' health but also that of people nearby .",
+                "CAPE TOWN , South Africa ( AP ) _ A drastic anti-smoking bill cleared a key legislative hurdle in Parliament on Friday , paving the way for clamp downs on advertising and tobacco use at work and public places ."
+            ],
+            "score": 0.563772140322592,
+            "len": 381
+        }
+    ]
+}

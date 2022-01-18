@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0724_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0724",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "one study",
+            1
+        ],
+        [
+            "nearly 55 percent",
+            1
+        ],
+        [
+            "united states increased",
+            1
+        ],
+        [
+            "snack food",
+            1
+        ],
+        [
+            "non-smoking white men",
+            1
+        ],
+        [
+            "15 million lifelong",
+            1
+        ],
+        [
+            "weather is cooler",
+            1
+        ],
+        [
+            "georgia leading",
+            1
+        ],
+        [
+            "although u.s. fat",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "One study by the U.S. Centers for Disease Control and Prevention showed that the number of Americans considered obese -- defined as being more than 30 percent over their ideal body weight -- soared from about one in eight in 1991 to nearly one in five last year .",
+                "Nearly 55 percent of Americans are overweight , a rate much higher than Asian or European nations , says Melanie Polk , a registered dietitian with the American Institute for Cancer Research , a not-for-profit organization focusing on the link between diet and cancer .",
+                "Overall , the population of obese men and women in the United States increased from 12 percent in 1991 to 17.9 percent last year , according to the CDC survey , which said that figure might be conservative .",
+                "Growth in the marketing of fast food and snack food , as well as lack of exercise , are among the reasons Americans are taking in more calories than they burn , the editorial concluded .",
+                "Among healthy , non-smoking white men and women and black men , the researchers found a gradually increasing risk of death beginning with a BMI of 25 , which is 150 pounds for a 5-foot-5 woman and 174 pounds for a 5-foot-10 man .",
+                "Norton said her $ 15 million Lifelong Improvements in Food and Exercise ( LIFE ) Act , introduced in Congress late last year , is designed to address the 300,000 cases of preventable disease estimated to result each year from unhealthy diets and physical inactivity .",
+                "The lowest obesity rates in the nation , by comparison , were in New England and in the West , where people are more active and the weather is cooler .",
+                "In the Southeast , the obesity rate jumped 67.2 percent in that time frame , with Georgia leading the nation with a whopping increase of 101.8 percent .",
+                "Although U.S. fat intake has dropped in the last 20 years from an average of 40 percent to 33 percent of calories consumed , the average daily calorie intake has risen from 1,854 to 2,002 ."
+            ],
+            "score": 0.5051282677114105,
+            "len": 354
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0721_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0721",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "college student whose",
+            1
+        ],
+        [
+            "two drove shepard",
+            1
+        ],
+        [
+            "450 bills",
+            1
+        ],
+        [
+            "galvanized national outrage",
+            1
+        ],
+        [
+            "debree recalled",
+            1
+        ],
+        [
+            "attorney said monday",
+            1
+        ],
+        [
+            "day matthew died",
+            1
+        ],
+        [
+            "defense designed",
+            1
+        ],
+        [
+            "legislation would add",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "WASHINGTON _ Flanked by Republican lawmakers , the father of Matthew Shepard , a college student whose beating death stemmed from the fact that he was a homosexual , urged Congress Monday to adopt legislation that would extend federal hate-crime protection to gays and lesbians .",
+                "Rerucha presented a chronology for the night of Oct. 6 , 1998 , from the Fireside Lounge , where McKinney and Henderson encountered Shepard , to the beatings , which began as the two drove Shepard around town and continued at the fence .",
+                "Prompted in part by the murder of Matthew Shepard in Laramie , Wyo. , last year , more than 450 bills have been introduced in legislatures around the country this year on issues important to gays and lesbians .",
+                "_ In a case that galvanized national outrage over anti-homosexual violence , a 21-year-old roofer pleaded guilty on Monday to kidnapping and murdering a gay college student and was sentenced to serve two consecutive life sentences .",
+                "In that interview , Debree recalled , McKinney said he and Henderson had identified Shepard as a robbery target and had then lured him out of a Laramie bar and into their truck by pretending to be gay .",
+                "( AP ) -- Gay college student Matthew Shepard was pummeled to death by Aaron McKinney in a drunken , drug-induced rage after Shepard made a pass at him , McKinney 's attorney said Monday as his trial began .",
+                "What remains as certain now as on Oct. 12 , the day Matthew died , is that this murder happened against the backdrop of a campaign in which the far right , abetted by political leaders like Trent Lott , was demonizing gay people as sick and sinful .",
+                "But in mounting a defense designed to bring a prison term , rather than execution , Tangeman argued that McKinney 's past , as well as his poor judgment , led him to drug addiction and alcohol abuse .",
+                "The legislation would add offenses motivated by sexual orientation , sex or disability to the list of hate crimes already covered under a 1968 federal law ."
+            ],
+            "score": 0.5880808463491791,
+            "len": 361
+        }
+    ]
+}

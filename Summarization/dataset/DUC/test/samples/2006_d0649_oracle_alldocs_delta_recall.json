@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0649_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0649",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "name prime minister",
+            1
+        ],
+        [
+            "foreign intelligence wing",
+            1
+        ],
+        [
+            "october 7",
+            1
+        ],
+        [
+            "second military campaign",
+            1
+        ],
+        [
+            "main successor agency",
+            1
+        ],
+        [
+            "11 months away",
+            1
+        ],
+        [
+            "vladimir putin returned",
+            1
+        ],
+        [
+            "began working",
+            1
+        ],
+        [
+            "falling living standards",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "MOSCOW , December 31 ( Xinhua ) -- Russian President Boris Yeltsin 's announcement Friday to resign and name Prime Minister Vladimir Putin as acting president has surprised the nation and many say the move will further boost Putin 's chance of winning the presidential race .",
+                "After graduating from Leningrad State University in 1975 with a degree in law , Putin served in the KGB 's foreign intelligence wing , where he spent long tours of duty in Germany .",
+                "Putin , who was born on October 7 , 1952 in Leningrad ( now St. Petersburg ) , was elected in the March 26 presidential election with a vote of about 53 percent .",
+                "After the outbreak of the second military campaign in Chechnya , the state disbursed , as a matter of urgency , an extra 4 billion rubles for arms procurement programs and immediately raised the question of increasing the share of defense spending in the 2000 budget .",
+                "Prior to his nomination , Putin was director of the Federal Security Service , the main successor agency to the feared Soviet KGB , where he served for 15 years as an agent .",
+                "Almost immediately , Putin announced his candidacy for presidential elections that are 11 months away , saying he had not been planning to run but was accustomed to obeying orders and would seek Russia 's top office if that was Yeltsin 's wish .",
+                "MOSCOW , April 19 ( Xinhua ) -- Russian President-elect Vladimir Putin returned to Moscow early Wednesday after a three-day working visit to Belarus , Britain and Ukraine , a visit that showed Moscow 's foreign policy priorities on ties with the CIS countries and the West .",
+                "In 1990 he began working in St. Petersburg 's local government as an aide to Anatoly Sobchak , that city 's mayor from 1991 until 1996 .",
+                "Putin owes his popularity largely to tough handling of the war in Chechnya and promises to restore Russia to its past glory after a decade of failed reforms , falling living standards and widespread official corruption ."
+            ],
+            "score": 0.63586941830589,
+            "len": 352
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0630_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0630",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "many beloved independents",
+            1
+        ],
+        [
+            "first national marketing",
+            1
+        ],
+        [
+            "shared little beyond",
+            1
+        ],
+        [
+            "adult trade books",
+            1
+        ],
+        [
+            "on-line giant amazon.com",
+            1
+        ],
+        [
+            "online stores captured",
+            1
+        ],
+        [
+            "biggest book distributor",
+            1
+        ],
+        [
+            "restive independent booksellers",
+            1
+        ],
+        [
+            "new york-based authors",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "In six years , independent booksellers have gone from selling one-third of the books in this country to half that percentage and many beloved independents have closed , including the recent demise of the Printers Inc. bookstore in Palo Alto , Calif .",
+                "The booksellers ' association , based in Tarrytown , N.Y. , will begin its first national marketing campaign in May for the Book Sense brand , which in some ways is inspired by the example of the independent hardware stores that promote themselves under the True Value label .",
+                "In their two-decades war against chain stores and , more recently , online booksellers , they have shared little beyond common enemies _ Barnes & AMP ; Noble , Borders , Amazon , the price clubs _ and a will to survive .",
+                "The unit sales of adult trade books are projected to grow more than 2 percent annually through the year 2003 _ an indication that online sales are not expected to increase the market for popular books .",
+                "Battered by chain stores and the on-line giant Amazon.com , one out of every three of New England 's independent booksellers has created sophisticated yet quirky Web sites in the past two years in an effort to lure patrons and keep their doors open .",
+                "For the first time that electronic commerce was measured as a category , online stores captured 2 percent of the book market while independent booksellers continued to lose share , which declined less than one percentage point , to 16.6 percent .",
+                "NEW YORK ( AP ) -- Barnes & AMP ; Noble , the world 's largest bookstore chain , called off its $ 600 million purchase of the world 's biggest book distributor Wednesday because of opposition from antitrust regulators .",
+                "Worried that they will be left by the wayside , restive independent booksellers fret that a wholesaler owned by Barnes & AMP ; Noble could be manipulated to reduce service to them or to tap into their records .",
+                "The American Booksellers Association , along with Amazon.com , the New York-based Authors Guild , and others had filed papers with the Federal Trade Commission urging it to intervene and block the deal ."
+            ],
+            "score": 0.5748909902505797,
+            "len": 373
+        }
+    ]
+}

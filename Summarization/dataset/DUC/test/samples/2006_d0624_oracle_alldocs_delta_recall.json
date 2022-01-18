@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0624_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0624",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "report was commissioned",
+            1
+        ],
+        [
+            "guarded welcome",
+            1
+        ],
+        [
+            "frustration among blacks",
+            1
+        ],
+        [
+            "investigate adequately prompted",
+            1
+        ],
+        [
+            "wales thursday launched",
+            1
+        ],
+        [
+            "laws making racial",
+            1
+        ],
+        [
+            "prime suspects",
+            1
+        ],
+        [
+            "enraged crowd tuesday",
+            1
+        ],
+        [
+            "optional material follows",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The report was commissioned to investigate the police handling of the inquiry into the death of 18-year-old Stephen Lawrence who was fatally stabbed by white youths at a bus stop in south-east London in 1993 .",
+                "Lawrence 's parents , Neville and Doreen Lawrence , who are natives of Jamaica , gave the report a guarded welcome , though they said they were disappointed it had not called for the prosecution of five suspects in their son 's murder for perjury .",
+                "Lawrence 's death and the bungled police investigation that failed to bring his killers to justice generated an extraordinary level of anger and frustration among blacks that last year , after more than five years of pressure , finally moved the government to conduct a formal inquiry .",
+                "The brutal murder of Stephen Lawrence , 18 , by a gang of white youths and the failure of the police to investigate adequately prompted a national debate on racism and how police handle such crimes .",
+                "LONDON , September 7 ( Xinhua ) -- The Prince of Wales Thursday launched a scholarship to try to open up architecture to the ethnic minorities , in memory of the murdered black teenager Stephen Lawrence .",
+                "Home Secretary Jack Straw , the Cabinet minister in charge of the police , announced that laws making racial discrimination an offense will be broadened to include the police and all government departments .",
+                "The case against the prime suspects has never been officially prosecuted , though they were tried and acquitted when lawyers acting for Stephen 's parents instituted what is known in Britain as a private prosecution against them .",
+                "The Independent : -- The five men suspected of killing Stephen Lawrence were thumped and pelted with bottles by an enraged crowd Tuesday after a day of evasive and implausible evidence that made a mockery of their appearance before the public inquiry .",
+                "OPTIONAL MATERIAL FOLLOWS ) nn That there may be racism in the Metropolitan Police hardly seems surprising in a city where 20 percent of the population , but only 2.3 percent of the police force , is made up of people from minority groups ."
+            ],
+            "score": 0.601764012306341,
+            "len": 364
+        }
+    ]
+}

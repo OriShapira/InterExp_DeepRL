@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0714_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0714",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "loyal fans say",
+            1
+        ],
+        [
+            "metallica alleged yale",
+            1
+        ],
+        [
+            "included napster supplying",
+            1
+        ],
+        [
+            "filed separate civil",
+            1
+        ],
+        [
+            "lars ulrich plans",
+            1
+        ],
+        [
+            "federal judge wednesday",
+            1
+        ],
+        [
+            "several small institutions",
+            1
+        ],
+        [
+            "repeating statements made",
+            1
+        ],
+        [
+            "ordering napster inc.",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Napster 's loyal fans say the program helps promote new music and new artists , but the recording industry and two artists , Metallica and Dr. Dre , sued Napster , claiming the program is nothing but a tool for music piracy .",
+                "In their lawsuit , Metallica alleged Yale , the University of Southern California and Indiana University allowed free trade of copyrighted songs to flourish by failing to block access to the Napster sharing program , thereby violating the federal Racketeering Influenced and Corrupt Organizations Act .",
+                "The solution called for the Recording Industry Association of America to drop its civil suit against Napster in exchange for a cooperative agreement with the software company that included Napster supplying demographic data on its users to the RIAA .",
+                "Metallica and rap artist Dr. Dre have filed separate civil suits claiming the software violates copyright laws , but Napster says it is legally protected under a provision of the federal Digital Millennium Copyright Act because it has no control over its users ' actions .",
+                "SAN FRANCISCO _ Metallica drummer Lars Ulrich plans to visit Napster Inc. on Wednesday to deliver a gift : a list of 335,435 Napster users who the heavy metal band claims has offered illegal copies of Metallica songs on the Internet .",
+                "SAN FRANCISCO _ In a major victory for the recording industry , a federal judge Wednesday ordered the Napster online music service to stop permitting the exchange of copyrighted music owned by the major music labels .",
+                "Several small institutions , including Amherst and Smith colleges , are blocking Napster on their computer networks this fall because so many people on campus were clogging up the Internet systems as they downloaded music from Napster 's huge catalog of recordings .",
+                "Repeating statements made by band members Tuesday during an interview broadcast over the Internet , Howard King , the band 's lawyer , said the band did not intend to bring any of the computer users into its previously filed lawsuit against Napster for copyright infringement .",
+                "He was online , of course , when he electronically got the news from cnn.com that a federal judge was ordering Napster Inc. to shut down its Web site that has spawned millions of music trades on the Internet ."
+            ],
+            "score": 0.6294498994293356,
+            "len": 384
+        }
+    ]
+}

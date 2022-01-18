@@ -1,0 +1,18 @@
+{
+    "auc_norm_ppf_full": 0.16882764027513059,
+    "auc_norm_ppf_noInitial": 0.241310105521166,
+    "mean_kp_score_ppf": 0.004050633587330444,
+    "auc_norm_overlap_full": 14.190623309973727,
+    "auc_norm_overlap_noInitial": 20.81745163767115,
+    "mean_kp_score_overlap": 0.2824329183025152,
+    "auc_norm_tfidf_full": 1.5021337549043394,
+    "auc_norm_tfidf_noInitial": 2.039956018934545,
+    "mean_kp_score_tfidf": 0.023200328034152687,
+    "auc_norm_tf_full": 0.1285968988752067,
+    "auc_norm_tf_noInitial": 0.19478436943550587,
+    "mean_kp_score_tf": 0.0038143387097671756,
+    "num_kps_mean_full": 55.693333333333335,
+    "num_kps_mean_noInitial": 20.0,
+    "kps_tokens_len_mean_full": 100.88,
+    "kps_tokens_len_mean_noInitial": 35.06
+}

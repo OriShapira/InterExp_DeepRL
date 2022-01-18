@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0703_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0703",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "european parliament",
+            1
+        ],
+        [
+            "ministers ruled",
+            1
+        ],
+        [
+            "single-currency plan",
+            1
+        ],
+        [
+            "new economic zone",
+            1
+        ],
+        [
+            "expanded investment opportunities",
+            1
+        ],
+        [
+            "euro bank notes",
+            1
+        ],
+        [
+            "put 70 billion",
+            1
+        ],
+        [
+            "two banks",
+            1
+        ],
+        [
+            "proposed european single",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Both the European Parliament and the European council of economy and finance ministers have approved the recommendation of the European Commission that Belgium , Germany , Spain , France , Ireland , Italy , Luxembourg , the Netherlands , Austria , Portugal and Finland be the founding countries .",
+                "The ministers ruled that San Marino , the Vatican and Monaco will be entitled to use the euro as their official currency , but they will not be allowed to issue any banknotes or coins unless they agreed to conditions imposed by the EU .",
+                "European Union 's single-currency plan will take effect in 11 of its member states on January 1 , 1999 , when the euro will become a currency in the financial sense , but will first be used only in cashless tradings .",
+                "Duisenberg emphasized that the priority of the new economic zone is price stability , adding that the bank does not plan to encourage the euro 's use as an investment or transaction currency , or to use it as an instrument of foreign policy .",
+                "BONN , April 20 ( Xinhua ) -- Private investors are set to benefit from the 1999 introduction of the single European currency , the euro , thanks to expanded investment opportunities , reduced currency risks , and rising competitions , the German central bank Bundesbank said Monday .",
+                "Euro bank notes and coins will become legal tender on January 1 , 2002 while national currencies of the euro founder countries stop circulating completely by July 1 , 2002 .",
+                "Once confirmed by Saturday 's summit of European heads of state and government , the 11 euro countries will have to prepare to put 70 billion euro into circulation while pool another 50 billion euro in the reserve to make the new money impregnable against speculators .",
+                "The two banks ' announcement to offer an unofficial market in the new single currency before it effectively comes into existence shows a strong sign that the financial markets have fully accepted the launch of the euro .",
+                "SOFIA , October 22 ( Xinhua ) -- Bulgaria has been working to link its currency , the lev , with the proposed European single currency , the euro , in a bid to speed up the country 's financial integration into the European economy ."
+            ],
+            "score": 0.5673807434147945,
+            "len": 392
+        }
+    ]
+}

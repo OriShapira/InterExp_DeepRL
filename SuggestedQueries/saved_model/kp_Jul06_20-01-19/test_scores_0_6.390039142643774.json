@@ -1,0 +1,9 @@
+{
+  "auc_norm_overlap": 6.390039142643774,
+  "mean_kp_score_overlap": 0.16913329808958133,
+  "auc_norm_tfidf": 0.7775783371859041,
+  "mean_kp_score_tfidf": 0.018886250577598174,
+  "summ_len_full": 74.48,
+  "num_KPs_full": 20.0,
+  "reward": 6.390039142643774
+}

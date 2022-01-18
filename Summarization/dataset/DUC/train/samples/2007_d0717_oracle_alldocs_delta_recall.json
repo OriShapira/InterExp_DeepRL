@@ -1,0 +1,56 @@
+{
+    "id": "2007_d0717_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0717",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "future medical examinations",
+            1
+        ],
+        [
+            "verdict yet",
+            1
+        ],
+        [
+            "deliberately downplaying",
+            1
+        ],
+        [
+            "woman who blamed",
+            1
+        ],
+        [
+            "first fen-phen wrongful",
+            1
+        ],
+        [
+            "products corp. agreed",
+            1
+        ],
+        [
+            "former alvarado resident",
+            1
+        ],
+        [
+            "popular fen-phen diet",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The company has proposed a national settlement in which it would pay $ 1.2 billion for future medical examinations for healthy users of the drug , and an additional $ 2.8 billion to settle individual suits from people who claim the drug has harmed them .",
+                "In the only verdict yet to be rendered in any fen-phen lawsuit , Debbie Lovett , 36 , of Grand Saline , Texas was awarded $ 23.3 million in July by a jury for heart damage she suffered after taking fen-phen for more than three months .",
+                "American Home is accused of deliberately downplaying the risks of the two fen drugs , both of which were removed from the market in September 1997 by the U.S. Food and Drug Administration after they were linked to heart valve problems , a condition Smith did not have .",
+                "CANTON , Texas ( AP ) -- A Texas woman who blamed the diet drug combination fen-phen for her heart damage has agreed to settle a lawsuit against the manufacturer for a fraction of the $ 23.3 million a jury awarded her .",
+                "HOUSTON _ The nation 's first fen-phen wrongful death trial ended in Harris County state district court Tuesday with a reported settlement of $ 6 million to $ 7 million , and most jurors said afterward they would not have awarded the plaintiffs any money at all .",
+                "American Home Products Corp. agreed late Tuesday to pay $ 350 million to settle 1,400 injury cases brought in Mississippi over its diet drug combination fen-phen , a liability that could endanger the company 's proposed $ 70 billion merger with Warner-Lambert .",
+                "Ms. Moore , a former Alvarado resident who now lives in Missoula , Mont. , claims she was n't warned about the risks of taking fenfluramine , marketed by Wyeth-Ayerst as Pondimin , or dexfenfluramine , a similar drug sold by the company as Redux .",
+                "NEW YORK ( AP ) -- American Home Products has agreed to pay $ 3.75 billion to settle thousands of lawsuits filed nationwide by people claiming health problems due to the company 's once popular fen-phen diet drug combination , the company announced today ."
+            ],
+            "score": 0.6045430302572138,
+            "len": 368
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "id": "2006_d0621_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0621",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "past two weeks",
+            1
+        ],
+        [
+            "said criminal rates",
+            1
+        ],
+        [
+            "kong gangster cheung",
+            1
+        ],
+        [
+            "illegal chinese immigrant",
+            1
+        ],
+        [
+            "senior chinese official",
+            1
+        ],
+        [
+            "criminal law recently",
+            1
+        ],
+        [
+            "make greater effort",
+            1
+        ],
+        [
+            "portuguese officials preparing",
+            1
+        ],
+        [
+            "china clemency pleas",
+            1
+        ],
+        [
+            "december 9",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "Over the past two weeks , 80 percent of the criminal cases cracked in east China 's Shandong Province , in fact , were the result of tips provided by citizens , and 45 percent of the criminal arrests came about because of help from the people .",
+                "They said criminal rates are rising ; the problems of murder , robbery , explosion , thefts are prominent ; prostitution , gambling and drug-related social vices persist despite repeated police raids ; gang crimes , juvenile delinquency , and felonies perpetrated by migrants are sharply increasing .",
+                "The lack of such an agreement was highlighted in the case of Hong Kong gangster Cheung Tze-Keung , who was convicted this month by a mainland court in a string of crimes and sentenced to death along with four accomplices .",
+                "On Saturday the police arrested an illegal Chinese immigrant surnamed Ho , suspected of kidnapping and extortion allegedly committed between 1995 and 1996 , and a Thai national working as a bouncer in the Heavy Club discotheque , which is reportedly owned by Wan .",
+                "VIENNA , April 30 ( Xinhua ) -- China is ready to strengthen cooperation with other countries and international organizations in combating and preventing organized transnational crime , a senior Chinese official said here today .",
+                "Zhang said that China amended its Criminal Law recently to enhance the fight against organized crime , money-laundering , terrorist crime , trafficking of illegal immigrants and environment-related crimes .",
+                "According to the report , the government will make greater effort to crack down on corruption , smuggling and other economic crimes as well as criminal acts in the new year .",
+                "The violence is believed to be part of gang warfare over payoffs from Macau 's legal casinos and has strained relations between Chinese and Portuguese officials preparing for China 's takeover of the colony on Dec. 20 , 1999 .",
+                "The Hong Kong government has said it was forwarding to China clemency pleas for Cheung and one of his gang members on behalf of their families .",
+                "FOSHAN , December 9 ( Xinhua ) -- Members of a criminal gang in Foshan City of south China 's Guangdong Province , which was controlled by a larger and more notorious gang in neighboring Macao , have been apprehended by local police ."
+            ],
+            "score": 0.6128791011153834,
+            "len": 391
+        }
+    ]
+}

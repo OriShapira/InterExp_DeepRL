@@ -1,0 +1,61 @@
+{
+    "id": "2006_d0636_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0636",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "tentative agreements reached",
+            1
+        ],
+        [
+            "gm contracts guaranteed",
+            1
+        ],
+        [
+            "delphi east spark",
+            1
+        ],
+        [
+            "parts factories piecemeal",
+            1
+        ],
+        [
+            "transferring production south",
+            1
+        ],
+        [
+            "visteon plants would",
+            1
+        ],
+        [
+            "health care costs",
+            1
+        ],
+        [
+            "aging american factories",
+            1
+        ],
+        [
+            "negotiators worked steadily",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The tentative agreements reached Tuesday between the UAW , GM and its former parts division Delphi Automotive Systems provide 185,000 workers with 3 percent pay raises each year for four years and a signing bonus of $ 1,350 , a source close to the talks said .",
+                "Such a settlement could have major implications for GM In previous spinoffs of smaller subsidiaries by Ford and GM contracts guaranteed that workers in the subsidiary could retire within the next few years with full pensions and health benefits from the automaker , not the subsidiary .",
+                "At the Delphi East spark plug and speedometer factory , the other plant on strike here , the two sides were still at an impasse over GM 's plan to send work to outside sources , a move that the union contended would cut at least 2,500 jobs .",
+                "Ford and Chrysler have to pay the same wages to assembly workers and parts workers , but they disposed of many of their parts factories piecemeal in the late 1970s and early 1980s , when their survival was in doubt .",
+                "GM says that transferring production south has enabled it to cut costs in labor-intensive assembly production , compete more effectively against Ford , Chrysler and Japanese automakers , and also to keep engineering and other operations in the United States .",
+                "Wade McCaleb , secretary-treasurer of Local 1895 , said workers at Visteon plants would remain Ford employees , while any new employees at Visteon will be covered by an agreement between the new company and the UAW that mirrors the one the union has with Ford .",
+                "Job security , health care costs , overtime demands and the assignment of work to outside suppliers are among the top issues in this year 's talks , as they were during the last round in 1996 .",
+                "The UAW is accusing the General Motors Corp. of spending billions of dollars on factories in developing countries while failing to invest in aging American factories .",
+                "FLINT , Mich. _ Negotiators worked steadily Wednesday to resolve a monthlong strike at General Motors auto parts factories here , but more signs emerged that any deal would address local disputes and might not produce big improvements in GM 's competitiveness ."
+            ],
+            "score": 0.6127985031748275,
+            "len": 380
+        }
+    ]
+}

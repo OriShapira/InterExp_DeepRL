@@ -1,0 +1,61 @@
+{
+    "id": "2007_d0720_oracle_alldocs_delta_recall",
+    "topic_id": "2007_d0720",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "tackle include",
+            1
+        ],
+        [
+            "bank territories would",
+            1
+        ],
+        [
+            "secret talks held",
+            1
+        ],
+        [
+            "pna could enter",
+            1
+        ],
+        [
+            "sharm el sheikh",
+            1
+        ],
+        [
+            "deadly suicide bombings",
+            1
+        ],
+        [
+            "pull back",
+            1
+        ],
+        [
+            "provide security guarantee",
+            1
+        ],
+        [
+            "build jewish settlements",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "The final-status issues that the two sides have to tackle include the status of Jerusalem , the borders of the Palestinian entity , the fate of Palestinian refugees , the future of Jewish settlements in the West Bank and Gaza Strip and water .",
+                "It is still unclear how many of the West Bank territories would be included in the third withdrawal , despite press reports that Israeli Prime Minister Ehud Barak is ready to hand over 90 percent of the West Bank to the Palestinians in a final peace agreement .",
+                "Following months of secret talks held in Oslo , the Israeli and Palestinian negotiators reached agreement on August 20 of 1993 on principles of Palestinian self-rule , widely-known later as the Oslo Accords which started the Israeli-Palestinian peace process .",
+                "Referring to the final-status talks as initiated by Israel , he said how the PNA could enter into such talks with the Israeli government which refused to redeploy its troops in the West Bank and commit to its obligations as specified by the signed accords .",
+                "Under the Sharm El Sheikh peace deal signed last September in Egypt , the two sides have to reach a framework agreement on final- status by February 15 and a final-status peace accord by September 13 , 2000 .",
+                "Following a series of deadly suicide bombings sponsored by Hamas against Israel in early 1996 and the current Likud government came to power in the middle of that year , the peace process began to falter .",
+                "Under the Oslo accords , the Israeli army is to pull back from about 80 percent of Hebron , leaving all Arab neighborhoods of the town under the full control of the PNA , designated Zone A .",
+                "Speaking at a news conference here after returning from 11-day stay in the U.S. for negotiations , Netanyahu said his deal did provide security guarantee for Israel while being required to relinquish lands to the Palestinians .",
+                "In line with this policy , Israel began to build Jewish settlements , abolishing the former Labor government 's policy of freezing their establishment , and delayed the redeployment in the West Bank ."
+            ],
+            "score": 0.6220907608034474,
+            "len": 363
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "id": "2006_d0605_oracle_alldocs_delta_recall",
+    "topic_id": "2006_d0605",
+    "method": "oracle_alldocs_delta_recall",
+    "initial_summary_sentence_ids": [],
+    "queries": [
+        [
+            "cause potentially dangerous",
+            1
+        ],
+        [
+            "joints usually linked",
+            1
+        ],
+        [
+            "vast conglomeration",
+            1
+        ],
+        [
+            "weight-bearing joints including",
+            1
+        ],
+        [
+            "new cox-2 inhibitors",
+            1
+        ],
+        [
+            "relieve arthritis",
+            1
+        ],
+        [
+            "relied mostly",
+            1
+        ],
+        [
+            "two new injectable",
+            1
+        ],
+        [
+            "common conventional arthritis",
+            1
+        ],
+        [
+            "severe menstrual pain",
+            1
+        ]
+    ],
+    "oracle_summary": [
+        {
+            "summary_sents": [
+                "To relieve both pain and inflammation , the standard recommendation has been non-steroidal anti-inflammatories ( NSAIDs ) , but chronic use of NSAIDs such as ibuprofen and naproxen can erode the stomach lining and cause potentially dangerous bleeding .",
+                "Celebrex is also approved for osteoarthritis , which is the wear and tear of joints usually linked with aging , as well as for rheumatoid arthritis , in which the body 's immune system backfires to cause pain and inflammation .",
+                "Alternative medicine is such a vast conglomeration of practices , ranging from the use of vitamins and herbs , to meditation , massage , movement therapy and acupuncture , that even its practitioners can not agree on what to call it .",
+                "It involves the breakdown of cartilage and bones through wear-and-tear injuries , and is most often found in the fingers and weight-bearing joints including the knees , feet , hips and back .",
+                "The new cox-2 inhibitors celecoxib ( Celebrex ) and rofecoxib ( Vioxx ) appear to avoid this problem entirely while maintaining equal efficacy against osteoarthritis pain and inflammation , according to two studies published last week in the Journal of the American Medical Association .",
+                "In the meantime , here are a few products that have not been proven to relieve arthritis _ though some have benefits for other conditions : _ Copper bracelets : There 's no scientific evidence to back up copper 's antiarthritis claims .",
+                "Until now , these patients and others in chronic pain have relied mostly on nonsteroidal anti-inflammatory drugs , or NSAIDs , sold over-the-counter or at prescription strength under brand names such as Advil , Daypro , Lodine and Naprosyn .",
+                "Two new injectable drugs , hyaluronan ( Hyalgan ) and hylan G-F20 ( Synvisk ) , also are effective for osteoarthritis of the knee .",
+                "While some of the most common conventional arthritis treatments -- aspirin , acetaminophen and ibuprofen -- can cause gastrointestinal bleeding or liver damage , none of the studies showed significant side effects .",
+                "Vioxx was as effective as prescription-strength Aleve , an aspirin-type drug , in treating moderate to severe menstrual pain , according to a Merck study of 127 women being presented at the American Society of Clinical Pharmacology and Therapeutics in San Antonio , Texas ."
+            ],
+            "score": 0.5809990448620996,
+            "len": 386
+        }
+    ]
+}
