@@ -3,7 +3,7 @@
 A deep RL based solution for the [interactive expansion-based summarization task](https://aclanthology.org/2021.naacl-main.54.pdf).
 Two subtasks are addressed: query-assisted summarization and suggested-queries extraction. Each subtask has an implemented model here.
 
-Resources for the paper: [Interactive Query-Assisted Summarization via Deep Reinforcement Learning](https://todo)
+Resources for the paper: [Interactive Query-Assisted Summarization via Deep Reinforcement Learning](https://aclanthology.org/2022.naacl-main.184.pdf)
 
 Our deep RL models are based on the [RL-MMR system](https://aclanthology.org/2020.emnlp-main.136.pdf), borrowing code from their [repository](https://github.com/morningmoni/RL-MMR).
 
@@ -68,5 +68,16 @@ Here there are collected sessions:
 ## Citation
 If any resource from this repository is used, please cite:
 ```
-TODO
+@inproceedings{shapira-etal-2022-interactive,
+    title = "Interactive Query-Assisted Summarization via Deep Reinforcement Learning",
+    author = "Shapira, Ori  and Pasunuru, Ramakanth and Bansal, Mohit and Dagan, Ido and Amsterdamer, Yael",
+    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.naacl-main.184",
+    doi = "10.18653/v1/2022.naacl-main.184",
+    pages = "2551--2568",
+}
 ```
